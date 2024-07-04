@@ -1,0 +1,1708 @@
+,id,reasoning skill,capability,true answer,miniGPTvicuna7B answer extracted,miniGPTvicuna7B answer raw,match?
+0,v1_0,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],"❓ What choice (A, B, C, or D) should be in place of the question mark that fits the pattern?
+
+A, B, C, and D are all possibilities for what could fit into the pattern. It is not possible to determine which one fits best without knowing the context or the purpose of the pattern.",0
+1,v1_1,['inductive'],['diagram'],"['a', 'c']","['a', 'b', 'c', 'd']","A, B, C, and D belong to the green category.
+
+This image shows four different choices in the shape of squares, each with a different color. The choices are arranged in a grid pattern with the green squares located on the left side of the grid, and the other colors located on the right side. Each square is labeled with a letter, with the green squares labeled with the letter ""A"". The other squares are labeled with the letters ""B"", ""C"", and ""D"".
+
+One of the squares, number 3, has been circled in green. This suggests that this square is one of the correct choices for the green category. Therefore, the correct answers are A, B, C, and D.
+
+The green category represents a set of things that have something in common. In this case, the green squares represent things that are all the same color (green). The other squares represent different colors or shapes.
+
+Overall, the image shows that the green category includes the four squares that are all the same color (green). The other categories include squares that are different colors or shapes.",0
+2,v1_2,['inductive'],['diagram'],"['b', 'd']","['b', 'c']","​
+
+B and C complete the diagrams at the bottom of the page. Diagram A shows that there are three animals in a forest, but it does not specify which ones are black or white. Diagram B shows that there are two black dogs and one white cat in a park. Diagram C shows that there are four black cats and three white dogs in a house. Diagram D shows that there is one white dog and two black cats on a lawn.",0
+3,v1_3,['inductive'],['diagram'],['d'],['c'],"© Copyright 2023 by Cactus Computing, LLC. All rights reserved.",0
+4,v1_4,['inductive'],['diagram'],['g'],['c'],The odd-one-out is C. All other choices have a missing number in them.,0
+5,v1_5,['inductive'],"['diagram', 'ocr']","['b', 'd']","['c', 'd']","​
+
+There are two options that follow the same rule: C and D. Both options have four options, each with a different color and number of triangles (three for option C and four for option D). These options also have one common feature - they both contain two rows of three symbols each.",0
+6,v1_6,['inductive'],['diagram'],['b'],"['a', 'b', 'c', 'd']","▴ B, ▴ C, ▴ A, ▴ D
+
+The image shows a grid of squares with two rows and two columns. In the first row, there are three squares, each with a blue triangle in the center. The second row has one square with a red star in the center. The third row has one square with a yellow circle in the center. The fourth row has one square with a green square in the center.
+
+Based on the image, it can be concluded that the sequence is: ▴ B, ▴ C, ▴ A, ▴ D.",0
+7,v1_7,['inductive'],['diagram'],['e'],['zzzzz'],"This is an image of a group of 12 boxes with different numbers on each box.
+
+ The question marks represent the boxes that have been selected by the user.
+
+ Each number corresponds to one of the options: A, B, C, D, E or F. The selected option will be revealed when a number is placed in the corresponding box.
+
+ For example, if the user selects option B, it will be revealed when the number 3 is placed in the second box. If the user selects option C, it will be revealed when the number 5 is placed in the third box.
+
+ The goal of the game is to match the selected numbers to the correct boxes. The game continues until all numbers have been matched correctly.",0
+8,v1_8,['inductive'],['diagram'],['a'],"['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']","1. A
+2. B
+3. C
+4. D
+5. E
+6. F
+7. G
+8. H
+9. I
+10. J",0
+9,v1_9,['inductive'],['diagram'],['c'],['zzzzz'],​,0
+10,v1_10,['inductive'],['diagram'],['e'],['zzzzz'],"1, 3, 5, 7, and 9.",0
+11,v1_11,['inductive'],['diagram'],['e'],['d'],"The sequence of shapes in the image is as follows:
+
+* Shape 1
+* Shape 2
+* Shape 3
+* Shape 4
+* Shape 5
+
+The correct answer is D.
+
+Note that the sequence shows a series of triangular shapes arranged in a specific order, with the largest shape at the top and the smallest at the bottom. Each shape is made up of smaller triangles, and the angles formed by the triangles change with each step down the sequence. For example, the first shape has three equal triangles at the top and one at the bottom, while the last shape has one large triangle at the top and one small triangle at the bottom.",0
+12,v1_12,['inductive'],['diagram'],['b'],['b'],1. B,1
+13,v1_13,['inductive'],['diagram'],['d'],['zzzzz'],"The image shows the four boxes in a line. The first box has an open top and bottom, while the second box is partially obscured by the other three boxes. The third box has a narrow top and wide bottom, and the fourth box has a wide top and narrow bottom.",0
+14,v1_14,['inductive'],['diagram'],['a'],"['a', 'a', 'a', 'b', 'b', 'c', 'c', 'd', 'd', 'e']","1D, 2B, 3C, 4A, 5A, 6E, 7B, 8D, 9C, 10A
+
+The sequence of boxes is arranged in a zigzag pattern with the numbers increasing as they go down and decreasing as they go up. Each box contains a number from 1 to 6 in a different location within the box. The sequence is missing the final box, which should be empty, and one of the first two boxes is missing. The missing box should be in the second row and first column.",0
+15,v1_15,['inductive'],['diagram'],['b'],['b'],3B,1
+16,v1_16,['inductive'],['diagram'],['e'],['a'],"△A
+
+B-C
+
+D-E
+
+The boxes are arranged in a triangle shape with the top left box at the center and the bottom right box at the top. Each subsequent box is rotated 90 degrees counterclockwise from the previous one. The correct sequence would be D-B-A-C-E, where each box is rotated 90 degrees clockwise from the previous one.",0
+17,v1_17,['inductive'],['diagram'],['a'],"['a', 'b', 'c', 'd', 'e']","1A, 2B, 3C, 4D, 5E",0
+18,v1_18,['inductive'],['diagram'],['c'],"['a', 'b', 'c', 'd', 'e']","1 - D
+2 - C
+3 - B
+4 - A
+5 - E
+6 - F
+7 - G
+8 - H
+9 - I
+10 - J",0
+19,v1_19,['inductive'],['diagram'],['c'],['d'],"The number of triangles in the 6th shape can be found by counting the number of points on each line, and then determining how many lines there are in total. The diagram below shows the six possible shapes that can be made with three lines, as indicated by the dotted lines:
+
+The diagram shows that there are four triangles in this arrangement. Therefore, the answer is D) 16 triangles.",0
+20,v1_20,['deductive'],['ocr'],['3'],['4'],"4
+
+This question is about the different groups of people who participate in a particular sport.
+
+There are many footballers, football fans, and football coaches. They are all involved in football, but they may have different roles and responsibilities.
+
+For example, there are professional footballers, who are paid to play football for a team. They have specific skills and abilities that allow them to play the game at a high level.
+
+There are also football fans, who support a particular team or player. They may attend games, watch them on TV, or follow them online.
+
+Finally, there are football coaches, who are responsible for training and managing players. They may work with teams at different levels, from youth leagues to professional teams.
+
+So, all of these groups are involved in football, but they have different roles and responsibilities within the sport.",0
+21,v1_21,['inductive'],['diagram'],['f'],['f'],4F,1
+22,v1_22,['inductive'],['diagram'],['d'],['zzzzz'],◉◉◉◉◉,0
+23,v1_23,['deductive'],['ocr'],['c'],['b'],"B
+
+The correct answer is B. The first thing that comes to mind when you see this image is a swallow, which is bird with a long, curved beak and pointed wings. The swallow is most likely blue in color, but it could also be gray or brown.",0
+24,v1_24,['deductive'],['ocr'],['d'],['c'],⑤ The correct answer to the question in the image is C. All the animals listed are aquatic and have a dolphin.,0
+25,v1_25,['deductive'],['ocr'],['c'],['c'],​​The correct answer is C. The woman in the image has brown eyes.,1
+26,v1_26,['inductive'],['diagram'],['b'],['a'],"3D shapes are formed by joining multiple points together to create a 3 - dimensional object. This process is done using lines, curves, and planes.
+
+In the diagram above, there are four options available for the question mark: A, B, C, and D. However, only one of these options accurately represents the shape of the missing element in the pattern.
+
+Option E shows a cube, which is a 3D solid that consists of eight square faces and six square edges. Option C shows an ellipse, which is a 2D shape that is formed by the revolution of a point around a fixed point. Option B shows a cylinder, which is a 3D solid that is formed by rotating a planar surface about an axis. Option D shows a dodecahedron, which is a 3D polyhedron with twelve regular faces.
+
+Therefore, the correct option is A, which shows a line segment, which is a 2D shape consisting of two distinct points connected by a length of a line. The line segment is used to represent a part of the missing element in the pattern, which is a combination of two smaller shapes. By connecting two points on the same plane, a line segment can be created. For example, in the pattern shown above, the two dots on the left side of the separator are connected by a line segment, creating a line that appears to extend beyond the",0
+27,v1_27,['inductive'],['diagram'],['d'],['zzzzz'],⬙ ⬛⬚⬚⬗⬗⬜⬜⬌⬗⬈⬙⬕⬝⬙⬕⬜⬜⬋⬐⬒⬜⬜⬜⬨⬯⬎⬍⬩⬩⬅⬡⬙⬕⬜⬜⬑⬪⬪⬜⬜⬜⬜⬛⬜⬜⬜⬦⬨⬰⬤⬦⬰⬸⬥⬒⬹⬜⬜⬜⬜⬑⬢⬦⬦⬰⬪⬣⬘⬛⬜⬜⬜⬜⬜⬜⬜⬨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬨⬜⬜⬜⬜⬜⬜⬜⬔⬜⬜⬜��,0
+28,v1_28,['inductive'],['diagram'],['e'],['a'],"4
+
+The options to choose from are A, B, C, D, and E. However, since the question mark is already present in the image, there is no need to replace it. Therefore, the correct answer is A.",0
+29,v1_29,['inductive'],['diagram'],['a'],['zzzzz'],"⬔, ⬕, ⬛, ⬛, ⬜⬜, and ⬜⬜.",0
+30,v1_30,['inductive'],['diagram'],['c'],['zzzzz'],"](https://i.imgur.com/fZq5gAf.png)
+
+![img]ImageContent![/img]",0
+31,v1_31,['inductive'],['diagram'],['e'],['▾'],"▾ is the correct answer, because it is a square shape with four corners.",0
+32,v1_32,['inductive'],['diagram'],['e'],"['a', 'a', 'b', 'b', 'c', 'c', 'c', 'd', 'd', 'd', 'e', 'e', 'e', 'f', 'f', 'f']","1) C
+2) D
+3) E
+4) F
+5) A
+6) B
+7) C
+8) D
+9) E
+10) F
+11) A
+12) B
+13) C
+14) D
+15) E
+16) F",0
+33,v1_33,['inductive'],['diagram'],['e'],['a'],"☐ ☐ ☐ ☐ ☐ ☐ ☐
+
+The pattern present above the separating line is the DNA double helix structure, which consists of two strands of DNA spiraling around each other. The sequence of nucleotides on each strand is read from the top to bottom, and the four options for the missing base pair in each box represent the possibilities for the resulting nucleotide sequence.
+
+Based on the DNA double helix structure, the missing base pair in each box should be the complementary base pair of the nucleotides in the other strand. Therefore, the correct option in each box is the one that completes the complementary pair.
+
+For example, the first base pair in the top row has a nucleotide on the top strand and a nucleotide on the bottom strand, so the missing base in the first box should be the complementary nucleotide to the nucleotide on the bottom strand. This means that the correct option in the first box is A (guanine).
+
+The second base pair in the top row has a nucleotide on both strands, so neither of the options in the second box is correct. The third base pair in the top row has a nucleotide on the top strand and a nucleotide on the bottom strand, so the missing base in",0
+34,v1_34,['inductive'],['diagram'],['c'],['zzzzz'],‧,0
+35,v1_35,['inductive'],['diagram'],['b'],"['b', 'c', 'd']","B, C and D are the correct options to replace the question mark to follow the pattern present above the separating line. The pattern in the image shows four lines with a repeating pattern of three horizontal lines followed by two vertical lines, which creates a square shape. Option A and E do not match this pattern. Option B and C both create a repeating pattern of two vertical lines followed by three horizontal lines, which does not match the pattern shown in the image. Option C and D both create a repeating pattern of three horizontal lines followed by two vertical lines, which also does not match the pattern shown in the image. Option D and E both create a repeating pattern of two vertical lines followed by three horizontal lines, which is different from the pattern shown in the image.",0
+36,v1_36,['inductive'],['diagram'],['a'],['zzzzz'],▐▌,0
+37,v1_37,['inductive'],['diagram'],['b'],"['c', 'c', 'c', 'c']","©, ©, ©, ©.",0
+38,v1_38,['inductive'],['diagram'],['e'],['c'],"C. 
+
+The pattern present above the separating line is a rhombus. Option C contains two rhombi, which is the correct answer.",0
+39,v1_39,['inductive'],['diagram'],['e'],['d'],"​
+
+The options to replace the question mark are: A, B, C, D, and E.
+
+Option A shows a square box with a small rectangle inside it, while option B shows a small rectangle in the center of a larger rectangular shape. Option C shows a smaller circle within a larger oval shape, while option D shows an empty space within a rectangle. Option E shows a square shape with two smaller squares at the top and bottom.
+
+None of these options correctly follows the pattern present above the separating line. The pattern shows a series of shapes arranged in a particular order, with each shape becoming smaller than the one before it. The shapes should be arranged in ascending or descending size, with the largest shape on the left and the smallest on the right. Therefore, the correct answer is D.
+
+The options that correctly follow the pattern are: D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, and Z.
+
+So, the answer to the puzzle is D.",0
+40,v1_40,['inductive'],['diagram'],['c'],['d'],"3D
+
+This is a code that represents the four options available to replace the question mark in the pattern. The options are A, B, C, D, and E. These options are arranged in a grid, with each row containing two options. Each option is written in uppercase letters in order from left to right, with the letter representing the pattern of the option. For example, the first row has an A, followed by a C, then an E, and so on. The grid is divided into four quadrants, with each quadrant containing two options.
+
+To use this code, you would need to choose one of the options from the grid and apply it to the pattern. For example, if the pattern is A-B-C-D, then you would choose the letter corresponding to the first option in the grid, which is A. This would result in the pattern being replaced by the sequence of A-B-C-D. You would then repeat this process for each subsequent option in the grid, replacing the pattern with the appropriate sequence of options.",0
+41,v1_41,['deductive'],['ocr'],['b'],['c'],C) Insufficient Information,0
+42,v1_42,['deductive'],['ocr'],['a'],['a'],"The statement is true.
+
+The gold watch displays the time as 15:40.",1
+43,v1_43,['deductive'],['ocr'],['c'],['c'],"‣ The text in the image is a description of two watches, one silver and one bronze. It states that both watches have the same size, but there is not enough information to determine if they are the same size. Therefore, (C) Insufficient Information is the correct answer.",1
+44,v1_44,['deductive'],['ocr'],['b'],['c'],"​
+
+The small gold watch shows the same time as the larger gold watch. Select from A, B, and C. (A) True (B) False (C) Insufficient Information
+
+It is not clear whether the small gold watch shows the same time as the larger gold watch. Therefore, it is insufficient information to determine whether it is true or false.",0
+45,v1_45,['deductive'],['ocr'],['e'],['d'],"​
+
+The painting that would be positioned fourth in the museum is (D) Painting III. This is because it is the third painting in alphabetical order, following Painting I and Painting II, which are already accounted for in the image above. Painting IV (E) is the next painting in the list after Painting III, so it would come after Painting III in the museum display. Therefore, the correct answer is (D): Painting III.",0
+46,v1_46,['deductive'],['ocr'],['c'],['zzzzz'],"2,321,055 pounds remaining from the original sale of 24,685,000 pounds.",0
+47,v1_47,['deductive'],['ocr'],['b'],['a'],"* True (B)False (C)
+
+Based on the information provided, it is true that taking medicine B will reduce the duration of Ailment C by twelve days. The answer to this question should be ""True"" since taking medicine B can reduce the duration of Ailment C. On the other hand, the answer to question C is insufficient information because we don't know what exactly takes two weeks to heal. It could be anything from a minor injury to a serious illness that requires a longer time to heal. Therefore, without more information, it is not possible to determine whether taking medicine B can take two weeks to heal.",0
+48,v1_48,['deductive'],['ocr'],['b'],['zzzzz'],"​
+
+Based on the given information, it is not possible to determine whether the disease lasts for 18 days or not. The statement does not provide sufficient information to make a conclusion about the duration of the disease. Therefore, it is insufficient to select option A or C as true or false respectively. Option B can be ruled out as it contradicts the other two options. Therefore, the most appropriate answer would be None of the above, as none of the statements are fully supported by the information provided.",0
+49,v1_49,['deductive'],['ocr'],['a'],['c'],"The statement given is incomplete and cannot be answered accurately without further information. It is possible that A may or may not be true, and B is false because the duration of Ailment D cannot be reduced to eleven days. However, without more context, it is impossible to determine if the statement is true or false.",0
+50,v1_50,['deductive'],['ocr'],['a'],['zzzzz'],​,0
+51,v1_51,['deductive'],['ocr'],['c'],"['a', 'b', 'd']","​
+
+A) Developing nations will eventually pay back their loans.
+B) Loans from MDBs are below the market rate of interest.
+D) MDBs lend money as typically short-term loans.",0
+52,v1_52,['numerical'],['ocr'],['c'],"['a', 'e']","​
+
+(A) Huver Co. had the largest difference between highest and lowest price over the last 12 months with a percentage change of 60.52% from $1.97 to $3.11. (B) Drebs Ltd had the smallest difference with a percentage change of -43.75% from £2.29 to £1.28. (C) Fevs Plc had the second smallest difference with a percentage change of -23.61% from £1.67 to £1.23. (D) Fauvers had the third smallest difference with a percentage change of -13.95% from £1.80 to £1.57. (E) Steapars had the largest difference with a percentage change of 150.00% from €0.43 to €6.11.",0
+53,v1_53,['numerical'],['ocr'],['e'],"['b', 'c', 'd']","①, ② and ③.
+
+① The correct answer is (B) €25.20. The share price has increased by €0.20 from the previous month.
+
+② The correct answer is (C) €12.68. The share price has decreased by €12.62 from the previous month.
+
+③ The correct answer is (D) €12.90. The share price has remained the same from the previous month.
+
+What were the share prices one month ago for the three companies?
+Select from A, B, C, D and E. (A) €37.84 (B) €38.34 (C) €24.60 (D) €25.00 (E) €25.28
+
+① The correct answer is (A) €37.84. The share price has decreased by €1.26 from the previous month.
+
+② The correct answer is (B) €38.34. The share price has increased by €0.34 from the previous month.
+
+③ The correct answer is (C) €24.60. The share price has decreased by €1.34 from the previous month.
+
+�",0
+54,v1_54,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],​,0
+55,v1_55,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],6,0
+56,v1_56,['numerical'],"['diagram', 'ocr']",['e'],['d'],"​
+
+The chart shows the total legal sector spending on IT hardware, IT software and IT consulting from Year 4 to Year 6, assuming that the trend continues. Select the option that best represents the total legal sector spending in Year 6 on these three IT areas combined: £75 million, £85 million, £95 million, £105 million, £110 million. The correct answer is D, £105 million. This represents an increase of £20 million over the £85 million spent in Year 5.",0
+57,v1_57,['numerical'],"['diagram', 'ocr']",['d'],['d'],"(D) Spending on IT hardware will decline.
+
+As the graph indicates, the spending on IT hardware decreases from year 4 to projected year 5, which is false according to the statement. Therefore, the correct answer is (D).",1
+58,v1_58,['numerical'],['ocr'],['b'],['b'],"277,987",1
+59,v1_59,['numerical'],['ocr'],['e'],['z'],"1. What is the total amount of wages paid in January if 30 employees were on salaries ranging from £2,000 to £3,500?
+A) £48,000
+B) £44,700
+C) £46,000
+D) £42,500
+E) £45,000
+
+Answer: B
+
+2. If the monthly salary of an employee is £2,800, what will be their annual salary if they work for 12 months?
+A) £33,600
+B) £29,800
+C) £32,000
+D) £30,400
+E) £31,200
+
+Answer: C
+
+3. How much would an employee's salary increase if they were promoted from a salary of £2,500 to £3,000 per month?
+A) £2,000
+B) £4,000
+C) £1,000
+D) £3,000
+E) £5,000
+
+Answer: D
+
+4. If a company has 100 permanent employees and 20 interim employees, what is the",0
+60,v1_60,['numerical'],"['diagram', 'ocr']",['c'],['d'],360,0
+61,v1_61,['numerical'],"['diagram', 'ocr']",['d'],['b'],"​
+
+B. £2.4 million
+
+There are several factors that could have contributed to the missing of the target. For example, if there was a significant decline in demand for the goods and services provided by the leisure profits division, it could result in lower profits than expected. Additionally, if the company faced unexpected expenses or experienced operational issues, it could also impact the profitability of the division. The selected answer is therefore £2.4 million.",0
+62,v1_62,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],1. Which of the following is NOT a benefit of telesales?,0
+63,v1_63,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],51% of sales in Eastern Region are from retail sector,0
+64,v1_64,['numerical'],['ocr'],['d'],['c'],2C,0
+65,v1_65,['numerical'],"['diagram', 'ocr']",['d'],['a'],10% Office Space,0
+66,v1_66,['numerical'],['ocr'],['d'],['a'],"7%
+
+The table provides information about the number of employees in different industries and their qualifications. It appears that most of the employees (42%) are employed in the business industry, followed by education (16%) and healthcare (13%). The rest of the employees are employed in various other industries such as hospitality (9%), transportation (4%), and more. The number of male employees is slightly higher than the number of female employees (52% vs 48%). However, the percentage of males in each industry varies widely, with the business industry having the highest percentage of males (54%) and education having the lowest (28%). In contrast, females are more evenly distributed across industries, with the hospitality industry having the highest percentage of females (62%) and the transportation industry having the lowest (17%).",0
+67,v1_67,['numerical'],['ocr'],['b'],['zzzzz'],"​
+
+It is not possible to determine the average accident cost per vehicle on the road in September for the County without additional information, such as the number of vehicles on the road or the length of time that accidents occurred. Without this information, it is impossible to accurately calculate the average accident cost per vehicle.",0
+68,v1_68,['numerical'],"['diagram', 'ocr']",['a'],['a'],140TWh.,1
+69,v1_69,['spatial'],['diagram'],['b'],['d'],"The figure that is a rotation of the object is D. This figure is created by rotating the object around an axis passing through its center. The axes and coordinates are not shown in the image, but they would be similar to those for C.",0
+70,v1_70,['spatial'],['diagram'],['d'],['zzzzz'],"The image is a perspective view of a cube. It appears to be rotated 90 degrees around the x-axis and the y-axis, so it is facing outward in both directions.",0
+71,v1_71,['spatial'],['diagram'],['c'],['b'],B,0
+72,v1_72,['spatial'],['diagram'],['c'],"['a', 'b', 'c']",1. The solid represented by A corresponds to the image. 2. The solid represented by B corresponds to the image. 3. The solid represented by C corresponds to the image. 4. The solid represented by D does not correspond to the image.,0
+73,v1_73,['spatial'],['diagram'],['d'],['zzzzz'],"​
+
+I'm sorry, I am a text based AI and do not have the ability to display images. Can you please provide me with more information or ask another question?",0
+74,v1_74,['spatial'],['diagram'],['c'],['b'],"​
+
+B.
+
+The object that can be made by folding the given shape is a cube. The given shape is a square that has been cut into three identical smaller squares. To create a cube, each of the smaller squares needs to be folded in half, so that each half becomes a face of the cube. Therefore, option B shows the process of making a cube out of the given square. Option A shows a cube made from the same shape, but with its faces facing in different directions. Option C shows the same shape as the one in option B, but with some of its faces facing downward. Option D shows the same shape as the one in option B, but with all its faces facing upward.",0
+75,v1_75,['spatial'],['diagram'],['a'],['zzzzz'],"​
+
+​",0
+76,v1_76,['spatial'],['diagram'],['c'],['d'],"The figure that can be formed with the given piece is D. The shape on the left has two rectangular faces and one triangular face, and the shape on the right has three rectangular faces and one triangular face. To form the figure shown in the image, you would need to fold the left side of the shape to create the triangle and then fold the right side of the shape to create the remaining rectangular shape.",0
+77,v1_77,['spatial'],['diagram'],['a'],['b'],🔍B?,0
+78,v1_78,['spatial'],['diagram'],['a'],['a'],"‣ A
+
+* There are two arrows pointing in the same direction, one going up and one going down. This figure represents an isosceles triangle with its base along the x-axis and a right angle at its apex. The figure on the right is a vertical reflection across the x axis. The left figure is not reflected in the right figure because it has a smaller base and a different orientation.
+
+‣ B
+
+* There are two arrows pointing in opposite directions, one going up and one going down. This figure represents an isosceles triangle with its base along the y-axis and a right angle at its apex. The figure on the right is a vertical reflection across the y axis. The left figure is not reflected in the right figure because it has a smaller base and a different orientation.
+
+‣ C
+
+* There are four arrows pointing in all directions, each of equal length. This figure represents a square, which has four sides of equal length and angles of 90°. The figure on the right is a horizontal reflection across the origin. The left figure is not reflected in the right figure because it has the same number and orientation of arrows as the right figure but is oriented differently.
+
+‣ D
+
+* There are four arrows pointing in all directions, each of unequal length. This figure represents a parallelogram,",1
+79,v1_79,['spatial'],['diagram'],['d'],"['a', 'b', 'c', 'd']","​
+
+The four cubes can be formed by folding the given shape as follows:
+
+* Cube A is formed by folding the upper left corner of the shape to the bottom right corner.
+* Cube B is formed by folding the top left corner of the shape to the bottom left corner.
+* Cube C is formed by folding the top right corner of the shape to the bottom left corner.
+* Cube D is formed by folding the bottom left corner of the shape to the top right corner.
+
+Thus, the answer is (A) (B) (C) (D).",0
+80,v1_80,['spatial'],['diagram'],['b'],['a'],➡ A,0
+81,v1_81,['inductive'],['diagram'],['b'],['a'],"The set that the figure belongs to is set A.
+
+To justify this answer, we can look at the shape of the figure. The figure has four points on the outside and one in the middle, which forms a shape that could be interpreted as a diamond. This is consistent with the description of set A as having figures that are not symmetrical but are arranged in a row or column. Therefore, the figure belongs to set A.",0
+82,v1_82,['inductive'],['diagram'],['a'],['b'],"(B) Set B
+
+As shown in the image, there are three sets of shapes. The first set contains four squares in a vertical line, and each square has an arrow pointing towards it. The second set contains three triangles pointing in different directions, and the third set contains three circles arranged in a horizontal line.
+
+Therefore, the correct answer is (B), Set B, which contains the same number of triangles as there are squares in the first set.",0
+83,v1_83,['inductive'],['diagram'],['b'],['zzzzz'],​,0
+84,v1_84,['inductive'],['diagram'],['b'],['b'],"3
+
+(B) Figure belongs to set B
+
+(C) Figure does not belong to either set A or B",1
+85,v1_85,['inductive'],['diagram'],['c'],['a'],"​​
+
+Based on the information provided, we can infer that the figure belongs to set A.
+
+The figure is a combination of the numbers 1, 4, and 9, which correspond to the letters A, E, and I in the alphabet. This suggests that the figure is part of the sequence generated by the algorithm described in step 1b of the instructions.
+
+Since the figure does not appear in either set B or C, it must belong to set A.",0
+86,v1_86,['inductive'],['diagram'],['b'],['zzzzz'],"The image contains three sets of tiles with different geometric shapes. The top set has six tiles arranged in a square pattern, while the middle set has four tiles arranged in a vertical line. The bottom set has three tiles arranged horizontally. Each tile is black and white, and the overall image is symmetrical around the center line.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+To determine which set each tile belongs to, we can count the number of tiles in each set and compare it to the corresponding number for each tile.
+
+Tile 1 (top left): 1 from Set A
+Tile 2 (top center): 2 from Set B
+Tile 3 (top right): 3 from Set A
+Tile 4 (middle left): 4 from Set B
+Tile 5 (middle center): 5 from Set C
+Tile 6 (middle right): 6 from Set B
+Tile 7 (bottom left): 7 from Set C
+Tile 8 (bottom center): 8 from Set A
+Tile 9 (bottom right): 9 from Set B
+Tile 10 (center): 10 from Set C
+Tile 11 (right): 11 from Set A
+Tile 12 (left): 12 from Set B",0
+87,v1_87,['inductive'],['diagram'],['a'],['zzzzz'],"1) Set A
+2) Set B
+3) Neither set A nor set B
+4) Figure not related to sets A or B",0
+88,v1_88,['inductive'],['diagram'],['a'],['c'],"It is not possible to determine which set the figure belongs to, as there are three possible choices and no further information given.",0
+89,v1_89,['inductive'],['diagram'],['b'],['zzzzz'],​The image is a set of three different houses with different numbers on each one. It is difficult to determine which set the figure belongs to without additional information.,0
+90,v1_90,['inductive'],['diagram'],['c'],['b'],"3, the figure belongs to set B. The figure is in a black square shape with white outlines on all four sides. It has two legs and one arm, with one hand facing forward. The figure is standing on its left leg, with its right leg behind it. The figure's head is facing to the right, and its body is leaning to the left. The figure has a serious expression and is wearing a hooded robe with a star symbol on the chest.",0
+91,v1_91,['inductive'],['diagram'],['b'],['c'],"The figure belongs to set C, which represents the shape with the largest area.",0
+92,v1_92,['inductive'],['diagram'],['a'],['b'],"​
+
+The correct answer is set B. The figure belongs to the set that has a star in the center of each square. Set B has one star in the center of each square, while sets A and C do not have any stars in their centers. Therefore, the figure belongs to set B.",0
+93,v1_93,['inductive'],['diagram'],['c'],['c'],"​
+
+A) Set A
+B) Set B
+C) Neither set A nor set B
+
+There are four squares in each of the sets A and B. There is no square in the set C.",1
+94,v1_94,['inductive'],['diagram'],['a'],['b'],"​
+
+Based on the information provided, Set A is composed of three tiles with horizontal lines in different colors. Set B is composed of two tiles with vertical lines in different colors. Set C is composed of four tiles with diagonal lines in different colors. Neither set A nor set B has any overlap, while Set C has two tiles that overlap in the center. Therefore, Set B belongs to the figure.",0
+95,v1_95,['inductive'],['diagram'],['a'],['zzzzz'],"​
+```markdown
+    __ __ __      _______________       __       _______        __    __
+   / /  |    / /  |   \_______|     / /    |     |  _ \   _ \  __ |  | \_\_\_\_\_\_ |     |
+  ___/ /_|___/ ___|      __/ |  _____/  |     / /  |   |  ___  __ |  |    |
+ |   _ __ _ __ |      |     |     |      |      |     |     |     |
+```---|_____|-------|------|-----------|--------|---------|-------------|
+```python
+  ____ _ ___  __ ___  __    |      __  |  _____ __  __  __
+ __|/_\_\_\_\_\_\_\_\_/ \__/ |    |    |      |     |
+  |   __ __ __  |     |     |     |     |     |     |
+   |__|__|  |     |     |     |     |     |     |
+  |___|_____|  |     |     |     |     |     |     |
+  |    |       |     |     |     |     |     |     |
+  |_____|",0
+96,v1_96,['inductive'],['diagram'],['b'],['a'],"A.
+
+A is a flower with six petals and two rows of three flowers each.
+
+B is a flower with five petals and one row of four flowers each.
+
+C is a flower with four petals and two rows of two flowers each.
+
+Neither set A nor set B has the same number of flowers in each row or the same number of rows. Therefore, they do not belong to the same set.",0
+97,v1_97,['inductive'],['diagram'],['a'],['a'],"​
+
+Figure B belongs to the set A. Figure C does not belong to any of the sets.",1
+98,v1_98,['inductive'],['diagram'],['c'],['b'],"It appears that the figure belongs to set B.
+
+The shape of the figure is a square, which corresponds to the second number in set B. The other two numbers in the set are 1 and 5, which correspond to triangles and rectangles, respectively. None of these shapes are shown in the image. Therefore, the figure belongs to set B.",0
+99,v1_99,['inductive'],['diagram'],['a'],"['a', 'b', 'c']","​
+
+(A) The figure belongs to set A because it has a red shape that matches the shape in the first row of set A.
+
+(B) The figure belongs to set B because it has a blue shape that matches the shape in the second row of set B.
+
+(C) The figure does not belong to either set A or set B because the shapes do not match any of the shapes in either set.",0
+100,v1_100,['inductive'],['diagram'],['a'],['c'],"☐ A
+☐ B
+☐ C
+The figure does not belong to either set A or set B, it belongs to set C.",0
+101,v1_101,['inductive'],['diagram'],['b'],"['a', 'a', 'b', 'b', 'c', 'c']","1. set b
+2. set c
+3. set a
+4. set a
+5. set c
+6. set b",0
+102,v1_102,['inductive'],['diagram'],['b'],['c'],"3c. None of the sets A, B, or C",0
+103,v1_103,['inductive'],['diagram'],['a'],['c'],"​
+
+A) Set A: ♤, ♜, ♚, ♛, ♚, ♢, ♓
+B) Set B: ♤, ♜, ♚, ♛, ♚, ♢, ♓
+C) Neither set A nor set B: ♤, ♜, ♚, ♡, ♜, ♞, ♟, ♖, ♍, ♉, ♕, ♔, ♖, ♍, ♉, ♗, ♙, ♘, ♚, ♙, ♘, ♜, ♊, ♌, ♌, ♋, ♎, ♏, ♐, ♑, ♓, ♐
+
+The correct answer is (C) Neither set A nor set B. None of the figures in either set match any of the figures in the other set.",0
+104,v1_104,['inductive'],['diagram'],['c'],['zzzzz'],"The image shows a set of four triangular tiles, where each tile is either black or white. The tiles are arranged in a row and there are two identical pairs of tiles at either end.
+
+To determine the figure that the tiles form, we need to consider the arrangement of the tiles. There are four triangles on the left side of the tiles, with the first two tiles forming one triangle and the last two tiles forming another. On the right side of the tiles, there are two identical pairs of tiles.
+
+Therefore, the figure formed by the tiles is a pair of triangles.",0
+105,v1_105,['inductive'],['diagram'],['a'],['zzzzz'],"The set that the figure belongs to is not shown in the image. It could be either A, B, or C, depending on which one of those sets includes the figure. Since there is no image to look at, it's impossible to determine which set contains the figure.",0
+106,v1_106,['inductive'],['diagram'],['a'],['a'],"A. Set B
+
+This image represents a group of four geometric shapes arranged in a specific order. The shapes are arranged in a rectangular pattern, with each shape consisting of four squares connected at the corners to form a rectangle.
+
+The first shape is a small rectangle on the left side of the image. The second shape is a large rectangle in the center of the image, with two smaller rectangles attached to it on the right side. The third shape is a small square on the bottom left side of the image, and the fourth shape is a larger square on the top right side of the image.
+
+Overall, this image demonstrates the concept of symmetry, as each shape has four identical copies that are arranged in a specific order to form a rectangle.",1
+107,v1_107,['inductive'],['diagram'],['a'],['c'],"There are three options: A, B, and C. The figure belongs to set C because it has a diagonal line going through the middle of the square, which is characteristic of the vertical set of triangles in that set.",0
+108,v1_108,['inductive'],['diagram'],['a'],['b'],"▪The figure belongs to set B.
+
+▪In a 4x4 array, the center square is always in the middle row and column. Therefore, the two squares on the left must be in the first row, and the two squares on the right must be in the third row. In this case, the figure can only appear in the second row, so it must be in set B.",0
+109,v1_109,['inductive'],['diagram'],['c'],['zzzzz'],​,0
+110,v1_110,['inductive'],['diagram'],['c'],"['a', 'b', 'c']","1. Set A
+2. Set B
+3. Neither set A nor set B",0
+111,v1_111,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],❑,0
+112,v1_112,['inductive'],"['diagram', 'ocr']",['c'],['b'],"The diagram that replaces the question mark is B. The other options, A, C and D, do not match the diagram in the image.
+
+The image shows a diagram of four squares with lines connecting them. There are two blue squares, two orange squares, and one yellow square. One line connects the blue and orange squares on opposite sides of the image. The second line connects the orange squares on opposite sides. The third line connects the blue square to the yellow square in the upper left corner. Finally, the fourth line connects the yellow square to the red square in the lower right corner.
+
+To answer the question, we need to identify which of the four options matches the diagram in the image. In this case, only option B matches the diagram. Option A has the same number of squares, but the lines do not connect the squares in the same way. Option C has one fewer square than the image, and there is no way to place the remaining square so that it matches the image. Option D has two fewer squares than the image, and again, there is no way to place the missing squares so that they match the image.",0
+113,v1_113,['inductive'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd']",1. A<br>2. B<br>3. C<br>4. D,0
+114,v1_114,['inductive'],"['diagram', 'ocr']",['b'],['d'],"▾
+
+The answer is D. The diagram replaces the question mark with two circles that have been cut in half by a vertical line, one of which has an arrow pointing to the other. This indicates that the two halves of the circle represent two possible answers to a question or decision point, such as the meaning of the symbol on the tire tread in the image you provided.",0
+115,v1_115,['inductive'],"['diagram', 'ocr']",['d'],"['a', 'a', 'b', 'b', 'c', 'c', 'd']","1) None of the options (A, B, C, or D) correspond to the question mark.
+
+2) Option D corresponds to the question mark.
+
+3) Option B corresponds to the question mark.
+
+4) Option A corresponds to the question mark.
+
+5) None of the options correspond to the question mark.
+
+6) Option C corresponds to the question mark.
+
+7) Option A corresponds to the question mark.
+
+8) Option C corresponds to the question mark.
+
+9) Option B corresponds to the question mark.
+
+10) None of the options correspond to the question mark.",0
+116,v1_116,['inductive'],"['diagram', 'ocr']",['c'],['b'],"👉 B
+
+The diagram that replaces the question mark is a set of four options, represented by letters A, B, C, and D. Each option corresponds to a different answer to the question, with A representing the correct answer, B representing an incorrect answer, C representing another incorrect answer, and D representing yet another incorrect answer.",0
+117,v1_117,['inductive'],"['diagram', 'ocr']",['d'],['b'],"​
+```
+   ________
+  /      \
+ /        \
+|          |
+|          |
+\      / 
+ \        /
+  (B)  (C)  (D)
+```
+The diagram replaces the question mark with a sequence of circles and lines, representing the options A, B, C, and D. The line connecting the circles represents the selected option, while the empty space between the circles represents the non - selected options.",0
+118,v1_118,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],​,0
+119,v1_119,['inductive'],"['diagram', 'ocr']",['b'],['a'],"A) No changes
+B) Add a new triangle to each side of the existing triangles
+C) Add two new triangles at each end of the existing triangles
+D) Replace all the triangles with squares",0
+120,v1_120,['inductive'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd']","A <img src=""img.png"" alt=""An image of a clock"">B <img src=""img.png"" alt=""An image of a stopwatch"">C <img src=""img.png"" alt=""An image of a digital clock"">D <img src=""img.png"" alt=""An image of an hourglass"">",0
+121,v1_121,['inductive'],"['diagram', 'ocr']",['a'],['a'],"The diagram that replaces the question mark is A.
+
+The four symbols are arranged in two rows of two, with two empty circles and two filled-in circles. This configuration corresponds to the following pattern:
+
+* a\*b*c\*d
+
+The first two symbols are arranged in order, as requested by the question, but the last two are out of order. Therefore, the diagram is not a valid arrangement of the symbols according to the given pattern.",1
+122,v1_122,['inductive'],"['diagram', 'ocr']",['d'],['d'],"​
+
+(A) - A shape with two sides of different lengths and widths, one of which is shorter than the other.
+
+(B) - A triangle with three sides of different lengths and angles.
+
+(C) - A pentagon with sides of different lengths and angles.
+
+(D) - A hexagon with sides of different lengths and angles.
+
+Therefore, the diagram that replaces the question mark is (D), a hexagon with six sides of equal length and angles.",1
+123,v1_123,['inductive'],"['diagram', 'ocr']",['a'],['d'],"This image represents a diagram that shows how to create an array of four numbers using addition and subtraction. The diagram consists of four boxes labeled with the numbers 1, 2, 3, and 4. The arrow in the middle box indicates that 4 is being added to the value in the box above it, which is 3. The arrow in the bottom box indicates that 4 is being subtracted from the value in the box below it, which is 5.
+
+The correct answer is D, 0. To create an array of four numbers using addition and subtraction, we can start with an empty array and add or subtract each number in turn as shown below:
+
+| A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 3 | 4 | -1 | 5 | 4 | 3 | -2 | -3 | 1 | 2 | 4 | -1 | 5 | 4",0
+124,v1_124,['inductive'],"['diagram', 'ocr']",['c'],['a'],"2A
+
+* The two lines represent the x and y axis.
+* The point at which they cross is the origin (0,0).
+* Each line has the same slope and intersects at the origin.
+
+The equation of a line that passes through the point (3,4) is y = mx + b, where m is the slope of the line and b is the y -intercept.
+
+* Since the slope of the line is positive, the equation can be written as y = m(x - 3) + 4
+* Therefore, the equation of the line that passes through the point (3,4) is y = m(x - 3) + 4
+
+1. Which of the following statements are true about the given equation? Select from: all of them, one of them, neither of them, or both of them?
+
+All of them
+One of them
+Neither of them
+Both of them",0
+125,v1_125,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],☒☒☒☒,0
+126,v1_126,['inductive'],"['diagram', 'ocr']",['b'],['a'],"The correct answer is A, which represents a rectangular shape with two squares at the top and one square on each side.",0
+127,v1_127,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],"The image represents the four options to replace the question mark: A, B, C, and D.",0
+128,v1_128,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],"1. A
+2. B
+3. C
+4. D
+The diagram shows three shapes, each of which has a hole in the center. Two of these shapes have an additional line running from one side to the other, while the third shape has two lines running from one side to the other. The question mark represents the unknown shape, which can be any of the four choices listed above.
+
+Answer: 
+
+1. A
+2. B
+3. C
+4. D",0
+129,v1_129,['inductive'],"['diagram', 'ocr']",['b'],['c'],"© The diagram shows three blocks of code with different operations: add, subtract, and multiply. None of the blocks of code is a valid solution for the problem.
+
+To find the correct block of code, we need to follow the instructions given in the question. The goal is to find the correct block of code that will produce the same output as the original code.
+
+From the image provided, we can see that the three blocks of code are not compatible with the original code. The blocks contain operations that are not allowed in the original code, such as subtraction, which is not valid for binary code. Therefore, there is no correct block of code that will produce the same output as the original code.",0
+130,v1_130,['inductive'],"['diagram', 'ocr']",['d'],['a'],A) A is the correct answer. B and C are incorrect because they do not represent a repeating pattern. D is also incorrect because it does not have the same number of squares on each side. The correct diagram would be one with three squares on each side that repeat in a repeating pattern.,0
+131,v1_131,['mechanical'],['diagram'],['d'],['b'],"(B) The metal increases in density so it gets heavier is the best reason for this motion. When air is released from the cylindrical metal tank, it expands and becomes less dense than the surrounding water, which causes the tank to rise upwards. As the air bubbles continue to escape, the tank gradually moves deeper underwater due to its increased buoyancy. This motion occurs as a result of changes in density, not thrust or weight.",0
+132,v1_132,['mechanical'],['diagram'],['c'],"['a', 'b', 'c', 'd']","A) Under the towers.
+
+The weight of the cars will cause the bridge to deflect under the towers, as the vertical loads are distributed along the length of the bridge. This is because the weight of the cars is transferred to the supports at each end of the bridge, which causes the middle section to sag downward.
+
+B) Below the cars.
+
+The weight of the cars will cause the bridge to deflect underneath them, as the vertical loads are distributed along the length of the bridge. However, since the cars are parked on the bridge, they will not contribute to the load on the bridge.
+
+C) Middle of the bridge.
+
+The weight of the cars will cause the bridge to deflect in the middle, as the vertical loads are distributed along the length of the bridge. This is because the weight of the cars is transferred to the supports at each end of the bridge, which causes the middle section to sag downward.
+
+D) All of the above will have equal deflection.
+
+All three options (A), (B), and (C) would result in the bridge having equal deflection. The weight of the cars, which is distributed along the length of the bridge, will cause the middle section to sag downward.
+
+E) Impossible to tell.
+
+It is impossible to determine whether or not the bridge will deflect without knowing the weight of the cars",0
+133,v1_133,['mechanical'],"['diagram', 'ocr']",['c'],['e'],"‣ A convex mirror provides no advantage.
+
+번역결과  
+커브 거운 광각은 차량용 뒤쪽 광각에 사용되는 광각. 차량용 커브 거운 광각이 광각보다 미리되었다고 생각하는지 선택해주세요, A, B, C, D, E와 같이.
+
+(A) 많은 반짝각 제거(B) 정확한 반짝각을 제공합니다(C) 더 넓은 광각로 최적화 후인 위험 (D) 광각을 쉽게 청소할 수 있다(E) 광각은 �",0
+134,v1_134,['mechanical'],['diagram'],['a'],['zzzzz'],"​
+
+A) Scenario A: The cold air will flow towards the floor and warm air from the house will rise up to replace it, preventing the cold air from entering the house.
+
+B) Scenario B: The cold air will flow towards the ceiling and warm air from the house will fall down to replace it, preventing the cold air from entering the house.
+
+C) Scenario C: The cold air will flow towards the side walls of the house, which are not insulated as well as the front and back walls, and warm air from the house will move towards the side walls to replace it.
+
+D) Scenario D: The cold air will flow towards the open door and enter the house if the wind speed is low enough to allow it.
+
+E) Scenario E: Impossible to tell, as there is no information given about the temperature or wind speed outside the house.",0
+135,v1_135,['mechanical'],['diagram'],['c'],['c'],"​
+
+The water level in the bucket is decreasing as it flows out of the hole. The speed of the water coming out of the hole will decrease as the water level in the bucket goes down, but not necessarily to zero.",1
+136,v1_136,['mechanical'],['diagram'],['a'],['zzzzz'],"As an AI language model, I cannot see the image you provided. Please provide the image so that I can assist you with your question.",0
+137,v1_137,['mechanical'],['diagram'],['d'],['b'],"B. The door will not fully close. The longer the spring is, the harder it will be to close the door, especially if there is an obstruction in the path of the door. In this scenario, the door is not being fully closed, indicating that there is some kind of obstruction preventing it from closing all the way.",0
+138,v1_138,['mechanical'],['diagram'],['b'],"['b', 'c', 'd']","​
+
+C. The appearance of the tool is significantly more aesthetic with longer handles
+
+The design of the bolt cutter allows for longer handles, making it more ergonomic and allowing easier storage. This feature improves the overall appearance of the tool, making it more visually appealing. A shorter handle would be less ergonomic and harder to hold onto, while a longer handle provides better leverage and control when cutting through thick bolts. B. It provides mechanical advantage which allows cutting through thick bolts. While longer handles may make the tool more ergonomic, they do not necessarily provide additional mechanical advantage in terms of cutting power. In fact, a longer handle could potentially make the tool more difficult to control and maneuver, particularly when cutting through tighter spaces or thicker materials. Additionally, the blade itself may have been designed to accommodate the length of the handle, so the handle does not necessarily provide additional cutting power. D. It makes the bolt cutter more durable when dropped accidentally. While the longer handles of this tool may make it more ergonomic, they are not necessarily designed to make the tool more durable when dropped accidentally. Drop tests can sometimes cause damage to tools even if they are well designed and constructed, depending on the force and angle of the drop. In general, the best way to ensure a tool's durability is to handle it carefully and store it properly when not",0
+139,v1_139,['mechanical'],"['diagram', 'ocr']",['c'],['e'],"There is not enough information given to determine the car's speed. The fire engine is traveling at 60 mph, but there is no information about the car's speed. It could be traveling at any speed between 0 mph and 60 mph.",0
+140,v1_140,['mechanical'],['diagram'],['d'],['zzzzz'],​,0
+141,v1_141,['mechanical'],['diagram'],['b'],['b'],B. Counterclockwise,1
+142,v1_142,['mechanical'],['diagram'],['b'],['c'],"In the image, the orange gear is not rotating.",0
+143,v1_143,['mechanical'],['diagram'],['a'],['b'],"The image shows two gears with a smaller one on top of a larger one. The smaller gear appears to be rotating in the counterclockwise direction, while the larger gear is stationary. The green arrow on the left side indicates that the smaller gear is rotating clockwise, while the green arrow on the right side indicates that the larger gear is stationary.",0
+144,v1_144,['mechanical'],"['diagram', 'ocr']",['b'],['d'],The scale is balanced with the weight of 5 pounds on one side and 10 pounds on the other.,0
+145,v1_145,['mechanical'],"['diagram', 'ocr']",['c'],"['b', 'd']","The scale is balanced, so the weight that is heavier than the other weight is B. The weight that is lighter than the other weight is D.",0
+146,v1_146,['mechanical'],['ocr'],['c'],['c'],"The force required to push the ball up the platform is equal to the weight of the ball (180 lb) plus the force required to accelerate the ball up the ramp (135 ft/s^2). This is equal to 365 lb. Therefore, the effort required to push the ball up the platform is 365 lb. Answer: C. 45 lb",1
+147,v1_147,['mechanical'],"['diagram', 'ocr']",['b'],['c'],"Situation C is the correct answer. The orange pole is leaning against the wall, so the weight is pushing down on it from above, making it the highest.",0
+148,v1_148,['mechanical'],['diagram'],['a'],['a'],"Situation A is the correct answer. The weight is pushing down on the orange pole the highest, because it is in contact with the ground at all points and has the greatest amount of force acting on it.",1
+149,v1_149,['mechanical'],['ocr'],['c'],['c'],The device used to store electrical energy is called a capacitor.,1
+150,v1_150,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],20 ohm,0
+151,v1_151,['mechanical'],['ocr'],['c'],['a'],A,0
+152,v1_152,['mechanical'],['ocr'],['b'],['b'],B,1
+153,v1_153,['mechanical'],['diagram'],['a'],['c'],"If the train is accelerating, it would be moving faster. It is not shown in the image provided. The image only shows a box with two arrows pointing in different directions, but without any indication of movement. So the answer is C - None of the above.",0
+154,v1_154,['mechanical'],['diagram'],['c'],['c'],"There are three balls on a table, one red and two blue. The man is standing behind the table with his arms out to the side, looking down at the balls. The balls are arranged in a triangle shape, with the red ball on top and the blue ones below it. It's not clear which ball will reach the floor first because there is no information about how the balls are being released or how they are rolling. To determine which ball will reach the floor first, we would need to know if they are being dropped or rolled.",1
+155,v1_155,['mechanical'],"['diagram', 'ocr']",['a'],['b'],"The correct answer is (B). In the image, both birds have the same wing span and fly at the same speed. The bird on the left has its wings spread open, while the bird on the right has its wings closed. The bird on the right experiences more resistance because its wings are closed, creating a smaller surface area for air to pass through.",0
+156,v1_156,['mechanical'],"['diagram', 'ocr']",['c'],['c'],"The image is a diagram showing the difference between the weight of wheat in a bag and the volume of wheat in a silo.
+
+The three bags of wheat shown in the image are labeled A, B, and C. The diagram shows that the volume of wheat in each bag increases as the number of bags increases. Bag A has 10kg of wheat, Bag B has 20kg of wheat, and Bag C has 30kg of wheat.
+
+The silo has a capacity of 100kg of wheat, and the diagram shows that all three bags can fit inside the silo. The amount of wheat that can be stored in the silo is the maximum amount, which is 100kg.",1
+157,v1_157,['mechanical'],"['diagram', 'ocr']",['a'],['a'],"A is correct. The diagram shows three cylindrical objects, where one is filled with water and the other two are empty. This represents the process of water being displaced from a cylinder, causing it to become less dense and rise to the top of the container. The empty cylinders on either side remain at the same level as before the displacement occurred.",1
+158,v1_158,['mechanical'],['diagram'],['a'],['c'],"It is not possible to determine whether balloon A or balloon B has more air pressure inside without additional information. Both balloons have equal amounts of air pressure inside, so the choice between A and B would be random and would not reflect any difference in air pressure. Therefore, C would be the correct answer.",0
+159,v1_159,['mechanical'],['diagram'],['c'],['zzzzz'],"It is not possible to determine which person will need to apply more force without knowing the weight and the strength of each person. There are many factors that can affect the amount of force needed to lift an object, such as the weight of the object, the height it is being lifted to, and the strength of the person applying the force. Without additional information, it is impossible to determine which person would need to apply more force.",0
+160,v1_160,['mechanical'],['diagram'],['b'],['zzzzz'],"To determine which direction the wheel will spin, you need to look at the direction of rotation of the wheel and the direction it is being pushed. The direction of rotation is determined by the direction of the arrow on the wheel. If the arrow on the wheel is pointing to the right, the wheel will rotate counterclockwise. If the arrow is pointing to the left, the wheel will rotate clockwise. If the arrow is facing straight up, the wheel will not rotate at all. So, if the arrow on the wheel is pointing to the right, the wheel will spin counterclockwise; if it's pointing to the left, the wheel will spin clockwise; and if it's pointing straight up, the wheel will not rotate at all.",0
+161,v1_161,['mechanical'],['diagram'],['a'],['a'],A,1
+162,v1_162,['mechanical'],['diagram'],['b'],"['a', 'b', 'c']",A.  B.  C.  None of the above.,0
+163,v1_163,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],"I'm sorry, but the image you provided is not a complete sentence and does not make sense. Please provide a complete question with proper grammar and punctuation.",0
+164,v1_164,['mechanical'],['diagram'],['c'],['c'],"Based on the image, it seems that the person holding the magnifying glass should move it closer to the wood. The closer they hold the magnifying glass, the more intense the heat will be generated, which could start a fire. So, the correct option would be C - Remain at 15 inches.",1
+165,v1_165,['mechanical'],['diagram'],['c'],['a'],A. Center of the circle,0
+166,v1_166,['mechanical'],"['diagram', 'ocr']",['d'],['d'],"The lever in the image is balanced. The fulcrum is located at point F, which is directly over the point where the weights are equal in mass. Points A and B represent the weights on either side of the fulcrum. Since the distance between the weights is 25 cm, the distance from the left weight to the fulcrum is 10 cm. Therefore, the weight on the left (point A) should be 3 kg. The weight on the right (point B) should be 4 kg.
+
+Therefore, the correct answer is D) 10 cm.",1
+167,v1_167,['mechanical'],['diagram'],['a'],['c'],The correct answer is C. The weight pressed is equal on both sides.,0
+168,v1_168,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],"​
+
+There are four different types of cylinders shown in the image, each with a different volume and area. The cylinder on the left has the largest volume, while the one on the right has the smallest. The other two cylinders are intermediate in size. The cylinder on the top has the largest area, while the cylinder on the bottom has the smallest. The remaining two cylinders have intermediate areas.",0
+169,v1_169,['mechanical'],['diagram'],['d'],['zzzzz'],"The directions of movement and velocities of revolution of the cogwheels are not specified in the image. Therefore, it is impossible to determine the direction of movement and velocity of the cogwheels without additional information.",0
+170,v1_170,['mechanical'],"['diagram', 'ocr']",['c'],['d'],"The total resistance of the circuit is D, 240 ohm.",0
+171,v1_171,['spatial'],['diagram'],['d'],['zzzzz'],"It's not possible to determine how many other boxes touch the marked box without knowing the size and orientation of each cube. There could be any number of boxes that touch the marked one, depending on their arrangement.",0
+172,v1_172,['spatial'],['diagram'],['a'],['zzzzz'],It's not possible to determine which of the four options represents the cube in its folded form without further information. The image doesn't contain enough detail to accurately determine which option is the correct answer.,0
+173,v1_173,['spatial'],['diagram'],['d'],"['a', 'b', 'c', 'd', 'e']",A B C D E,0
+174,v1_174,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],The image shows a diagram of a car with four wheels. The arrow on the left indicates the direction of motion. The arrow on the right shows the direction of rotation. There is no indication of which wheel is turning counter-clockwise.,0
+175,v1_175,['mechanical'],"['diagram', 'ocr']",['d'],['c'],"The answer to the question is C, 1.0 inches. If the weight is increased from 10 pounds to 15 pounds, the spring will stretch by 0.5 inches.",0
+176,v1_176,['mechanical'],['diagram'],['d'],['zzzzz'],©️ Copyright 2020 Biteable. All rights reserved.,0
+177,v1_177,['deductive'],['ocr'],['b'],"['a', 'b', 'd']","The objects that will not float on water are A, B, and D.",0
+178,v1_178,['deductive'],['ocr'],['d'],"['b', 'c', 'd']","The correct options are B, C, and D. The weight of the vehicle, power output from the engine, and drag coefficient all directly affect the rate of acceleration of a vehicle. Option A is not directly related to acceleration.",0
+179,v1_179,['deductive'],['ocr'],['b'],['zzzzz'],The image is a photograph of frost formation on cooling coils in a refrigerator. It is not possible to determine the effect on power consumption or overall performance without more information.,0
+180,v1_180,['deductive'],['ocr'],['c'],['zzzzz'],​,0
+181,v1_181,['deductive'],['ocr'],['c'],['a'],The function of a fuse is to reduce the use of electricity in any device.,0
+182,v1_182,['spatial'],['diagram'],['b'],['e'],"​
+
+In the image, there are four puzzle pieces labeled A, B, C, and D. To make a complete shape, each piece must touch the corresponding piece of the same color (A touches A, B touches B, etc.). The shape is missing one piece to form a complete image. Based on the puzzle, it appears that the missing piece should be labeled E and would complete the shape as an X.",0
+183,v1_183,['spatial'],['diagram'],['c'],['a'],A represents the cube in its folded form.,0
+184,v1_184,['spatial'],['diagram'],['a'],['zzzzz'],"This is a puzzle consisting of five pieces that need to be arranged in order to form the shape shown. The shape is an upside down letter U, with the top bar connecting the right and left sides and the bottom bar connecting the right and left sides.
+
+The following are the possible solutions for the puzzle:
+
+1.  ABDCE
+2. BACDE
+3. BADCE
+4. BCAED
+5. BCDEA
+
+Note that all of these solutions have the same number of pieces, with one extra piece at each end. Therefore, they are all valid solutions.",0
+185,v1_185,['spatial'],['diagram'],['a'],['e'],"1. A square
+2. B is a rectangle with one triangle removed from one side
+3. C is a trapezoid with two parallel sides
+4. D is a parallelogram
+5. E is a kite
+6. Answer: 5
+7. The perimeter of a square with side length 8 cm is 32 cm. Find the area of the square.
+8. The area of a rectangle with a length of 4 cm and a width of 6 cm is 24 cm^2. What is the length and width of the rectangle?
+9. The height of a trapezoid is 5 cm, and its base is 6 cm. The area of the trapezoid is 12 cm^2. What are the lengths of the parallel sides of the trapezoid?
+10. A quadrilateral has sides of length 8 cm, 10 cm, 12 cm, and 15 cm. How many sides does the quadrilateral have?
+11. Which figure has the largest area?
+A) Square
+B) Rectangle
+C) Trapezoid
+D) Kite
+12. Which figure has the smallest perimeter?
+A) Square
+B) Rectangle
+C) Triangle
+D) Circle",0
+186,v1_186,['spatial'],['diagram'],['b'],['c'],The image that depicts the same object shown above is C.,0
+187,v1_187,['spatial'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd']","The options A, B, C, and D are all correct. The shape in each option represents a different aspect of the cube's folded form, but they all show the cube as a three-dimensional object.
+
+Option E is not correct because it shows the cube in its unfolded form.",0
+188,v1_188,['spatial'],['diagram'],['b'],['d'],"There are two triangular shadows on the right side of the image. These shadows can be created by casting light on the 3D-shape on the left's sides. The image is of a white pyramid with triangular shadows cast on its sides.
+
+The correct answer is D) None of the above, as there are no shadows on the left side of the image.",0
+189,v1_189,['spatial'],['diagram'],['d'],"['a', 'd']","​
+
+A, D
+
+B, C
+
+The dots are placed in the same corners of the objects as in the model. Therefore, A and D are the correct options.",0
+190,v1_190,['spatial'],['diagram'],['b'],['zzzzz'],"1. Triangle
+2. Circle
+3. Square
+4. Trapezoid
+5. Parallelogram
+
+These shapes fit together to form the correct picture.",0
+191,v1_191,['spatial'],"['diagram', 'ocr']",['a'],['zzzzz'],"This is a cube with sides of length 8, and an open face. The image shows the cube from the top view with its face on the left and right side visible. It does not have any labels or annotations.",0
+192,v1_192,['spatial'],['diagram'],['d'],['b'],B,0
+193,v1_193,['spatial'],['diagram'],['d'],"['b', 'd', 'e']","The boxes that come next in the sequence are B, D, and E.
+
+This is because the boxes with odd numbers (1, 3, 5, etc.) follow each other in a sequence starting from the first box with an odd number and ending with the last box with an odd number. Similarly, the boxes with even numbers (2, 4, 6, etc.) follow each other in a sequence starting from the first box with an even number and ending with the last box with an even number. So, the sequence starts with A and ends with E, with the boxes with odd numbers between A and B, and the boxes with even numbers between B and C.
+
+For the same reason, the boxes with odd numbers (1, 3, 5, etc.) follow each other in a sequence starting from the first box with an odd number and ending with the last box with an odd number. Similarly, the boxes with even numbers (2, 4, 6, etc.) follow each other in a sequence starting from the first box with an even number and ending with the last box with an even number. So, the sequence starts with B and ends with E, with the boxes with odd numbers between B and C, and the boxes with even numbers between C and D.",0
+194,v1_194,['spatial'],['diagram'],['c'],['zzzzz'],"The boxes in the sequence are arranged as follows:
+
+1. ▪
+2. ■
+3. ●
+4. ○
+5. ■
+6. ▪
+7. ●
+8. ○
+9. ■
+10. ▪
+
+So the correct order is ■ ● ○ ● ○ ○ ■ ■ ○ ● ○ ■ ○ ■.",0
+195,v1_195,['spatial'],['diagram'],['a'],['b'],"The sequence of arrows in the image shows that the arrow labeled ""B"" comes next in the sequence, followed by the arrows labeled ""A"", ""C"", and ""D"". The arrow labeled ""E"" is not included in the sequence.
+
+Here's a diagram to help illustrate this:
+```markdown
+ A
+ |
+ B
+ |
+ C
+ |
+ D
+ |
+ E
+```
+As you can see, the arrow labeled ""B"" is pointing to the right, indicating that it comes after ""A"". The arrow labeled ""C"" points down, indicating that it comes after ""B"". The arrow labeled ""D"" points to the left, indicating that it comes before ""C"". Finally, the arrow labeled ""E"" points up, indicating that it comes before ""D"".",0
+196,v1_196,['spatial'],['diagram'],['d'],"['a', 'c', 'd', 'e']","The sequence is: 1, 2, 3, 4, 5, 6
+
+The boxes in the correct order are A, C, D, and E. Box B and box E are out of order.",0
+197,v1_197,['spatial'],['diagram'],['b'],['zzzzz'],It's not possible to determine which box comes next without more information about the sequence. Can you provide more details or context about what the boxes represent?,0
+198,v1_198,['spatial'],['diagram'],['c'],"['a', 'b', 'c', 'd', 'e']","The boxes show the sequence of the boxes in the given arrangement. In this arrangement, the first box contains two squares arranged in a zigzag pattern, the second box contains four squares arranged in a cross, and the third box contains five squares arranged in a star pattern. Therefore, the correct order is: A, B, C, D, E.",0
+199,v1_199,['spatial'],['diagram'],['d'],"['a', 'b', 'c', 'd']","The correct order of the boxes is:
+
+* B
+* D
+* C
+* A
+
+This sequence corresponds to the pattern of triangles shown in the image. The first triangle has a point at the top, which is represented by letter A. The second triangle has two points, one at the top and one at the bottom, which are represented by letters B and C respectively. The third triangle has three points, one at the top, one in the middle, and one at the bottom, which are represented by letters D, E, and F respectively.",0
+200,v1_200,['spatial'],['diagram'],['a'],['a'],"The sequence is:
+
+A - B
+B - C
+C - D
+D - E
+E - A
+
+Therefore, the correct sequence is:
+
+A - B
+B - C
+C - D
+D - E
+E - A",1
+201,v1_201,['spatial'],['diagram'],['b'],['d'],D is the next box in the sequence.,0
+202,v1_202,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],​,0
+203,v1_203,['numerical'],"['diagram', 'ocr']",['c'],['d'],"①　The value of Grade B Wireless Headphones produced in 2023 is (D) 226,800. This is because a 26% increase from 2022 to 2023 results in an additional 226,800 headphones.
+②　If the production of Grade B Wireless Headphones increased by 14% from 2022 to 2023, what would be the value of Grade A, Grade C, and Grade D Wireless Headphones produced in 2023? Select from A, B, C, and D. (A) 50,000 (B) 56,000 (C) 92,000 (D) 108,000
+③　The value of each type of wireless headphone is as follows: Grade A, 50,000; Grade B, 56,000; Grade C, 92,000; and Grade D, 108,000. This is because a 14% increase from 2022 to 2023 results in an additional 92,000 headphones (B grade",0
+204,v1_204,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],​,0
+205,v1_205,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],"300,000 (A) 310,000 (B) 330,000 (C) 390,000 (D)",0
+206,v1_206,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],"​
+
+Graph shows the average precipitation in Tirana, Algiers, Tunis, and Rabat during a 12-month period. The bar graph shows that the average precipitation in Tirana is significantly lower than the other three cities.
+
+It can be inferred that Tirana experiences less rainfall than Algiers, Tunis, and Rabat. This information is useful for planning weather-related activities and determining the best time to visit these cities.
+
+Overall, the graph provides valuable insights into the precipitation levels of different cities in North Africa.",0
+207,v1_207,['numerical'],"['diagram', 'ocr']",['b'],['a'],"4.39%
+
+The percentage increase in precipitation in Tirana between April and May is 4.39%. This means that the amount of rain in Tirana increased by 4.39% compared to the previous month.",0
+208,v1_208,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],​,0
+209,v1_209,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],"0.4, 0.6, 0.8, and 1.0",0
+210,v1_210,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],"❤️Imagine you have a large garden where you can grow many different types of flowers. You spend hours each day watering and tending to your plants, making sure they get enough sunlight and nutrients to thrive.
+
+One day, you notice that one of your plants is not doing well. It's struggling to stay alive, and you realize it needs more attention than the others. So you give it special care, providing it with extra water and nutrients until it starts to recover.
+
+As the plant recovers, you see that it has become even stronger and more beautiful than before. It's more vibrant, with bigger blooms and more flowers overall. You feel proud of yourself for taking the time to save this plant and make it better.
+
+Now imagine that instead of just one plant, there are hundreds or even thousands of plants in your garden. Each one has its own needs and challenges, but you still want to give them all the best care possible. How would you approach this task?
+
+1. Set up a system for monitoring the health of all the plants in your garden, so you can quickly identify any that need extra care. This could involve using sensors to measure soil moisture levels, installing cameras to observe plant growth, or setting up a network of smartphones to track weather conditions.
+2. Develop a standard set of protocols for treating sick",0
+211,v1_211,['numerical'],"['diagram', 'ocr']",['a'],['b'],"​
+
+B. $252k
+
+The pie chart shows that Graff Inc's share of the textile industry from 2021 to 2022 is projected to increase from $45k to $252k.",0
+212,v1_212,['numerical'],"['diagram', 'ocr']",['d'],"['a', 'b']","​
+
+The pie chart shows the combined value of Balcom plc's and Trade ltd's share of the industry in 2022. The chart shows that both companies have approximately equal shares of the industry at $464k and $551k, respectively. This means that Balcom plc and Trade ltd each hold about half of the industry value.
+
+(D) $760k is not an option. It appears that there was an error in the data provided.",0
+213,v1_213,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],"There are three choices for the value of Royer inc's textile sales in 2022. The percentage increase is not given in the image.
+
+* Option A: The value of Royer inc's textile sales in 2022 is 6.1%.
+* Option B: The value of Royer inc's textile sales in 2022 is 7.3%.
+* Option C: The value of Royer inc's textile sales in 2022 is 7.9%.
+* Option D: The value of Royer inc's textile sales in 2022 is 8.2%.
+
+Please provide additional context or information if you have it. Otherwise, I will need to assume that you do not have this information and cannot answer the question.",0
+214,v1_214,['numerical'],"['diagram', 'ocr']",['a'],['d'],"50% of Val Thorens' snowfall occurred in January.
+
+This is based on the bar chart provided. The bars show the proportion of snowfall that occurred in each month, and January has the highest proportion at 50%, which is the same as the percentage in option C. Therefore, the correct answer is D: 12%.",0
+215,v1_215,['numerical'],"['diagram', 'ocr']",['c'],['a'],"1. A) 30%
+2. B) 40%
+3. C) 50%
+4. D) 60%",0
+216,v1_216,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],30,0
+217,v1_217,['numerical'],"['diagram', 'ocr']",['c'],['b'],50cm,0
+218,v1_218,['deductive'],['ocr'],['c'],['d'],"D. Some scholars are not music enthusiasts.
+
+The statement ""All musicians are music enthusiasts"" means that all musicians have a passion and interest in music, which is defined as an enthusiasm. However, not all musicians are scholars, as scholars require academic knowledge and expertise in a particular field. Therefore, some musicians may not be music enthusiasts, but they can still be scholars with their academic knowledge and expertise.
+
+On the other hand, no scholars are required to be music enthusiasts, as being a scholar requires academic knowledge and expertise in a particular field, while being a music enthusiast only requires passion and interest in music without any academic knowledge or expertise. Thus, there is no logical conclusion that can be drawn from the two statements that all scholars are musicians or all musicians are music enthusiasts.",0
+219,v1_219,['deductive'],['ocr'],['d'],['b'],"Answer: B. No dogs with long hairs are pittbulls. This conclusion is logically valid because it meets the two premises stated in the problem. Premise 1 states that all sweet dogs are dogs with long hairs, while premise 2 states that some pittbulls are not dogs with long hairs. By combining these two premises, we can draw the conclusion that no pittbulls are dogs with long hairs. This is the only logical conclusion that can be drawn from the given statements.",0
+220,v1_220,['deductive'],['ocr'],['d'],['zzzzz'],"There are two statements given:
+
+* Some phenomenae are phenomena
+* All phenomena are phenomenae
+
+Given the second statement, we can infer that all phenomena are phenomenae. Therefore, the conclusion that can be drawn from these two statements is:
+
+* All phenomena are phenomenae",0
+221,v1_221,['deductive'],['ocr'],['c'],['d'],"All taxes are expences
+
+This statement is incorrect, as taxes and expenses can exist without each other. However, it cannot be inferred that all incomes are expenses. The correct answer is (D) All incomes are expences.",0
+222,v1_222,['deductive'],['ocr'],['b'],['zzzzz'],"No people from LA are arrogant ***holes. This is because there are no people from LA who are arrogant ***holes. Therefore, there is no logical conclusion that can be drawn from the two statements.",0
+223,v1_223,['deductive'],['ocr'],['b'],['a'],"The logical conclusion that can be drawn from the given statements is that All cakes are pies.
+
+This is because all of the items listed in the statement A are also included in the statement B, which means they all have to be true for both statements to be true. Therefore, if all cakes are pies, it must also be true that all pies are cakes.",0
+224,v1_224,['deductive'],['ocr'],['d'],"['a', 'b', 'd']","A, B and C are correct. All furry animals are animals, and some furry animals are not animals. However, all animals are not furry animals. Therefore, only answer C is incorrect. Answer D is correct because all animals are furry animals.",0
+225,v1_225,['deductive'],['ocr'],['b'],['a'],"The correct answer is A. Some kalowites are kilowites. This is because the statement ""All kalowites are koliwites"" implies that all kalowites are also kilowites, but not necessarily the other way around. Therefore, the only conclusion that can be drawn from the two statements is that some kalowites are kilowites.",0
+226,v1_226,['deductive'],['ocr'],['d'],"['a', 'd']","The conclusion that can be drawn from the two statements is that:
+
+* (A) All leaves are trees, which is true.
+* (B) No leaves are shrubs, which is false because shrubs have leaves.
+* (C) All shrubs are leaves, which is false because some shrubs do not have leaves.
+* (D) Some shrubs are trees, which is true because some shrubs are also trees.
+
+Therefore, the logical conclusion that can be drawn from these two statements is that not all leaves are shrubs and that some shrubs are also trees.",0
+227,v1_227,['deductive'],['ocr'],['d'],['a'],"A is the correct answer. All diseases are caused by viruses, but not all viruses are malicious.",0
+228,v1_228,['deductive'],['ocr'],['d'],['b'],The logical conclusion from the statements is that all proky proaks are prakky prooks.,0
+229,v1_229,['deductive'],['ocr'],['d'],['zzzzz'],"Select from A, B, C, and D.
+
+(A)  All people are animals (B) Some animals are people (C) Some rational beings are animals (D) No rational beings are animals",0
+230,v1_230,['deductive'],['ocr'],['d'],['d'],"The conclusion that can be drawn from the two statements is that some women are men, but not all men are women.",1
+231,v1_231,['deductive'],['ocr'],['c'],['d'],D. All dolphins are whales.,0
+232,v1_232,['deductive'],['ocr'],['c'],['a'],"A is the correct answer. Sperm whales are not dolphins, so there are no whales that are sperm whales.",0
+233,v1_233,['deductive'],['ocr'],['d'],['b'],"B is the logical conclusion that can be drawn from the two statements. All pot viewers are curious monkeys means that anyone who views pots is also a curious monkey, but it does not necessarily mean that all curious monkeys are pot viewers. Therefore, it is possible for there to be some pot viewers who are not curious monkeys. In contrast, if all curious monkeys are pot viewers, then it would follow that every person who views pots is a curious monkey. However, this is not necessarily true since some people may view pots without being curious monkeys. Therefore, C is not the logical conclusion from the statements. A is incorrect since it does not accurately reflect either statement. D is incorrect since it contradicts both statements.",0
+234,v1_234,['deductive'],['ocr'],['b'],['a'],"Based on the given statements, we can deduce that:
+
+There are no hand bags that are not plastic or Gucci bags.
+
+None of the options is correct, as all plastic bags are hand bags and no Gucci bags are hand bags.",0
+235,v1_235,['deductive'],['ocr'],['b'],['a'],"A logical conclusion from the statements provided is that people who are happy are not annoying and vice versa. Therefore, the correct answer is (A) None of the other answers is correct.",0
+236,v1_236,['deductive'],['ocr'],['a'],['b'],"The conclusion that can be drawn from the two statements is that some thieves are robbers. This is because statement A asserts that some thieves are not robbers, but statement C asserts that no robbers are thieves. Therefore, we can conclude that some thieves must be robbers.",0
+237,v1_237,['deductive'],['ocr'],['c'],['a'],"The correct answer is A. All sharks are fishes, which means that they belong to the same species or category of animals. However, not all fishes are sharks. For example, some fishes are freshwater species, while others are marine species. On the other hand, sharks are not considered fishes because they belong to a different taxonomic group. Therefore, all fishes are not sharks, but sharks are a type of fish.",0
+238,v1_238,['deductive'],['ocr'],['d'],['zzzzz'],"It is not possible to determine whether meters or yards are longer, as both units are used to measure length in different ways. Meters are used to measure length in three dimensions, while yards are used to measure linear measurements. There is no logical conclusion that can be drawn from the given statements.",0
+239,v1_239,['deductive'],['ocr'],['c'],['zzzzz'],"There is no logical conclusion that can be drawn from the given statements.
+
+In statement A, all birds are crows, but in statement B, no crows are birds, which means that there must be some birds that are not crows. Therefore, statement C is false.
+
+In statement D, all ravens are crows, but this is contradictory with statement B, where no crows are birds. Therefore, statement D is false.
+
+As a result, there is no logical conclusion that can be drawn from the given statements.",0
+240,v1_240,['deductive'],['ocr'],['d'],['c'],"C is the correct answer. The first statement asserts that some happy tunes are beautiful sounds, but the second statement contradicts this by stating that all happy tunes are not beautiful sounds. Therefore, none of the other answers can be correct.",0
+241,v1_241,['deductive'],['ocr'],['d'],['c'],Answer: C. No bankers are lawyers.,0
+242,v1_242,['deductive'],['ocr'],['d'],"['a', 'b', 'c', 'd']",A.  No musicians are scholarsB.  No music enthusiasts are musiciansC.  No music enthusiasts are scholarsD.  All music enthusiasts are scholars,0
+243,v1_243,['deductive'],['ocr'],['a'],"['a', 'b']","There are two statements, A and B, that can be drawn from the given information. The first statement states that all croptonites are croptonates, which means that every element that contains a crotonate is itself a croptonate. This statement is true. The second statement states that some craptonates are croptonates, which means that some elements that contain a crotonate are also croptonates. This statement is also true. Therefore, both A and B are true. Select C or D from the options.
+
+The statement C is false because it implies that some croptonites are not craptonates, which is not true since all elements that contain a crotonate are also croptonates. Therefore, C is false.
+
+The statement D is also false because it implies that no croptonates are craptonates, which is not true since some elements that contain a crotonate are also craptonates. Therefore, D is also false. Overall, A and B are true, and C and D are false.",0
+244,v1_244,['deductive'],['ocr'],['c'],['b'],"(B) Susan
+
+The text above describes a scenario where three people are in the kitchen, and someone is baking a lemon cake. Maggie, Susan, and Mark are all present in the room. The text asks the reader to select one of the people who is most likely to have baked the lemon cake. This task requires inference, as the text does not give any direct information about who actually baked the cake. Since Susan is the person most directly involved in cooking and baking, she is the most likely candidate for having baked the cake.",0
+245,v1_245,['deductive'],['ocr'],['a'],['d'],"The statement that best exemplifies an inductive argument is:
+D) You will find a painting you can afford if you keep looking. This is an inductive argument because it draws a conclusion based on the evidence presented (i.e., ""you won't find a painting to take home with you,"" which implies that there may be paintings available that are affordable). The argument is not conclusive, as it acknowledges that further investigation or research may be necessary to confirm the accuracy of the conclusion.",0
+246,v1_246,['deductive'],['ocr'],['c'],['b'],B The children in Red Room probably wear red clothes,0
+247,v1_247,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],89.2% of flights cancelled at Gatwick Airport in February were Gatwick Airport flights.,0
+248,v1_248,['numerical'],"['diagram', 'ocr']",['b'],"['a', 'b', 'c', 'd']",A) 29%B) 220%C) 45%D) 69%,0
+249,v1_249,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],"​
+
+A line graph showing the number of cancelled flights at Gatwick Airport from November 2020 to May 2021. The x axis shows the months of the year, starting with January and ending with May. The y axis shows the number of cancelled flights. Each line represents one month, and the line color corresponds to the type of flight (red for non-stop, green for connecting, and blue for transatlantic).
+
+The graph shows that there were more cancelled flights in November 2020 than any other month, with a total of 934 cancelled flights. December 2020 had the second highest number of cancelled flights, with 839. However, the number of cancelled flights began to decrease from January 2021 onwards, with the lowest number of cancelled flights in May 2021, at 489.Overall, the number of cancelled flights at Gatwick Airport decreased over time, with November 2020 having the highest number of cancelled flights, and May 2021 having the lowest.",0
+250,v1_250,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],"​
+
+No answer is required.",0
+251,v1_251,['numerical'],['diagram'],['d'],['b'],270,0
+252,v1_252,['numerical'],['diagram'],['a'],['c'],09:30 coach departure.,0
+253,v1_253,['numerical'],['diagram'],['b'],['a'],"1. What's the difference in the average speeds of the 07:50 and 10:30 train departures, to the nearest mph.
+* The average speed of the 07:50 train departure is 68mph, and the average speed of the 10:30 train departure is 68mph.
+2. Which train departs faster, the 07:50 or the 10:30 train?
+* Both trains depart at the same time, which means they both depart at 07:50.
+3. How many miles do both trains travel?
+* Both trains travel a distance of 164 miles.
+4. What's the difference between the two train departures, to the nearest mile?
+* The difference between the two train departures is 0 miles.
+5. Select from A, B, C, and D.
+* A) 0mph
+* B) 5mph
+* C) 60mph
+* D) 68mph
+* A) 0mph (The trains depart at the same speed of 68mph, so there is no difference.)",0
+254,v1_254,['numerical'],['diagram'],['a'],"['a', 'b', 'c', 'd']","65.00, 49.59, 55.00, 59.49",0
+255,v1_255,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],"It's not possible to determine the actual revenue generated by Binders in the quarter October to December based on the given data. The bar graph shows that there were three sales in October, three in November, and two in December, but there is no information about the value or quantity of each sale. Without this information, it's impossible to calculate the total revenue for the quarter.",0
+256,v1_256,['numerical'],"['diagram', 'ocr']",['a'],['d'],"75%
+
+What was the average number of pages per session for visitors to Graff from January 2020 to June 2021? Select from A, B, C, and D. (A) 5 (B) 3 (C) 2 (D) 4",0
+257,v1_257,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],"5,281.",0
+258,v1_258,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],"​
+
+The graph shows that there has been a 29% decrease in revenue from quarter 1 to quarter 4.",0
+259,v1_259,['numerical'],['diagram'],['a'],['zzzzz'],"​
+
+A. 52.61
+B. 54.61
+C. 56.61
+D. 58.61
+
+This question requires the calculation of the annual saving for a Gem Plan customer compared to a Royal Plan customer, based on the number of minutes used per month. The table shows the number of minutes used per month for each plan, and the corresponding cost per minute. For example, if a Royal Plan customer uses 100 minutes per month, the cost per minute is $3.17, and the total monthly cost is $317.
+
+The annual saving for a Gem Plan customer depends on the number of minutes used per month and the cost per minute. Let's assume that a Gem Plan customer uses 200 same network minutes and 150 other network minutes per month, for a total of 350 minutes per month. The cost per minute for same network minutes is 10 cents, and the cost per minute for other network minutes is 15 cents. Therefore, the total cost for 350 minutes is:
+
+350 x 0.10 + 150 x 0.15 = 37.5 + 22.5 = 60
+
+The annual saving for a Gem Plan customer compared to a Royal Plan customer, given the same number",0
+260,v1_260,['numerical'],['diagram'],['a'],['a'],"2,450 mins and 1,600 texts
+
+A. 2,450 mins, 1,600 texts
+B. 2,300 mins, 1,400 texts
+C. 2,300 mins, 1,500 texts
+D. 2,400 mins, 1,500 texts
+
+The customer accumulates 2,450 minutes of standard calls and 1,600 texts during the time period between March and November on a Gem Plan. Then, she switches to a Royal Plan until the end of November, which means that she will have an additional 2,300 minutes of standard calls and 1,400 texts. Therefore, the correct answer is A.",1
+261,v1_261,['numerical'],['diagram'],['a'],['b'],5B. 36.48,0
+262,v1_262,['numerical'],['diagram'],['c'],['a'],"The refund due is A, 505.60.
+
+To find the refund amount for this Royal Plan customer, we first need to calculate the total number of minutes used. This can be done by adding the number of minutes in each of the three months and dividing by 3.
+
+In month 1, the customer made 492 minutes of standard calls at 30p per minute, for a total cost of £136.
+
+In month 2, the customer made 543 minutes of standard calls at 30p per minute, for a total cost of £173.
+
+In month 3, the customer made 625 minutes of standard calls at 30p per minute, for a total cost of £207.
+
+Therefore, the total number of minutes used over the three months is 492 + 543 + 625 = 1,650 minutes.
+
+The cost of these minutes, divided by the number of minutes used, is £136 / 1,650 minutes = 0.081p per minute.
+
+This means that the total cost of the minutes used is 1,650 x 0.081 = £135.8.
+
+The refund due is therefore £135.8 -",0
+263,v1_263,['numerical'],"['diagram', 'ocr']",['a'],['a'],"​
+
+Graph generated by AI
+```
+![Image](https://i.imgur.com/K95vjFf.png)
+```
+
+These graphs show the price of oil for February, with the line representing the average price for each month in red and the highest and lowest prices for each month in green. In both graphs, February had the lowest average price at $1,170,000, while the highest average price was in March at $1,360,000. The line for the highest average price for each month is also shown in blue, and the line for the lowest average price in orange.",1
+264,v1_264,['numerical'],"['diagram', 'ocr']",['d'],['b'],"2B
+
+The month on month production falls by 22% in July, so it is expected that the value of oil produced in July will be $1,081,080. This is lower than the previous month's production of $1,300,450, which indicates a decrease in production. The option B, ""Cannot say,"" is not applicable because we can make an educated guess about the value based on the previous month's production and the decrease in production in July.",0
+265,v1_265,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],​,0
+266,v1_266,['numerical'],"['diagram', 'ocr']",['b'],['a'],A. $78.33,0
+267,v1_267,['inductive'],['diagram'],['b'],['zzzzz'],The boxes in the sequence are arranged in ascending order from left to right.,0
+268,v1_268,['inductive'],['diagram'],['a'],['c'],"© Copyright 2018, Thought Questions. All rights reserved.",0
+269,v1_269,['inductive'],['diagram'],['a'],['d'],The correct answer is D.,0
+270,v1_270,['inductive'],['diagram'],['c'],['zzzzz'],"A. A
+B. B
+C. C
+D. D
+E. E
+
+The shapes are arranged in a sequence from left to right and top to bottom, with each shape being symmetrical. The first two shapes, triangles and squares, are arranged in a diagonal pattern with the triangle on the left and the square on the right. The third shape, a rectangle, is placed below the other two shapes. The fourth shape, a trapezoid, is placed on top of the other three shapes, with its smaller base facing upwards.",0
+271,v1_271,['inductive'],['diagram'],['e'],['a'],"The boxes come in the following order: (A) E, (B) C, (C) D, (D) A.",0
+272,v1_272,['inductive'],['diagram'],['c'],['zzzzz'],"The boxes are labeled A, B, C, D, and E.
+
+ A has a black dot on the left side.
+
+ B has two black dots on the left side and one on the right side.
+
+ C has three black dots on the left side and two on the right side.
+
+ D has four black dots on the left side and three on the right side.
+
+ E has five black dots on the left side and four on the right side.
+
+Based on the pattern shown in the image, it appears that the sequence is going down from left to right and then up from left to right.",0
+273,v1_273,['inductive'],['diagram'],['e'],['zzzzz'],"There are four boxes in this sequence. Each box shows a number from 1 to 4. The boxes are arranged in the following order: 2, 4, 3, 1, 5.
+
+To determine which number comes next in the sequence, you can count the number of empty spaces between each number in the sequence and add 1. For example, there are three empty spaces between 2 and 4, so the next number in the sequence should be 5. Similarly, there are two empty spaces between 4 and 3, so the next number in the sequence should be 5. There is only one empty space between 3 and 1, so the next number in the sequence should be 1. Finally, there are two empty spaces between 5 and 1, so the next number in the sequence should be 2.
+
+Therefore, the correct order of numbers in the sequence is 2, 4, 3, 1, 5.",0
+274,v1_274,['inductive'],['diagram'],['a'],"['b', 'c', 'd', 'e']",1. B2. C3. D4. E,0
+275,v1_275,['inductive'],['diagram'],['b'],"['a', 'b', 'c', 'd', 'e']","A. A
+B. B
+C. C
+D. D
+E. E",0
+276,v1_276,['inductive'],['diagram'],['e'],['zzzzz'],"(A) B
+
+(B) D
+
+(C) C
+
+(D) E
+
+(E) A
+
+The sequence is in the shape of a trapezoid, with each line of boxes connecting to the others in order. The sequence starts from the bottom left corner and moves up and right. The last box in the sequence is the one that comes next in the sequence. This is because the pattern continues in this direction until it reaches the top right corner.",0
+277,v1_277,['inductive'],['diagram'],['b'],['zzzzz'],"​
+
+Please continue to provide more information or clarify the question.",0
+278,v1_278,['inductive'],['diagram'],['d'],"['a', 'a', 'a', 'b', 'b', 'c', 'c', 'c', 'd', 'd', 'd', 'd', 'e', 'e']","1. B
+2. D
+3. C
+4. A
+5. E
+6. D
+7. C
+8. A
+9. E
+10. D
+11. A
+12. B
+13. C
+14. D",0
+279,v1_279,['inductive'],['diagram'],['b'],['b'],B,1
+280,v1_280,['inductive'],['diagram'],['a'],"['a', 'b', 'c', 'd', 'e']",1. A 2. B 3. C 4. D 5. E,0
+281,v1_281,['inductive'],['diagram'],['b'],"['a', 'a', 'b', 'b', 'b', 'b', 'b', 'c', 'c', 'c', 'c', 'd', 'd', 'd', 'd', 'd', 'e', 'e', 'e', 'e', 'e']","1. B, D, E
+2. B, C, D, E
+3. C, D, E
+4. A, B, C, D
+5. A, B, E
+6. B, C, D, E",0
+282,v1_282,['inductive'],['diagram'],['c'],['b'],1. B,0
+283,v1_283,['inductive'],['diagram'],['d'],['d'],"```markdown
+   A B C D E
+   ----- ----- ----- ----- -----
+1|        |        |        |      
+ 2|        |      X    |      
+ 3|        |   .   |    .      
+ 4|        |         |     .      
+ 5|        |   .   |   .      
+ 6|        |   .   |    .      
+```
+The correct sequence of steps to solve the puzzle is:
+
+1. Pick the smallest square
+2. Flip it over
+3. Pick the largest square
+4. Take the smaller of the two squares
+5. Place the larger square on top of the smaller square
+6. Flip the large square over, resulting in the solution
+
+The correct answer is D. The correct order for the given puzzle is D C B A.",1
+284,v1_284,['inductive'],['diagram'],['c'],"['a', 'a', 'b', 'b', 'c', 'c', 'd', 'd', 'e', 'e']",0 (A) 1 (B) 2 (C) 3 (D) 4 (E) 5 (A) 6 (B) 7 (C) 8 (D) 9 (E),0
+285,v1_285,['inductive'],['diagram'],['b'],"['a', 'b', 'd', 'e']","A, B, D, and E come next in the sequence.",0
+286,v1_286,['inductive'],['diagram'],['d'],"['a', 'b', 'c', 'd', 'e']","①A, ②B, ③C, ④D, ⑤E",0
+287,v1_287,['deductive'],['ocr'],['a'],['zzzzz'],​,0
+288,v1_288,['deductive'],['ocr'],['b'],"['a', 'b', 'c']","​
+
+(A) True. The statement that a BarBox will cost less than 5 FruitBars is true because the BarBox is a single item and the FruitBars are multiple items. Therefore, the total cost of the FruitBars will always be greater than the cost of the BarBox.
+
+(B) False. The statement that the BarBox costs less than 5 FruitBars is false because the total cost of the two items cannot be determined without additional information about their respective prices. Therefore, it is insufficient to say whether the BarBox costs less than 5 FruitBars or not.
+
+(C) Insufficient Information. The statement that a BarBox will cost less than 5 FruitBars is insufficient to make a conclusion. It is necessary to know the prices of both items to determine whether the BarBox costs less than 5 FruitBars or not.",0
+289,v1_289,['deductive'],['ocr'],['a'],['c'],"2018 BarBoxes sold fewer units than OatBars. Therefore, BarBoxes have sold less than OatBars.
+
+The correct answer is (C) Insufficient Information because the information provided is not sufficient to determine if BarBoxes have sold less or more than OatBars. Without additional data, it's not possible to make a definitive statement.",0
+290,v1_290,['deductive'],['ocr'],['b'],['a'],"3A. True, as stated in the text.",0
+291,v1_291,['deductive'],['ocr'],['c'],['a'],"​
+
+**Plan A - Ferret**
+
+This plan is the cheapest option, costing $15/month. With this plan, you will get:
+
+* 10GB of data per month
+* Unlimited voice minutes
+* Unlimited text messages
+* 25 GB of cloud storage
+* 40 GB of data for smartphones and tablets
+* 15 GB of data for smartphones and tablets
+* 5 GB of data for laptops
+* 15 GB of data for laptops
+* 2 GB of data for smartwatches
+
+**Plan B - Hare**
+
+The next most expensive option, it costs $20/month. With this plan, you will get:
+
+* 20GB of data per month
+* Unlimited voice minutes
+* Unlimited text messages
+* 30 GB of cloud storage
+* 50 GB of data for smartphones and tablets
+* 20 GB of data for smartphones and tablets
+* 10 GB of data for laptops
+* 30 GB of data for laptops
+* 3 GB of data for smartwatches
+
+**Plan C - Dog**
+
+This plan is slightly more expensive than Plan B, costing $25/month. With this plan, you will get:",0
+292,v1_292,['deductive'],['ocr'],['b'],['b'],"​
+
+A) Ferret
+B) Owl
+C) Wader
+D) Fox
+E) Hare
+
+Based on the information provided, the best plan to accommodate the 5 employees at the lowest price is option B, the Owl plan. This plan offers the most data for the least amount of money, with a cost of $260 per user. Option C, the Wader plan, has the highest cost at $380 per user, and does not provide as much data. Options A, D, and E are not viable options because they do not offer enough data or are too expensive.",1
+293,v1_293,['deductive'],['ocr'],['c'],['b'],"The statement is false. Roger's journal contains two sections that the French department did not disagree with.
+
+[Please note: This answer was generated from a text-based response.]",0
+294,v1_294,['deductive'],['ocr'],['b'],['c'],"I'm sorry, but I am unable to see the image you provided. Please provide a description of it so that I can assist you better.",0
+295,v1_295,['deductive'],['ocr'],['a'],['b'],"The statement, ""The french department has always been disclosing in the school,"" is false. There is no evidence provided that suggests that the French department has always been disclosing in the school. Therefore, the answer to the question is (B) False.",0
+296,v1_296,['deductive'],['ocr'],['c'],['a'],"The fifth journal was written by a man named Simone and another man named Frederick. They disagreed about the contents of the journal. Select from A, B and C.
+
+A. True
+B. False
+C. Insufficient Information",0
+297,v1_297,['deductive'],['ocr'],['c'],"['c', 'd', 'e']","This argument is a conditional statement that asserts that if William II invested in the national debt, then the syndicate would make a profit from their loan. The premise and conclusion of the argument are both true, so the middle term must be false.
+
+(B) The syndicate would make a profit from their loan.
+
+This statement is a necessary condition for the conclusion to be true, so it must be true.
+
+(C) National debt is decreed by William III to be paid by investors.
+
+This statement is false. While it is true that William III was responsible for managing the national debt, it does not mean that the debt was decreed to be paid by investors. The national debt existed before this agreement and has continued to exist through various monarchs and governments.
+
+(D) The syndicate provided loan management for a fee.
+
+This statement is false. Loan management is typically a responsibility of the lender or an intermediary, not of the syndicate. The syndicate may provide various services related to loans, but loan management is not one of them.
+
+(E) National debt did not exist conceptually before this agreement.
+
+This statement is false. The concept of national debt has existed since ancient times, and even in pre-modern societies, governments have borrowed money to fund wars or other expenses",0
+298,v1_298,['deductive'],['ocr'],['e'],['d'],"The statement that must be demonstrably true is:
+
+(D) City traders would earn the majority from within their syndicate.
+
+This is supported by the fact that the syndicate was formed by merchants and City traders, and it is mentioned in the passage that the syndicate funded the parliament of William. Therefore, option (D) is the only statement that can be considered as a fact, and the others are speculations or opinions without any solid evidence.",0
+299,v1_299,['deductive'],['ocr'],['a'],['c'],"As an assistant, I am unable to see the image. However, based on the description provided, I can infer that the question asks whether using 5m² of wood will cost £1,350 overall, with options A, B and C providing different possible answers. The answer to this question depends on whether the price per square meter of wood is the same or different for each option. If the price per square meter is the same for all three options, then the answer would be A. If the price per square meter varies, then it could be either B or C. Without further information, it is difficult to determine which option is correct.",0
+300,v1_300,['deductive'],['ocr'],['a'],['zzzzz'],​,0
+301,v1_301,['deductive'],['ocr'],['c'],['zzzzz'],​,0
+302,v1_302,['deductive'],['ocr'],['b'],['b'],"¬
+B",1
+303,v1_303,['deductive'],['ocr'],['e'],['d'],"​
+
+| Contract Type | Delta | Echo |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+Both Lucy and David have contract type Echo. Therefore, the correct option is (D) Delta.",0
+304,v1_304,['deductive'],['ocr'],['d'],['zzzzz'],"70,000 100,000 160,000 190,000 220,000",0
+305,v1_305,['deductive'],['ocr'],['a'],['c'],"The image appears to be an abstract painting with a white background and several orange shapes that resemble a sun. It is difficult to interpret the meaning or significance of the image, as it is not clear what the shapes represent or how they relate to each other.",0
+306,v1_306,['deductive'],['ocr'],['c'],['b'],"BFalse
+
+The statement ""Things-in-themselves are projected onto mirrors"" is false. This statement suggests that objects exist independently of their perception or awareness, and that they are only perceived by the observer through the medium of a mirror. However, this is not supported by modern physics and philosophy which suggests that all phenomena are dependent on the observer's perspective and that there is no independent existence for objects. Therefore, option B, ""True"" cannot be selected as it contradicts modern scientific understanding. Option C, ""Insufficient Information"" is also not an appropriate answer because it does not provide a complete evaluation of the statement.",0
+307,v1_307,['deductive'],['ocr'],['b'],['a'],This statement is true. The mirror only exists when the self is projected onto it. It is not possible for the mirror to exist independently of the self.,0
+308,v1_308,['deductive'],['ocr'],['a'],['c'],"The quote is an excerpt from a book, which states that the self projects onto the mirror. This means that the self is reflected in the mirror and it is a projection of one's own image or personality. The options given are True, False and Insufficient Information, but without further context it is not possible to determine which option is correct.",0
+309,v1_309,['deductive'],['ocr'],['a'],['b'],"False. The information provided is insufficient to determine the opportunity cost per hour for Andrea versus Sophie. To accurately compare the opportunity cost per hour for the two individuals, more information is needed, such as their salaries, the type of work they do, and the number of hours they work in a week.",0
+310,v1_310,['deductive'],['ocr'],['b'],['a'],"❌ B
+
+The correct answer is (A) True. Andrea would have an opportunity cost of £80 if she did the secretarial work instead of Sophie in a 40-hour working week. This is because £80 is equal to 80 hours at £10 per hour. Therefore, the opportunity cost of one hour of Andrea's time is £10. Since there are 40 hours in a week, the total opportunity cost of Andrea's work for one week is £400. If she works 40 hours, her total earnings would be £400 - £40 = £360.",0
+311,v1_311,['deductive'],['ocr'],['c'],['c'],"The information provided is insufficient to answer the question as it only states that Andrea produces £552 more than Sophie in a 46-hour working week but does not provide any further details about the cost or time of production. Therefore, it is not possible to determine whether the statement is true or false.",1
+312,v1_312,['deductive'],['ocr'],['c'],['b'],"The statement is false. Accountants and secretaries perform different roles in an organization. While accountants are responsible for maintaining financial records and ensuring the accuracy of financial statements, secretaries provide administrative support to employees by performing tasks such as scheduling meetings, making travel arrangements, and managing emails and other communication. Therefore, it is not accurate to say that accountants always produce more money than secretaries, as their roles and responsibilities differ significantly.",0
+313,v1_313,['deductive'],['ocr'],['c'],['e'],10 miles passed through the Lancaster and Severn canals.,0
+314,v1_314,['deductive'],['ocr'],['d'],['zzzzz'],"​
+
+The table shows that Gloriana travelled across the Grand Union and Lancaster, which is the first canal listed. The next two canals listed are the Thames and Trent, followed by the Thames and Kennet & Avon, and the Trent and Severn. The final canal listed is the Grand Union and Trent, which is the same as the first canal listed. Therefore, there is no correct answer to this question.",0
+315,v1_315,['deductive'],['ocr'],['c'],['a'],"​
+
+A) False, the United Kingdom is not a Slavic country. It is a member of the European Union and a member of the G7 and G20 countries.
+B) True, the United Kingdom is a Slavic country. It is a member of the European Union, but not a member of the G7 or G20 countries.
+C) Insufficient Information, as the information provided is insufficient to determine whether the United Kingdom is a Slavic country.",0
+316,v1_316,['deductive'],['ocr'],['b'],['c'],"‪The flags of Slavic countries bear different colors to the Norwegian flag. This statement is not necessarily true or false because it depends on the specific flags being referred to. Some Slavic countries have flags with different colors than Norway's flag, while others have flags that are similar in color. Therefore, there is insufficient information to determine if this statement is true or false.",0
+317,v1_317,['deductive'],['ocr'],['b'],['zzzzz'],​,0
+318,v1_318,['deductive'],['ocr'],['c'],['b'],"​
+
+To answer this question, you need to compare the flag of Finland with that of another country. Since there are many countries that have the same colors as Finland, it is insufficient information to simply choose between A and C. Therefore, the correct answer is (B) False.",0
+319,v1_319,['deductive'],['ocr'],['a'],['c'],"​
+
+C. Copyright is obeyed by all
+
+The statement ""Copyright is obeyed by all"" is true because it states that the laws regarding copyright are followed by everyone, regardless of their intent or motivation for using someone else's work. However, some exceptions to copyright laws exist, such as fair use, which allows for limited use of copyrighted material without permission from the copyright holder, and parody, which allows for the use of copyrighted material for humorous or critic purposes with certain limitations. Therefore, options B and E are false and option D is true, but not the entire statement.",0
+320,v1_320,['deductive'],['ocr'],['e'],['zzzzz'],"© 2023 by [Your Name]. All rights reserved.
+
+The above statement is a legal notice indicating that the content of the webpage, including but not limited to text, images, videos, and other multimedia materials, is the property of the owner and protected by copyright laws. Reproduction, distribution, display, or performance without proper authorization is prohibited and may result in legal action. If you would like to use any of the content for commercial purposes, please obtain written permission from the owner.",0
+321,v1_321,['deductive'],['ocr'],['b'],['c'],"​
+
+A) True
+
+B) False
+
+C) Insufficient Information
+
+The dining table is eight times bigger than a chair, so the answer is true. The statement ""the dining table is eight times bigger than a chair"" means that the size of the dining table is eight times the size of a chair. If the dining table is eight times bigger than a chair, then it must be at least eight times the size of a chair. Since there is no information about the size of the chair, it is not possible to determine if the statement is true or false, so the answer is insufficient information.",0
+322,v1_322,['deductive'],['ocr'],['a'],['c'],"The poem is written in a calligraphic style with no specific subject or meaning, making it difficult to determine whether the image is true or false.
+
+As a language model, I do not have any personal opinions or beliefs, and can only provide factual information based on the input provided to me. Therefore, I cannot determine whether the image represents a yellow chair or not.",0
+323,v1_323,['deductive'],['ocr'],['c'],['c'],"​
+
+I'm sorry, but I cannot see the image you provided. Could you please provide me with an image or describe it in more detail so I can assist you better?",1
+324,v1_324,['deductive'],['ocr'],['c'],['c'],It is not possible to determine whether the statement is true or false without additional information. The information provided is insufficient to make a decision on the veracity of the statement.,1
+325,v1_325,['deductive'],['ocr'],['a'],['zzzzz'],​,0
+326,v1_326,['deductive'],['ocr'],['e'],['zzzzz'],"​
+
+julia's wage would be $200, if she takes up the highest paid job, because that is the maximum amount of money she could potentially make, and this amount is significantly higher than the lowest amount of money she could make.",0
+327,v1_327,['deductive'],['ocr'],['a'],['b'],"The answer to this question is B, False.
+
+A government can be defined as the system of rules and institutions by which a society is governed. The people in society are not responsible for the production of goods and services, as they are just consumers of these goods and services. Therefore, it is insufficient information to say that the people made the product.
+
+It is important to note that governments play an essential role in ensuring that the economy is functioning smoothly and that the needs of the people are met through the provision of goods and services. This can include regulating the economy, taxing individuals and businesses to fund public goods and services, and creating laws and policies that support economic growth and development. However, the actual production of goods and services is typically carried out by businesses and individual producers.",0
+328,v1_328,['deductive'],['ocr'],['c'],['b'],"​
+
+The government plays a role in determining the supply and demand of goods and services in the market. The government's policies can affect prices, wages, and the level of employment in an economy. This can be seen by looking at a diagram of the production possibilities frontier. For example, if the government raises taxes on corporations, it can reduce the supply of goods and services in the market, leading to higher prices and lower levels of output. On the other hand, if the government provides subsidies to small businesses, it can increase the supply of goods and services in the market, leading to lower prices and higher levels of output.
+
+Overall, the government's role in the market is complex, and its effects can be difficult to predict. It is important for the government to strike a balance between promoting economic growth and protecting the well-being of its citizens. By making sure that the market operates efficiently and fairly, the government can help create conditions that support sustainable economic development and social progress.",0
+329,v1_329,['deductive'],['ocr'],['b'],['zzzzz'],"This is an image of a white page with the words "" The government determines the production. Select from A, B and C "" written in black ink above it. The page appears to be an advertisement or quiz, with the words "" A ) True "" and "" B ) False "" and "" C ) Insufficient Information "" underneath the main text. The background of the image is a white space with an orange border.",0
+330,v1_330,['deductive'],['ocr'],['c'],['b'],"​
+
+(A) True
+(B) False
+(C) Insufficient Information
+
+The statement is true, as production involves the process of manufacturing goods and services to meet the needs of consumers. The people involved in this process can be employees, suppliers, distributors, and other stakeholders who contribute to the production of goods and services. However, it's not entirely accurate to say that production is made up of the people, as there are other factors such as capital, technology, and resources that play a crucial role in the production process. Therefore, option (B) is false. Option (C) is insufficient information since it does not provide enough context or details about the production process to make an informed decision.",0
+331,v1_331,['numerical'],"['diagram', 'ocr']",['d'],['c'],9.2,0
+332,v1_332,['numerical'],"['diagram', 'ocr']",['e'],['b'],19. The average amount gambled on slot machines in 2007 by each individual who attended Calewell casino was $9.0.,0
+333,v1_333,['numerical'],"['diagram', 'ocr']",['a'],['d'],"The entrance fee revenue was £15 in 2006, and there is no other year with a lower revenue. Therefore, the answer is (D) £15 in 2007.",0
+334,v1_334,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],"Based on the information provided, it is not possible to determine the average annual change in attendance at Calewell casino across the years 2006-2010. The prediction of a 23% increase in 2010 is not enough data to draw any conclusions about the overall trend in attendance over the five year period. Without more information about the number of people attending each year, it is not possible to calculate the average annual change.",0
+335,v1_335,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],11.59 million,0
+336,v1_336,['numerical'],"['diagram', 'ocr']",['d'],['e'],0.56 (E),0
+337,v1_337,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],It's not possible for me to know the actual R&D spend for 2010 as it was not specified in the image.,0
+338,v1_338,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],​,0
+339,v1_339,['numerical'],"['diagram', 'ocr']",['d'],['c'],"2010 predicted R&D sum left after overheads are taken in to account is C) $2.11 million. The table shows the percentage of R&D spend on various categories, and the total R&D spend is calculated by multiplying the percentage with the total revenue. Then, the sum left after overheads are subtracted is calculated by subtracting the total overhead costs from the total R&D spend. The final answer is $2.11 million.",0
+340,v1_340,['numerical'],"['diagram', 'ocr']",['b'],['c'],"2,528,000",0
+341,v1_341,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],"5. What is the number of shares not held by Leutts directors (as of 30 April 2009)?Select from A, B, C, D and E. (A) 24,770 (B) 6,770 (C) 44,400 (D) 5,070 (E) Cannot tell from data",0
+342,v1_342,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],​,0
+343,v1_343,['numerical'],"['diagram', 'ocr']",['c'],['a'],"3,690.
+
+This is the answer because if half of Tobey Gilham's shareholding is sold at 31 May 2009 at 45 per share, and there are 10,000 shares outstanding in total, then the total value of the trade is:
+
+(number of shares sold) x (price per share) = 500 x 45 = 22,500
+
+Thus, the total value of the trade is $22,500. Since half of this is $22,500 / 2 = $11,250, the value of the trade for one share is $11,250.",0
+344,v1_344,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],"35% of Leutts shares were held by current employees and directors on 30 April 2009, according to the table.",0
+345,v1_345,['numerical'],"['diagram', 'ocr']",['d'],['c'],"The share valuation of the entire company is C. Based on the given information, if Leutts shares are worth 52 on 30 April 2009, then the share valuation of the entire company is C, which is 1,566,000.",0
+346,v1_346,['numerical'],"['diagram', 'ocr']",['c'],"['c', 'e']","​
+
+E
+
+The total number of £400,000 Apline houses sold in 2009 represented 80% of the annual sales target. If this target was split equally across 5 salerooms, what was the individual sales target for each salesroom? Select from A, B, C, D and E.
+
+A) 155
+B) 120
+C) 125
+D) 325
+E) 225
+
+Answer: C",0
+347,v1_347,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],"​
+
+I apologize, but I am unable to see the image as it has not been provided. Please provide the image so that I can answer your questions.",0
+348,v1_348,['numerical'],"['diagram', 'ocr']",['b'],['d'],"2009 Alpine house sales are as follows:
+
+A) 127.5 million
+B) 777.5 million
+C) 115 million
+D) 162.5 million
+E) 353,409 million
+
+The answer is (D) 162.5 million.",0
+349,v1_349,['numerical'],"['diagram', 'ocr']",['e'],['d'],"(D) 125
+
+Based on the data provided, we can see that the sales for July-December 2010 were £125, which is higher than the sales for January-June 2010. Therefore, the difference in Apline house sales between July-December 2010 and January-June 2010 is £125.6.",0
+350,v1_350,['numerical'],"['diagram', 'ocr']",['e'],['d'],36.6 million,0
+351,v1_351,['numerical'],['ocr'],['a'],['zzzzz'],"1, 3, 4, 5",0
+352,v1_352,['numerical'],['ocr'],['e'],['zzzzz'],54.2 million,0
+353,v1_353,['numerical'],['ocr'],['c'],['zzzzz'],"370 million
+
+Note: The numbers are the projected sales for each region.",0
+354,v1_354,['numerical'],['ocr'],['d'],['b'],20:50 (Previous Year); 3:11 (Current Year),0
+355,v1_355,['numerical'],['ocr'],['a'],['zzzzz'],"The table shows the total combined sales for each region for the current year and next year's projection. Region A, Central, has the highest sales with 30, followed by regions B, D, and E, all of which have 25 sales each. Region C, Western, has the lowest sales with 20. Region D, Northern, has the highest number of sales in both years with 30, followed by regions A, B, and E, all of which have 25 sales each.",0
+356,v1_356,['numerical'],"['diagram', 'ocr']",['d'],['b'],2006.,0
+357,v1_357,['numerical'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd', 'e']","1. D
+2. A
+3. E
+4. C
+5. B",0
+358,v1_358,['numerical'],"['diagram', 'ocr']",['a'],['c'],"​Based on the information provided, we can see that in 2009, the European countries with the smallest difference in GDP per person are:
+
+* France and Italy (Option C)
+* Germany and Italy (Option D)
+* Spain and Italy (Option E)
+
+Therefore, the correct answer is Option C.",0
+359,v1_359,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],0.22824558630113898,0
+360,v1_360,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],38. Which European countries had the highest GDP per person in 2018? (A) Germany; France; Italy; Spain; United Kingdom; Greece; Belgium; Netherlands; Sweden (B) Germany; France; Netherlands; Spain; United Kingdom; Greece; Belgium; Austria; Switzerland (C) Germany; France; Italy; Spain; United Kingdom; Greece; Sweden; Belgium; Switzerland (D) Germany; Netherlands; Spain; United Kingdom; Greece; Belgium; Austria; Switzerland (E) France; Italy; Spain; Greece; Belgium; Austria; Switzerland; Denmark; Finland (F) France; Germany; Netherlands; Greece; Belgium; Austria; Switzerland; Sweden; Norway; Iceland,0
+361,v1_361,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],0.,0
+362,v1_362,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],"7,500",0
+363,v1_363,['numerical'],"['diagram', 'ocr']",['a'],['a'],1000,1
+364,v1_364,['numerical'],['ocr'],['c'],['a'],200 decrease.,0
+365,v1_365,['numerical'],['ocr'],['a'],['d'],"32,100",0
+366,v1_366,['numerical'],['ocr'],['d'],['d'],"* A: The population of Birmingham in 2000 was approximately 871,900.
+* B: The population of Glasgow in 2000 was approximately 583,000.
+* C: The population of Liverpool in 2000 was approximately 474,800.
+* D: The population of Leeds in 2000 was approximately 457,300.",1
+367,v1_367,['numerical'],['ocr'],['a'],['zzzzz'],"6. Which of the following is NOT one of the measures taken by the European Central Bank to control inflation in the eurozone?
+A. Interest rate hikes
+B. Quantitative easing
+C. Tax hikes
+D. Price controls
+
+7. In which country was the banking crisis triggered by the collapse of Lehman Brothers in 2008?
+A. Greece
+B. Spain
+C. France
+D. Ireland
+8. What is the main function of the International Monetary Fund (IMF)?
+A. To provide loans to member countries facing economic crises
+B. To set monetary policies for its member countries
+C. To promote international trade and investment
+D. To collect taxes on behalf of its member countries
+9. What percentage of the global population lives in extreme poverty according to the World Bank?
+A. 5%
+B. 10%
+C. 20%
+D. 30%
+10. The Marshall Plan was a US-led initiative aimed at rebuilding which of the following countries after World War II?
+A. Germany
+B. Japan
+C. Italy
+D. France",0
+368,v1_368,['numerical'],['ocr'],['a'],['c'],"C. Germany had the highest public transport spend per capita in 2008, at approximately $6,792. The UK was second at around $5,031, followed by the US at around $2,992 and France at around $2,242.",0
+369,v1_369,['numerical'],['ocr'],['b'],['d'],"​
+
+The percentage of public transport expenditure relative to total spending was short by 0.1 billion euros in 2007 compared to the target of 8% more. Therefore, the correct answer is (D) cannot say.",0
+370,v1_370,['numerical'],['ocr'],['d'],['a'],"123456
+Ans: 5
+678901
+B
+C
+D
+
+* Website W has the most visitors, with 5 people making a purchase.
+* Website X has the second highest number of visitors, with 3 people making a purchase.
+* Website Y has 2 visitors making a purchase, while there is only 1 visitor on Website Z who makes a purchase.",0
+371,v1_371,['numerical'],['ocr'],['a'],"['a', 'b']","1,852 - 1,212 = 640 more visitors from Website X than from Website Y.",0
+372,v1_372,['numerical'],['ocr'],['b'],['c'],25.0%,0
+373,v1_373,['spatial'],['diagram'],['a'],['zzzzz'],"The shape that can be made from the 2D net by folding it away from you is a cube. This is because each square in the net represents a face of the cube and when the squares are folded together, they form the faces of the cube.",0
+374,v1_374,['spatial'],['diagram'],['b'],['zzzzz'],"The shapes provided in the image are not specific to any particular figure, as they can be used to form different figures depending on the configuration of the pieces. However, one possible figure that can be made from these shapes without resizing is a rhombus, which is formed by two rectangles with their opposite sides parallel and their equal sides perpendicular. To form a rhombus, you can connect the corners of the two rectangles and create four right angles at the intersection points.",0
+375,v1_375,['spatial'],['diagram'],['d'],['zzzzz'],The shape that can be made from these shapes without resizing is a triangle.,0
+376,v1_376,['spatial'],['diagram'],['d'],['a'],"The image shows a diagram of the structure of a cube, with four sides and one corner cut off to reveal the interior of the cube. The corners of the cube are labeled as 1, 2, 3, and 4, and the side opposite the cut corner is labeled as a.",0
+377,v1_377,['spatial'],['diagram'],['c'],['zzzzz'],"The figure in the picture is a rhombus. A rhombus is a quadrilateral with all sides of equal length and having each angle the same size and shape. The four vertices of a rhombus are equally spaced around its perimeter, and the diagonals bisect each other. The figure in the image is not a rhombus, but it is a polygon with the same properties as a rhombus.",0
+378,v1_378,['spatial'],['diagram'],['b'],['a'],"​
+
+The four figures presented are:
+
+* A is a rotation of the first figure
+* B is a reflection of the first figure
+* C is a translation of the first figure
+* D is a stretch or compression of the first figure
+
+Therefore, there are three different types of transformations represented in this image.",0
+379,v1_379,['spatial'],['diagram'],['a'],['zzzzz'],There is no image provided to determine which figure is a rotation of the first.,0
+380,v1_380,['spatial'],['diagram'],['c'],['c'],The answer is C.,1
+381,v1_381,['spatial'],['diagram'],['b'],"['c', 'e', 'g']","​
+
+A. Not applicable, there is no image provided in this prompt.
+
+B. None of the figures in this sequence are rotations of the object.
+
+C. The figure that is a rotation of the object is the t-shaped figure with its arms forming a ""v"" shape at the top.
+
+D. None of the figures in this sequence are rotations of the object.
+
+E. The figure that is a rotation of the object is the t-shaped figure with its arms forming a ""v"" shape at the top, and its legs extended horizontally.
+
+F. None of the figures in this sequence are rotations of the object.
+
+G. The figure that is a rotation of the object is the t-shaped figure with its arms forming a ""v"" shape at the top, and its legs extended vertically.",0
+382,v1_382,['spatial'],['diagram'],[''],"['a', 'b', 'c', 'd', 'e', 'f']",1. a 2. b 3. c 4. d 5. e 6. f,0
+383,v1_383,['spatial'],['diagram'],['b'],['zzzzz'],"3D shape can be made from the 2D net by folding it away from you is a cube. The cube has six squares on each side and three squares on top. When the cube is folded away from the observer, the top face disappears and the bottom face appears. The remaining faces are two triangles and two squares, one of which is missing a corner. The remaining faces are two triangles and two squares, one of which is missing a corner.",0
+384,v1_384,['spatial'],['diagram'],['a'],['zzzzz'],There are several 3D shapes that can be made from a 2D net by folding it away from you. One of these shapes is a cube.,0
+385,v1_385,['spatial'],['diagram'],['d'],['a'],A house can be made from these shapes without resizing.,0
+386,v1_386,['spatial'],['diagram'],['c'],['zzzzz'],"The shape on the left is a triangle, while the shapes on the right are squares. To make a triangle from these shapes without resizing, you would need to cut out the square on the left side of the triangle and attach it to the top of the smaller square on the right side. This would result in a triangle shape.",0
+387,v1_387,['spatial'],['diagram'],['a'],['zzzzz'],"There are four triangular shapes in the image. The bottom two shapes are connected at their base, while the top two shapes are not connected at their base. These four shapes can be combined to make a single triangle shape. This configuration is known as a rhombus.",0
+388,v1_388,['spatial'],['diagram'],['a'],"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9']","1. A cube
+2. A cylinder
+3. A pyramid
+4. A prism
+5. A triangular prism
+6. A rectangular prism
+7. A trapezoidal prism
+8. A parallelogram
+9. A rhombus
+10. A hexagonal prism
+11. A square prism
+12. A triangular pyramid",0
+389,v1_389,['spatial'],['diagram'],['d'],['zzzzz'],The figures presented are all rotations of the same hexagon.,0
+390,v1_390,['spatial'],['diagram'],['c'],['zzzzz'],"The image shows four pieces of a cube that are in different orientations. Each piece has three squares on the surface. Two squares are blue and two are white. One of the blue squares is on top of one of the white squares, while the other blue square is on top of the remaining white square. The remaining white square is underneath all four pieces of the cube.
+
+Here's how you can rotate each piece:
+
+1. Turn the bottom left square 90 degrees clockwise. This will cause the blue square at the top right to move down and to the right, leaving the remaining white square on top.
+2. Turn the top right square 90 degrees clockwise. This will cause the blue square at the bottom left to move up and to the left, leaving the white square at the top right.
+3. Turn the bottom right square 90 degrees clockwise. This will cause the blue square at the top left to move down and to the left, leaving the white square at the bottom right.
+4. Turn the top left square 90 degrees clockwise. This will cause the blue square at the bottom right to move up and to the right, leaving the white square at the top left.",0
+391,v1_391,['spatial'],['diagram'],['b'],['cube'],The 3D shape that can be made from the 2D net by folding it away from you is a cube.,0
+392,v1_392,['spatial'],['diagram'],['a'],['b'],The correct answer is B. The other three figures are rotations of the first figure.,0
+393,v1_393,['spatial'],['diagram'],['d'],['zzzzz'],"The four figures presented (A, B, C, D) are a rotation of the first figure. The first figure is depicted as a square with four squares inside it. The other three figures are rotated versions of the first figure, with the squares arranged in different positions to form the shapes of a triangle, a trapezoid, and a rectangle.",0
+394,v1_394,['spatial'],['diagram'],['b'],['zzzzz'],"None of the figures presented are a rotation of the first figure. The figures present are a horizontal line, a vertical line, a square, and a cross. The first figure is not represented in any of the other figures.",0
+395,v1_395,['spatial'],['diagram'],['b'],['zzzzz'],"The image shows four triangular prisms stacked on top of each other. Each triangle has a different orientation, with one facing upwards and the others facing downwards.",0
+396,v1_396,['spatial'],['diagram'],['b'],['zzzzz'],"The shape is a cube with a square face on one side and a rectangular face on the other three sides. Each side of the cube has the same length, so the cube can be divided into six smaller squares. One of the smaller squares represents the front face of the cube, and the other five represent the remaining faces, each of which is a 2x2 square.",0
+397,v1_397,['spatial'],['diagram'],['d'],['zzzzz'],"The image is showing the four primary colors of light, red, green, and blue. Each color represents a different direction in which light travels, with each point on the image representing a specific color of light.
+
+In order to determine which is the rotation of the question figure, you would need to know which colors represent what direction. For example, if the red point represents the front of the figure, then the green point would be on the back, and the blue point would be on the right side.
+
+To determine the orientation of the figure, you would need to know whether the figure is facing left, right, up, or down. This information would allow you to determine the exact direction that the light is traveling through the figure.
+
+In summary, without more information, it is not possible to determine the orientation of the figure from this image alone.",0
+398,v1_398,['spatial'],['diagram'],['b'],['zzzzz'],"1. Triangular prism
+2. Cylinder
+3. Pyramid
+4. Conical frustum
+5. Cone",0
+399,v1_399,['spatial'],['diagram'],['a'],"['1', '2', '3']","1. Cube, 2. Cylinder, 3. Sphere",0
+400,v1_400,['spatial'],['diagram'],['c'],['zzzzz'],"There is no figure in the image provided. It appears to be a blank page with some text on it that reads ""Image Content.""",0
+401,v1_401,['spatial'],['diagram'],['a'],['zzzzz'],"There are three lines that form a square in the image. The lines are all parallel and the squares is not rotated. Therefore, the figure is a rotation of the object.",0
+402,v1_402,['spatial'],['diagram'],['a'],['zzzzz'],"There is one correct answer to this question, which is the following:
+
+The image is a reflection of the object. The lines on the left side of the image are a reflection of the lines on the right side of the object. The blue and white stripes on the right side of the image are a reflection of the blue and white stripes on the left side of the object. The diagonal lines on the right side of the image are a reflection of the diagonal lines on the left side of the object. The horizontal line at the bottom of the image is a reflection of the horizontal line at the top of the object.",0
+403,v1_403,['spatial'],['diagram'],['b'],['zzzzz'],The figure that is a reflection of the object is the mirror image.,0
+404,v1_404,['spatial'],['diagram'],['d'],['zzzzz'],The figure in the center of the diagram is a rotation of the object.,0
+405,v1_405,['spatial'],['diagram'],['c'],['zzzzz'],"The object is a cube with six faces, each with two squares on each side.
+
+ 
+
+
+
+ 
+
+
+To create this object, we can use a 3D modeling software such as Blender or Tinkercad. Here's how we would do it in Tinkercad:
+```css
+Cube (2x2x2)
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+```
+
+```csharp
+Cube (2x2x2)
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+```
+This creates a cube with six faces, each with two squares on each side.",0
+406,v1_406,['spatial'],['diagram'],['b'],['zzzzz'],"The figure that is a reflection of the object is an L - shaped piece of wood. It has a front face, two sides, and a back face. The top of the L is facing upwards and the bottom of the L is facing downwards. The reflection is shown as a black line on a white background.",0
+407,v1_407,['spatial'],['diagram'],['d'],"['1', '2', '3', '4']",1. cube 2. cube 3. cube 4. cube,0
+408,v1_408,['spatial'],['diagram'],['d'],['zzzzz'],"The image shows four cubes, each with a different color and pattern on each face. The cube on the left has a blue face, the cube in the middle has a green face, the cube on the right has a yellow face, and the cube on the right has a red face. These cubes are not arranged in any particular order or orientation, so it is not possible to determine which one is a rotation of the other without additional information.",0
+409,v1_409,['spatial'],['diagram'],['c'],"['1', '2', '3', '4']","1, 2, 3 and 4 are all rotations of the object. The figures in the image show the object from different angles, so the orientation is changing from left to right in each figure.
+
+1 and 3 show the object at an angle of 0 degrees, while 2 and 4 show it at an angle of 180 degrees. Therefore, the object is rotated by 180 degrees in each figure.",0
+410,v1_410,['spatial'],['diagram'],['b'],['zzzzz'],The figure that can be formed with the given pieces only using rotation is an incomplete cube.,0
+411,v1_411,['spatial'],['diagram'],['a'],['zzzzz'],"The image is a 3x3 puzzle made up of small square pieces with no visible corners or edges. Each piece is labeled with a letter in the bottom right corner, and there are three rows and three columns of pieces to arrange. To solve this puzzle, you need to find a way to place each piece so that each letter is on the correct side of the grid. There are three different solutions to this puzzle: one has all the pieces facing up, one has them facing down, and one has them facing to the left.",0
+412,v1_412,['spatial'],['diagram'],['c'],['zzzzz'],The figure that can be formed with the given pieces is a triangle.,0
+413,v1_413,['spatial'],['diagram'],['b'],['zzzzz'],"The given figure is a cube with a square cut out from one of its faces. There are four identical pieces, each with one side missing and one side facing up. To find the matching piece, we need to match the remaining squares on the top and bottom of the cube to the remaining squares on the left and right sides.
+
+The top left square has an open space on the left side and the top right square has an open space on the right side. Therefore, the missing piece should be the square on the bottom left side, which matches the left side of the open space on the top left square.
+
+So the missing piece is the bottom left square.",0
+414,v1_414,['spatial'],['diagram'],['a'],['zzzzz'],"There are four shapes in the figure. Two of them are rectangles, and two are triangles. The two rectangles have their bases on the same side, while the two triangles have one base on the same side. None of the shapes fit together to form a circle.",0
+415,v1_415,['spatial'],['diagram'],['a'],['zzzzz'],The solid pictured in the image is a cube.,0
+416,v1_416,['spatial'],['diagram'],['d'],['4'],"4. The solid shown in the image is a cube with a volume of 12 cubic units. To find the number of faces, sides and vertices of the cube, you can use the following method:
+
+* Counting the number of squares on each side of the cube, we find that it has six faces.
+* Counting the number of squares along each edge of the cube, we find that it has eight edges.
+* To find the number of vertices (corners), we count the number of squares along each edge, ignoring the corner squares, which have a smaller number of squares. In this case, there are four vertices.",0
+417,v1_417,['mechanical'],"['diagram', 'ocr']",['e'],['b'],"​
+
+B) C turns anticlockwise at 25 RPM
+C) A and C turn clockwise and B turns anticlockwise
+
+The image shows a belt drive system with two pulleys and a belt connecting them. The left pulley has 10 teeth, while the right pulley has 8 teeth. The belt passes around both pulleys in opposite directions. If the left pulley rotates at 50 RPM, and the right pulley rotates at 25 RPM, then the belt is turning at an angle between the two pulleys. This angle changes as the belt moves along the pulleys, causing the direction of the belt to change. Therefore, option (A) and (C) are not correct. Option (B) is correct because the belt is turning anticlockwise as it moves from the left pulley to the right pulley. Option (D) is incorrect because a 400 RPM speed for the right pulley would make the belt move too quickly, and there is no indication that the left pulley is spinning at 400 RPM. Finally, option (E) is incorrect because a 25 RPM speed for both pulleys would cause the belt to move very slowly and make it difficult to generate power.",0
+418,v1_418,['mechanical'],"['diagram', 'ocr']",['c'],['a'],"This image shows four systems, labeled A through E, with each system showing how much force is required to lift a 1 kg weight.
+
+System A shows the least amount of force required at F, while System B requires the most force at F.
+
+System C requires the same amount of force at F as System D, and System D requires less force at F than System A. Therefore, the correct answer is (A) A.",0
+419,v1_419,['mechanical'],"['diagram', 'ocr']",['c'],['c'],"​
+
+If you want to lift the weight by 10 mm, which rope will have to be pulled further? The answer is C. All of the ropes can lift the weight by 10 mm, so there is no correct answer.
+
+Please let me know if you have any further questions or if there is anything else I can help you with.",1
+420,v1_420,['mechanical'],"['diagram', 'ocr']",['b'],['d'],"1. The image is a drawing of an object with a small amount of weight at one end, held by a scale on the other side.
+2. The scale measures the weight of the object at one end and displays it on the other side in a small unit. The units are not visible in the image.
+3. The drawing shows a beam balanced on one end with two weights, one heavy and one light, hanging from it. The beam appears to be horizontal.
+4. The image shows a horizontal beam balanced on one end, with two weights, one heavy and one light, attached to opposite sides of the beam. The beam appears to be parallel to the floor. The scale on the left side of the image shows that the heavy weight is heavier than the light weight.
+5. The drawing is a perspective view of a horizontal beam balanced on one end with two weights, one heavy and one light, attached to opposite sides of the beam. The heavy weight is suspended above the light weight, and both weights are visible in the image. The scale on the left side of the image shows that the heavy weight is heavier than the light weight.
+6. The image shows a horizontal beam balanced on one end with two weights, one heavy and one light, attached to opposite sides of the beam. The beam appears to be tilted to the right. The scale on the left side of the image shows that the heavy weight",0
+421,v1_421,['mechanical'],['diagram'],['e'],['a'],"I think that the nut is being held at position A. The image shows a wrench being used to tighten the nut, which is in line with the wrench's handle. Therefore, the wrench is being held at position A and the nut is being tightened.",0
+422,v1_422,['mechanical'],['diagram'],['e'],['a'],"The image depicts a series of beans connected by strings and arranged in a line, with one bean (B) above another (A). The distance between the two beans is 6 cm.
+
+The question asks how far you need to move A in order to raise B by 12 cm. The answer is that you would need to move A 4 cm in the direction of B. This would raise B by 12 cm.
+
+The correct choice from the options given is (A) 4cm.",0
+423,v1_423,['mechanical'],['diagram'],['d'],['c'],"​
+
+The correct statement is C) All the gears are turning clockwise. This is because all four gears are turning in the same direction and their rotation arrows point to the right, which is the clockwise direction.",0
+424,v1_424,['mechanical'],['diagram'],['b'],['b'],"1. Which gear has the largest number of teeth?
+* B has 10 teeth, C has 40 teeth and A has 20 teeth. Therefore, B has the largest number of teeth.
+2. If gear A is turning at 60 revolutions per minute (RPM), how fast is gear C turning?
+* To determine the speed of gear C, we need to know the gear ratio between gears A and C.
+* If the gear ratio is 2:1, then gear C is turning at half the speed of gear A, which means it is turning at 30 RPM.
+3. Is gear B faster than gear D?
+* No, gear B is not faster than gear D.
+
+Answer:
+
+1. B
+2. 30 RPM
+3. No",1
+425,v1_425,['mechanical'],['diagram'],['e'],['c'],"​
+
+* There are 100 teeth on the outer ring A.
+* Satellite gears B have 20 teeth.
+* Sun gear C is connected to the shaft and has 25 teeth.
+
+To determine the direction of rotation, you need to count the number of teeth on each gear and compare it to the direction of the arrow on the gear.
+
+* If there are more teeth on the gear than the arrow indicates, the gear is rotating in the opposite direction.
+* If there are fewer teeth on the gear than the arrow indicates, the gear is rotating in the same direction as the arrow.
+
+Based on the information provided, the shaft is turning 25 teeth clockwise (as indicated by the arrow on the sun gear C).
+
+A) 1 RPM clockwise
+B) The system is jammed
+C) 20 RPM clockwise
+D) 1 RPM anti-clockwise
+E) 20 RPM anti-clockwise
+
+Therefore, the answer is (C) 20 RPM clockwise.",0
+426,v1_426,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],​,0
+427,v1_427,['mechanical'],['diagram'],['c'],"['a', 'b']","(A) Beam A-B moves up but stays level. The position of the beam does not change, only the angle at which it is viewed changes.
+
+(B) A ends up lower than B. The point C moves downwards, so point A will move upwards to keep the same angle as before, while point B will move downwards.
+
+(C) A ends up higher than B. The point C moves downwards, so point A will move upwards to keep the same angle as before, while point B will move downwards.
+
+(D) A and B both drop. Both points A and B move downwards to the same amount.
+
+(E) A rises and B drops. The point C moves upwards, so point A will move upwards to keep the same angle as before, while point B will move upwards to keep the same angle as before, and point C will move downwards.
+
+(A) The position of the beam does not change, only the angle at which it is viewed changes. This means that the beam remains in the same position but is now at a different angle, making it appear to have moved.
+
+(B) The point C moves downwards, so point A will move upwards to keep the same angle as before, while point B will move downwards. This results in point A being lower than B, as required.",0
+428,v1_428,['mechanical'],"['diagram', 'ocr']",['d'],['a'],"The hammer made of wood will cool the fastest because it is the only one that can absorb heat through its porous surface. The steel hammer will retain heat longer than the rubber hammer because it has a solid surface that does not allow for heat transfer as easily. Therefore, option (A) is correct.",0
+429,v1_429,['mechanical'],['diagram'],['a'],['a'],"① A is the most stable, as it has the least amount of weight hanging from it. ② B is slightly less stable than A, as it has a smaller weight on one side than the other. ③ C has the same weight distribution as B but with the addition of a second bag. This creates an unbalanced load that would be difficult to control and could potentially cause the drone to crash. ④ D has a significantly larger weight on one side, which would also make it difficult to control and could result in a crash. ⑤ E is not possible, as there is no way to determine which parcel would be more stable based on the information provided.",1
+430,v1_430,['mechanical'],['diagram'],['d'],"['c', 'e']","The image shows a gear train with two gears, one with teeth 24 and the other with teeth 32. Both gears are connected to a shaft that is not shown in the image.
+
+The number of revolutions per minute (RPM) of each gear can be determined by counting the number of teeth on each gear and dividing it by 60, which is the number of seconds in a minute.
+
+To determine the RPM of the first gear, the number of teeth on the gear can be calculated as follows: 32 teeth \* 60 seconds/minute = 2 teeth/sec.
+
+To determine the RPM of the second gear, the number of teeth on the gear can be calculated as follows: 24 teeth \* 60 seconds/minute = 1 teeth/sec.
+
+Since both gears have the same RPM, the answer is C. All will have the same RPM.",0
+431,v1_431,['mechanical'],"['diagram', 'ocr']",['d'],['e'],"​
+
+The correct answer is (E) There would be no difference. All pipes will allow the water to reach the same distance.",0
+432,v1_432,['mechanical'],"['diagram', 'ocr']",['a'],['a'],"​
+```
+                     ________   ________
+                    |       |       |
+                    |       |       |
+                    |       |       |
+                    |       |       |
+                    |_______|_______|
+```
+There are two options, A and D, that have the same surface area. To determine which one is more aerodynamic, we need to consider the shape of each object. Option C has a large, flat surface area while option E has a smaller, more rounded surface area. Therefore, option A is more aerodynamic than option D because it has a larger surface area that can create more drag.",1
+433,v1_433,['mechanical'],"['diagram', 'ocr']",['b'],['d'],"​
+
+D) Tilting will have no impact. This is because a helicopter's propellers generate lift, and if they are tilted, the amount of lift generated will change. However, since the propellers are connected to the rotor hub, tilting the helicopter would not affect the direction in which it flies. It would still fly in the same direction as the rotor hub.",0
+434,v1_434,['mechanical'],"['diagram', 'ocr']",['a'],['a'],"​
+```css
+╔══════╗
+║     ║
+║     ║
+╚══════╝
+```
+The image shows two balloons, one on the left and one on the right. Both balloons are floating in mid air, but the one on the left has a larger diameter than the one on the right. This suggests that the balloon on the left is inflated to a higher pressure than the one on the right.
+
+This is because the volume of a balloon increases as the pressure inside it increases. Therefore, if the left balloon has a larger diameter than the right balloon, it must also have a higher volume, and therefore a higher pressure inside it.
+
+The fact that both balloons are floating in mid air suggests that they are at an equal pressure. The fact that the left balloon has a larger diameter than the right balloon means that it is inflated to a higher pressure than the right balloon. Therefore, the correct answer is (A): The left balloon experiences less pressure than the right one.",1
+435,v1_435,['mechanical'],['diagram'],['d'],['b'],"​
+
+The correct answer is (B) 3. The number of cogs that spin anticlockwise is the number of cogs on one side of the chain. There are three cogs in this system, so they will all spin anticlockwise.",0
+436,v1_436,['mechanical'],['diagram'],['c'],['e'],"If the whole stop sign fell over, it would be difficult to tell which stop sign had the largest impact on the ground because the signs are all pointing in different directions. It is not possible to determine which stop sign had the largest impact on the ground from this image alone.",0
+437,v1_437,['mechanical'],['diagram'],['c'],['d'],"1) The drone that is in the air, and the object it is carrying, is the most stable.
+2) The drone that is on the ground, and the object it is carrying, is less stable than the drone in the air.
+3) The drone that is carrying an object with a longer suspension cable is less stable than the drone that is carrying an object with a shorter suspension cable.
+4) The drone that is carrying an object with a larger diameter is less stable than the drone that is carrying an object with a smaller diameter.
+5) All of the drones are equally stable.
+6) Impossible to tell
+Note: The image was not provided, so the above statements are based on the information that would be present in the image.",0
+438,v1_438,['mechanical'],['diagram'],['a'],"['a', 'b', 'c', 'd']","​
+
+A) The sled with the wide runners is likely to be faster down and icy slope. This is because the wider runners provide more surface area for the sled to glide over the snow, which reduces friction and allows for faster movement.
+
+B) All the same. The sleds are identical in terms of width, so there is no way to determine which one would be faster on an icy slope.
+
+C) Impossible to tell. The image does not show any differences between the sleds that would indicate which one would be faster down an icy slope.
+
+D) None of the above. All the sleds have the same runners, so it is impossible to determine which one would be faster on an icy slope.",0
+439,v1_439,['mechanical'],['diagram'],['a'],['c'],"The wheel with the highest revolutions per minute is (C). The gear with the largest number of teeth and smallest size will have the highest speed. As the teeth on all gears are of the same size, it's impossible to tell which gear would have the highest RPM.",0
+440,v1_440,['mechanical'],['diagram'],['c'],['a'],"​
+
+(A) A person carrying a shovel with one hand would require the least amount of effort because the shovel is held with one hand and the other hand can be used for other tasks.
+
+(B) A person carrying a large pile of dirt with both hands would require more effort because the weight of the dirt would need to be balanced on both sides of the body.
+
+(C) A person carrying a heavy load on one shoulder would require more effort than carrying it on both shoulders because only one shoulder has to support the weight.
+
+(D) All of the options require the same amount of effort because none of them involve carrying any weight or holding anything in one's hands.
+
+(E) It is impossible to tell which method of carrying a spade requires the least amount of effort because there is no context provided for the task being performed.",0
+441,v1_441,['mechanical'],['diagram'],['e'],['zzzzz'],​,0
+442,v1_442,['mechanical'],['diagram'],['d'],['e'],"There are three wheels on the left side and two on the right side, so there are a total of five wheels. Since there are two wheels on the right side, they will spend an equal amount of time turning clockwise and counterclockwise, so the total number of turns will be even. Therefore, the answer is (E) None.",0
+443,v1_443,['mechanical'],['diagram'],['c'],"['a', 'b', 'c', 'd', 'e']","​
+
+To determine which spring would be compressed the farthest, we need to compare the length of each spring. The length of spring B is shorter than that of spring C and D. Therefore, if the weights are equal and the spring closest to the fulcrum is compressed the farthest, it would be spring A. If the weights are unequal and spring B is closest to the fulcrum, it would be spring B. Similarly, if the weights are unequal and spring C is closest to the fulcrum, it would be spring C. If the weights are unequal and spring D is closest to the fulcrum, it would be spring D. If the weights are equal, there is no difference among the springs.",0
+444,v1_444,['mechanical'],['diagram'],['a'],['a'],"The image shows four identical metal grids with the same amount of mass. If they are placed on a surface of water, then the one that would be most likely to sink first is (A) A. This is because the bottom rail of each grid is in contact with the surface of the water, so the weight of the grid would cause it to sink into the water.",1
+445,v1_445,['mechanical'],['diagram'],['e'],['d'],"​
+
+(D) It will rise by 3 cubic metres of water. The volume of the two objects is twice that of the third object, and the three objects are half submerged in a pool of water. Therefore, the water level will rise by 3 cubic metres of water.",0
+446,v1_446,['mechanical'],"['diagram', 'ocr']",['e'],['e'],"The image is not to scale. It depicts three different shapes, but the size of each shape is not proportional to the other shapes. One shape has three points on it, another has two points on it, and the third has one point on it. The image does not give a sense of how large or small each shape is in relation to the others. Therefore, it is impossible to determine which shape is the least likely to fall over from a powerful wind.",1
+447,v1_447,['mechanical'],['diagram'],['d'],['d'],"© Image is a diagram that illustrates the movement of gears on a shaft. The diagram shows three cog wheels, each with the same number of teeth, and they are all interconnected through a shaft. The arrow is pointing upwards, which means that the gears are rotating in the clockwise direction. The number of teeth on each cog can be determined by counting the number of teeth that are visible from the front of each cog wheel. Each cog has an equal number of teeth, which means that all of the cogs have the same number of teeth. This means that all of the cogs have hit the arrow the same number of times after 120 seconds of rotation. There is no way to tell which cog has hit the arrow the most number of times without counting the number of teeth on each cog.",1

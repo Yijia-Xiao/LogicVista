@@ -1,0 +1,449 @@
+,id,reasoning skill,capability,true answer,deplot answer extracted,deplot answer raw,match?
+0,v1_0,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+1,v1_1,['inductive'],['diagram'],"['a', 'c']",['zzzzz'],T,0
+2,v1_2,['inductive'],['diagram'],"['b', 'd']",['zzzzz'],T,0
+3,v1_3,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+4,v1_4,['inductive'],['diagram'],['g'],['zzzzz'],T,0
+5,v1_5,['inductive'],"['diagram', 'ocr']","['b', 'd']",['zzzzz'],T,0
+6,v1_6,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+7,v1_7,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+8,v1_8,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+9,v1_9,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+10,v1_10,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+11,v1_11,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+12,v1_12,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+13,v1_13,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+14,v1_14,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+15,v1_15,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+16,v1_16,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+17,v1_17,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+18,v1_18,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+19,v1_19,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+20,v1_20,['deductive'],['ocr'],['3'],['e'],E,0
+21,v1_21,['inductive'],['diagram'],['f'],['zzzzz'],T,0
+22,v1_22,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+23,v1_23,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+24,v1_24,['deductive'],['ocr'],['d'],['e'],E,0
+25,v1_25,['deductive'],['ocr'],['c'],['e'],E,0
+26,v1_26,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+27,v1_27,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+28,v1_28,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+29,v1_29,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+30,v1_30,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+31,v1_31,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+32,v1_32,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+33,v1_33,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+34,v1_34,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+35,v1_35,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+36,v1_36,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+37,v1_37,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+38,v1_38,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+39,v1_39,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+40,v1_40,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+41,v1_41,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+42,v1_42,['deductive'],['ocr'],['a'],['c'],C,0
+43,v1_43,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+44,v1_44,['deductive'],['ocr'],['b'],['c'],C,0
+45,v1_45,['deductive'],['ocr'],['e'],['zzzzz'],T,0
+46,v1_46,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+47,v1_47,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+48,v1_48,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+49,v1_49,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+50,v1_50,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+51,v1_51,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+52,v1_52,['numerical'],['ocr'],['c'],['zzzzz'],T,0
+53,v1_53,['numerical'],['ocr'],['e'],['zzzzz'],T,0
+54,v1_54,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+55,v1_55,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+56,v1_56,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+57,v1_57,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+58,v1_58,['numerical'],['ocr'],['b'],['c'],C,0
+59,v1_59,['numerical'],['ocr'],['e'],['c'],C,0
+60,v1_60,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+61,v1_61,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+62,v1_62,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+63,v1_63,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+64,v1_64,['numerical'],['ocr'],['d'],['zzzzz'],T,0
+65,v1_65,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],Y,0
+66,v1_66,['numerical'],['ocr'],['d'],['zzzzz'],T,0
+67,v1_67,['numerical'],['ocr'],['b'],['zzzzz'],T,0
+68,v1_68,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+69,v1_69,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+70,v1_70,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+71,v1_71,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+72,v1_72,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+73,v1_73,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+74,v1_74,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+75,v1_75,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+76,v1_76,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+77,v1_77,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+78,v1_78,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+79,v1_79,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+80,v1_80,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+81,v1_81,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+82,v1_82,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+83,v1_83,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+84,v1_84,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+85,v1_85,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+86,v1_86,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+87,v1_87,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+88,v1_88,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+89,v1_89,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+90,v1_90,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+91,v1_91,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+92,v1_92,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+93,v1_93,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+94,v1_94,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+95,v1_95,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+96,v1_96,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+97,v1_97,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+98,v1_98,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+99,v1_99,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+100,v1_100,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+101,v1_101,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+102,v1_102,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+103,v1_103,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+104,v1_104,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+105,v1_105,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+106,v1_106,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+107,v1_107,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+108,v1_108,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+109,v1_109,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+110,v1_110,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+111,v1_111,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+112,v1_112,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+113,v1_113,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+114,v1_114,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+115,v1_115,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+116,v1_116,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+117,v1_117,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+118,v1_118,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+119,v1_119,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+120,v1_120,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+121,v1_121,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+122,v1_122,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+123,v1_123,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+124,v1_124,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+125,v1_125,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+126,v1_126,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+127,v1_127,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+128,v1_128,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+129,v1_129,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+130,v1_130,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+131,v1_131,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+132,v1_132,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+133,v1_133,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+134,v1_134,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+135,v1_135,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+136,v1_136,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+137,v1_137,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+138,v1_138,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+139,v1_139,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+140,v1_140,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+141,v1_141,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+142,v1_142,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+143,v1_143,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+144,v1_144,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+145,v1_145,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+146,v1_146,['mechanical'],['ocr'],['c'],['e'],E,0
+147,v1_147,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+148,v1_148,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+149,v1_149,['mechanical'],['ocr'],['c'],['e'],E,0
+150,v1_150,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+151,v1_151,['mechanical'],['ocr'],['c'],['e'],E,0
+152,v1_152,['mechanical'],['ocr'],['b'],['e'],E,0
+153,v1_153,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+154,v1_154,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+155,v1_155,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+156,v1_156,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+157,v1_157,['mechanical'],"['diagram', 'ocr']",['a'],['e'],E,0
+158,v1_158,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+159,v1_159,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+160,v1_160,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+161,v1_161,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+162,v1_162,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+163,v1_163,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+164,v1_164,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+165,v1_165,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+166,v1_166,['mechanical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+167,v1_167,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+168,v1_168,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+169,v1_169,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+170,v1_170,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+171,v1_171,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+172,v1_172,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+173,v1_173,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+174,v1_174,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+175,v1_175,['mechanical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+176,v1_176,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+177,v1_177,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+178,v1_178,['deductive'],['ocr'],['d'],['zzzzz'],T,0
+179,v1_179,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+180,v1_180,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+181,v1_181,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+182,v1_182,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+183,v1_183,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+184,v1_184,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+185,v1_185,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+186,v1_186,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+187,v1_187,['spatial'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+188,v1_188,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+189,v1_189,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+190,v1_190,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+191,v1_191,['spatial'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+192,v1_192,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+193,v1_193,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+194,v1_194,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+195,v1_195,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+196,v1_196,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+197,v1_197,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+198,v1_198,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+199,v1_199,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+200,v1_200,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+201,v1_201,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+202,v1_202,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+203,v1_203,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+204,v1_204,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+205,v1_205,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+206,v1_206,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+207,v1_207,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+208,v1_208,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+209,v1_209,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+210,v1_210,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+211,v1_211,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+212,v1_212,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+213,v1_213,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+214,v1_214,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+215,v1_215,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+216,v1_216,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+217,v1_217,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+218,v1_218,['deductive'],['ocr'],['c'],['e'],E,0
+219,v1_219,['deductive'],['ocr'],['d'],['e'],E,0
+220,v1_220,['deductive'],['ocr'],['d'],['e'],E,0
+221,v1_221,['deductive'],['ocr'],['c'],['e'],E,0
+222,v1_222,['deductive'],['ocr'],['b'],['e'],E,0
+223,v1_223,['deductive'],['ocr'],['b'],['e'],E,0
+224,v1_224,['deductive'],['ocr'],['d'],['e'],E,0
+225,v1_225,['deductive'],['ocr'],['b'],['e'],E,0
+226,v1_226,['deductive'],['ocr'],['d'],['e'],E,0
+227,v1_227,['deductive'],['ocr'],['d'],['e'],E,0
+228,v1_228,['deductive'],['ocr'],['d'],['e'],E,0
+229,v1_229,['deductive'],['ocr'],['d'],['e'],E,0
+230,v1_230,['deductive'],['ocr'],['d'],['c'],C,0
+231,v1_231,['deductive'],['ocr'],['c'],['e'],E,0
+232,v1_232,['deductive'],['ocr'],['c'],['e'],E,0
+233,v1_233,['deductive'],['ocr'],['d'],['e'],E,0
+234,v1_234,['deductive'],['ocr'],['b'],['e'],E,0
+235,v1_235,['deductive'],['ocr'],['b'],['e'],E,0
+236,v1_236,['deductive'],['ocr'],['a'],['e'],E,0
+237,v1_237,['deductive'],['ocr'],['c'],['e'],E,0
+238,v1_238,['deductive'],['ocr'],['d'],['e'],E,0
+239,v1_239,['deductive'],['ocr'],['c'],['e'],E,0
+240,v1_240,['deductive'],['ocr'],['d'],['e'],E,0
+241,v1_241,['deductive'],['ocr'],['d'],['e'],E,0
+242,v1_242,['deductive'],['ocr'],['d'],['e'],E,0
+243,v1_243,['deductive'],['ocr'],['a'],['e'],E,0
+244,v1_244,['deductive'],['ocr'],['c'],['e'],E,0
+245,v1_245,['deductive'],['ocr'],['a'],['e'],E,0
+246,v1_246,['deductive'],['ocr'],['c'],['e'],E,0
+247,v1_247,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+248,v1_248,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+249,v1_249,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+250,v1_250,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+251,v1_251,['numerical'],['diagram'],['d'],['zzzzz'],T,0
+252,v1_252,['numerical'],['diagram'],['a'],['zzzzz'],T,0
+253,v1_253,['numerical'],['diagram'],['b'],['zzzzz'],T,0
+254,v1_254,['numerical'],['diagram'],['a'],['zzzzz'],T,0
+255,v1_255,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+256,v1_256,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+257,v1_257,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+258,v1_258,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+259,v1_259,['numerical'],['diagram'],['a'],['zzzzz'],T,0
+260,v1_260,['numerical'],['diagram'],['a'],['zzzzz'],T,0
+261,v1_261,['numerical'],['diagram'],['a'],['zzzzz'],T,0
+262,v1_262,['numerical'],['diagram'],['c'],['zzzzz'],T,0
+263,v1_263,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+264,v1_264,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+265,v1_265,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+266,v1_266,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+267,v1_267,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+268,v1_268,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+269,v1_269,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+270,v1_270,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+271,v1_271,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+272,v1_272,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+273,v1_273,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+274,v1_274,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+275,v1_275,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+276,v1_276,['inductive'],['diagram'],['e'],['zzzzz'],T,0
+277,v1_277,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+278,v1_278,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+279,v1_279,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+280,v1_280,['inductive'],['diagram'],['a'],['zzzzz'],T,0
+281,v1_281,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+282,v1_282,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+283,v1_283,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+284,v1_284,['inductive'],['diagram'],['c'],['zzzzz'],T,0
+285,v1_285,['inductive'],['diagram'],['b'],['zzzzz'],T,0
+286,v1_286,['inductive'],['diagram'],['d'],['zzzzz'],T,0
+287,v1_287,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+288,v1_288,['deductive'],['ocr'],['b'],['e'],E,0
+289,v1_289,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+290,v1_290,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+291,v1_291,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+292,v1_292,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+293,v1_293,['deductive'],['ocr'],['c'],['e'],E,0
+294,v1_294,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+295,v1_295,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+296,v1_296,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+297,v1_297,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+298,v1_298,['deductive'],['ocr'],['e'],['c'],C,0
+299,v1_299,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+300,v1_300,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+301,v1_301,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+302,v1_302,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+303,v1_303,['deductive'],['ocr'],['e'],['zzzzz'],T,0
+304,v1_304,['deductive'],['ocr'],['d'],['zzzzz'],T,0
+305,v1_305,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+306,v1_306,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+307,v1_307,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+308,v1_308,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+309,v1_309,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+310,v1_310,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+311,v1_311,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+312,v1_312,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+313,v1_313,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+314,v1_314,['deductive'],['ocr'],['d'],['zzzzz'],T,0
+315,v1_315,['deductive'],['ocr'],['c'],['c'],C,1
+316,v1_316,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+317,v1_317,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+318,v1_318,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+319,v1_319,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+320,v1_320,['deductive'],['ocr'],['e'],['zzzzz'],T,0
+321,v1_321,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+322,v1_322,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+323,v1_323,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+324,v1_324,['deductive'],['ocr'],['c'],['e'],E,0
+325,v1_325,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+326,v1_326,['deductive'],['ocr'],['e'],['zzzzz'],T,0
+327,v1_327,['deductive'],['ocr'],['a'],['zzzzz'],T,0
+328,v1_328,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+329,v1_329,['deductive'],['ocr'],['b'],['zzzzz'],T,0
+330,v1_330,['deductive'],['ocr'],['c'],['zzzzz'],T,0
+331,v1_331,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+332,v1_332,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+333,v1_333,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+334,v1_334,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+335,v1_335,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+336,v1_336,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+337,v1_337,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+338,v1_338,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+339,v1_339,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+340,v1_340,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+341,v1_341,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+342,v1_342,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+343,v1_343,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+344,v1_344,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+345,v1_345,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+346,v1_346,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+347,v1_347,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+348,v1_348,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+349,v1_349,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+350,v1_350,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+351,v1_351,['numerical'],['ocr'],['a'],['zzzzz'],T,0
+352,v1_352,['numerical'],['ocr'],['e'],['zzzzz'],T,0
+353,v1_353,['numerical'],['ocr'],['c'],['zzzzz'],T,0
+354,v1_354,['numerical'],['ocr'],['d'],['zzzzz'],T,0
+355,v1_355,['numerical'],['ocr'],['a'],['zzzzz'],T,0
+356,v1_356,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+357,v1_357,['numerical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+358,v1_358,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+359,v1_359,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+360,v1_360,['numerical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+361,v1_361,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+362,v1_362,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+363,v1_363,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+364,v1_364,['numerical'],['ocr'],['c'],['zzzzz'],T,0
+365,v1_365,['numerical'],['ocr'],['a'],['zzzzz'],T,0
+366,v1_366,['numerical'],['ocr'],['d'],['zzzzz'],T,0
+367,v1_367,['numerical'],['ocr'],['a'],['zzzzz'],T,0
+368,v1_368,['numerical'],['ocr'],['a'],['zzzzz'],T,0
+369,v1_369,['numerical'],['ocr'],['b'],['zzzzz'],T,0
+370,v1_370,['numerical'],['ocr'],['d'],['c'],C,0
+371,v1_371,['numerical'],['ocr'],['a'],['c'],C,0
+372,v1_372,['numerical'],['ocr'],['b'],['c'],C,0
+373,v1_373,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+374,v1_374,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+375,v1_375,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+376,v1_376,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+377,v1_377,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+378,v1_378,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+379,v1_379,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+380,v1_380,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+381,v1_381,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+382,v1_382,['spatial'],['diagram'],[''],['zzzzz'],T,0
+383,v1_383,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+384,v1_384,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+385,v1_385,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+386,v1_386,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+387,v1_387,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+388,v1_388,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+389,v1_389,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+390,v1_390,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+391,v1_391,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+392,v1_392,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+393,v1_393,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+394,v1_394,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+395,v1_395,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+396,v1_396,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+397,v1_397,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+398,v1_398,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+399,v1_399,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+400,v1_400,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+401,v1_401,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+402,v1_402,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+403,v1_403,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+404,v1_404,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+405,v1_405,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+406,v1_406,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+407,v1_407,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+408,v1_408,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+409,v1_409,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+410,v1_410,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+411,v1_411,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+412,v1_412,['spatial'],['diagram'],['c'],['zzzzz'],T,0
+413,v1_413,['spatial'],['diagram'],['b'],['zzzzz'],T,0
+414,v1_414,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+415,v1_415,['spatial'],['diagram'],['a'],['zzzzz'],T,0
+416,v1_416,['spatial'],['diagram'],['d'],['zzzzz'],T,0
+417,v1_417,['mechanical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+418,v1_418,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+419,v1_419,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],T,0
+420,v1_420,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+421,v1_421,['mechanical'],['diagram'],['e'],['zzzzz'],T,0
+422,v1_422,['mechanical'],['diagram'],['e'],['zzzzz'],T,0
+423,v1_423,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+424,v1_424,['mechanical'],['diagram'],['b'],['zzzzz'],T,0
+425,v1_425,['mechanical'],['diagram'],['e'],['zzzzz'],T,0
+426,v1_426,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+427,v1_427,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+428,v1_428,['mechanical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+429,v1_429,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+430,v1_430,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+431,v1_431,['mechanical'],"['diagram', 'ocr']",['d'],['zzzzz'],T,0
+432,v1_432,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+433,v1_433,['mechanical'],"['diagram', 'ocr']",['b'],['zzzzz'],T,0
+434,v1_434,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],T,0
+435,v1_435,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+436,v1_436,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+437,v1_437,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+438,v1_438,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+439,v1_439,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+440,v1_440,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+441,v1_441,['mechanical'],['diagram'],['e'],['zzzzz'],T,0
+442,v1_442,['mechanical'],['diagram'],['d'],['zzzzz'],T,0
+443,v1_443,['mechanical'],['diagram'],['c'],['zzzzz'],T,0
+444,v1_444,['mechanical'],['diagram'],['a'],['zzzzz'],T,0
+445,v1_445,['mechanical'],['diagram'],['e'],['zzzzz'],T,0
+446,v1_446,['mechanical'],"['diagram', 'ocr']",['e'],['zzzzz'],T,0
+447,v1_447,['mechanical'],['diagram'],['d'],['zzzzz'],T,0

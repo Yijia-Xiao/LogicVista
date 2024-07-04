@@ -1,0 +1,637 @@
+,id,reasoning skill,capability,true answer,LLAVA7B answer extracted,LLAVA7B answer raw,match?
+0,v1_0,['inductive'],"['diagram', 'ocr']",['c'],['b']," Based on the image, the correct choice to replace the question mark would be B.",0
+1,v1_1,['inductive'],['diagram'],"['a', 'c']","['a', 'b', 'c', 'd']"," A, B, C, D",0
+2,v1_2,['inductive'],['diagram'],"['b', 'd']","['a', 'b']"," Based on the image and the diagram at the top of the page, proposals A and B complete the diagrams at the bottom of the page.",0
+3,v1_3,['inductive'],['diagram'],['d'],['c'], C,0
+4,v1_4,['inductive'],['diagram'],['g'],['a'], A,0
+5,v1_5,['inductive'],"['diagram', 'ocr']","['b', 'd']","['a', 'b']", The correct answer is A and B.,0
+6,v1_6,['inductive'],['diagram'],['b'],['d']," The pattern in the image is a series of blue triangles. To complete the sequence, the next triangle should be blue and located to the right of the current triangles. Therefore, the answer is D.",0
+7,v1_7,['inductive'],['diagram'],['e'],['d'], The rule that has to be applied in the box directly above the bottom boxes is option D.,0
+8,v1_8,['inductive'],['diagram'],['a'],['b'], B,0
+9,v1_9,['inductive'],['diagram'],['c'],['b'], B,0
+10,v1_10,['inductive'],['diagram'],['e'],['b'], B,0
+11,v1_11,['inductive'],['diagram'],['e'],['b'], B,0
+12,v1_12,['inductive'],['diagram'],['b'],['b'], B,1
+13,v1_13,['inductive'],['diagram'],['d'],['b'], B,0
+14,v1_14,['inductive'],['diagram'],['a'],['b'], B,0
+15,v1_15,['inductive'],['diagram'],['b'],['b'], B,1
+16,v1_16,['inductive'],['diagram'],['e'],['b'], B,0
+17,v1_17,['inductive'],['diagram'],['a'],['b'], B,0
+18,v1_18,['inductive'],['diagram'],['c'],['b'], B,0
+19,v1_19,['inductive'],['diagram'],['c'],['a'], A) 10,0
+20,v1_20,['deductive'],['ocr'],['3'],['1'], 1,0
+21,v1_21,['inductive'],['diagram'],['f'],"['a', 'b', 'c', 'd', 'e', 'f']"," Based on the image, it is not possible to determine which of the boxes A to F will complete the grid without additional information. The missing box could be due to a variety of reasons, such as an error in the grid creation, a missing piece, or a deliberate choice to leave a blank space. Without more context or information, it is not possible to accurately determine which choice from A-F is correct.",0
+22,v1_22,['inductive'],['diagram'],['d'],['b'], B,0
+23,v1_23,['deductive'],['ocr'],['c'],['a'], A,0
+24,v1_24,['deductive'],['ocr'],['d'],['a'], A,0
+25,v1_25,['deductive'],['ocr'],['c'],['a'], A,0
+26,v1_26,['inductive'],['diagram'],['b'],['b'], B,1
+27,v1_27,['inductive'],['diagram'],['d'],['b'], B,0
+28,v1_28,['inductive'],['diagram'],['e'],['b'], B,0
+29,v1_29,['inductive'],['diagram'],['a'],['d'], D,0
+30,v1_30,['inductive'],['diagram'],['c'],['b'], B,0
+31,v1_31,['inductive'],['diagram'],['e'],['b'], B,0
+32,v1_32,['inductive'],['diagram'],['e'],['b'], B,0
+33,v1_33,['inductive'],['diagram'],['e'],['b'], B,0
+34,v1_34,['inductive'],['diagram'],['c'],['b'], B,0
+35,v1_35,['inductive'],['diagram'],['b'],['b'], B,1
+36,v1_36,['inductive'],['diagram'],['a'],['b'], B,0
+37,v1_37,['inductive'],['diagram'],['b'],['b'], B,1
+38,v1_38,['inductive'],['diagram'],['e'],['b'], B,0
+39,v1_39,['inductive'],['diagram'],['e'],['b'], B,0
+40,v1_40,['inductive'],['diagram'],['c'],['c'], C,1
+41,v1_41,['deductive'],['ocr'],['b'],['a'], A,0
+42,v1_42,['deductive'],['ocr'],['a'],['a'], A,1
+43,v1_43,['deductive'],['ocr'],['c'],['b'], B,0
+44,v1_44,['deductive'],['ocr'],['b'],['a'], A,0
+45,v1_45,['deductive'],['ocr'],['e'],['d']," Based on the image, the paintings in the museum are to be filed, by genre, then title, in alphabetical order. Therefore, the fourth painting would be positioned at D, Painting IV.",0
+46,v1_46,['deductive'],['ocr'],['c'],"['a', 'b', 'c', 'd', 'e']"," Based on the image, Kim Ramirez sold her painting and used the money to purchase Instant. She has spent all the money from the original sale, so she has nothing remaining from the original sale.",0
+47,v1_47,['deductive'],['ocr'],['b'],['a'], A,0
+48,v1_48,['deductive'],['ocr'],['b'],['b'], B,1
+49,v1_49,['deductive'],['ocr'],['a'],['a'], A,1
+50,v1_50,['deductive'],['ocr'],['a'],['b'], B,0
+51,v1_51,['deductive'],['ocr'],['c'],['b'], B,0
+52,v1_52,['numerical'],['ocr'],['c'],['a'], A,0
+53,v1_53,['numerical'],['ocr'],['e'],['c']," Based on the image, Today's Drebs Ltd share price represents a 40% increase on the price one month ago. One month ago, the Drebs Ltd share price was €12.68.",0
+54,v1_54,['numerical'],"['diagram', 'ocr']",['b'],['b'], B,1
+55,v1_55,['numerical'],"['diagram', 'ocr']",['d'],"['a', 'd']"," Based on the image, the largest number of each type of car that can be ordered is:
+
+Taber: 27
+Ursa: 21",0
+56,v1_56,['numerical'],"['diagram', 'ocr']",['e'],['a']," Based on the image, Legal sector spending on IT hardware, IT software, and IT consulting are all set to increase by the same amounts in Year 6 as they did from Year 4 to Year 5. Assuming this is the case, the total legal sector spending in Year 6 on these three IT areas combined would be:
+
+(A) £75 million
+
+Please note that the answer is A.",0
+57,v1_57,['numerical'],"['diagram', 'ocr']",['d'],['d'], D) Spending on IT hardware will decline.,1
+58,v1_58,['numerical'],['ocr'],['b'],['e']," To hit the target of a 1.5% monthly gross profit increase, the sales turnover needs to be increased by 1.5% of the previous month's sales. In January, the sales turnover was £274,299. To calculate the sales turnover needed for February, we can use the following formula:
+
+February Sales Turnover = (January Sales Turnover \* (1 + Target Growth Rate)) / 100
+
+Plugging in the values, we get:
+
+February Sales Turnover = (£274,299 \* (1 + 0.015)) / 100
+= £274,299 \* 1.015
+= £288,000
+
+Therefore, the sales turnover needed to hit the target in February is £288,000. The answer is (E) £288,000.",0
+59,v1_59,['numerical'],['ocr'],['e'],['b'], B,0
+60,v1_60,['numerical'],"['diagram', 'ocr']",['c'],['d']," If the ratio of profit to turnover for Pacific Rim contracts was 2:15, the turnover would be 2/15 \* 100,000 = 133,333. The profit would be 2/15 \* 100,000 \* 133,333 = 266,666. The government turnover in the Pacific Rim would be 133,333.",0
+61,v1_61,['numerical'],"['diagram', 'ocr']",['d'],['e']," Based on the image, Reyes Heslop had a target for Leisure profits to be a quarter of their total profits. Assuming profits in other areas remain the same, by how much did the Leisure profits miss this target?
+
+To calculate the difference between the target and the actual Leisure profits, we can subtract the target from the actual Leisure profits.
+
+Target: 1/4 of total profits
+Actual Leisure profits: £1.8 million
+
+So, the difference between the target and the actual Leisure profits is:
+
+Target - Actual = (1/4) x (£1.8 million - £1.8 million) = -£1.8 million
+
+Since the target was to have Leisure profits be a quarter of their total profits, the actual Leisure profits missed the target by -£1.8 million.
+
+Answer: E) £3.4 million",0
+62,v1_62,['numerical'],"['diagram', 'ocr']",['b'],['a']," Based on the image, the difference between direct sales and telesales across the five teams combined is:
+
+Team A: Direct Sales - £10 million, Telesales - No data
+Team B: Direct Sales - No data, Telesales - £11 million
+Team C: Direct Sales - No data, Telesales - £12 million
+Team D: Direct Sales - No data, Telesales - £13 million
+Team E: Direct Sales - No data, Telesales - £14 million
+
+Therefore, the combined difference between direct sales and telesales across the five teams is:
+
+£10 million (Team A) - No data (Team B) - No data (Team C) - No data (Team D) - No data (Team E) - No data
+
+The combined difference is zero, indicating that there is no significant difference between direct sales and telesales across the five teams.",0
+63,v1_63,['numerical'],"['diagram', 'ocr']",['d'],['a']," To find the total sales across all regions, we need to find the percentage of the total sales that the Eastern Region represents. The Eastern Region's sales represent 26% of the total sales.
+
+To find the total sales across all regions, we can multiply the percentage of the total sales that the Eastern Region represents by the total sales for all regions.
+
+26% of the total sales for all regions = 26/100 \* £124 million = £32.4 million
+
+So, the total sales across all regions are approximately £124 million. The closest answer to this value is (A) £124 million.",0
+64,v1_64,['numerical'],['ocr'],['d'],['b']," To achieve annual profits of £39,000, Company B would need to recruit 3 extra employees, as the profits per employee are currently at £12,000. Therefore, the answer is (B) 3.",0
+65,v1_65,['numerical'],"['diagram', 'ocr']",['d'],['a'], A,0
+66,v1_66,['numerical'],['ocr'],['d'],['d']," Based on the image, approximately 4% of the people sampled are unemployed.",1
+67,v1_67,['numerical'],['ocr'],['b'],['d']," Based on the image, the average accident cost per vehicle on the road in September for the County is (D) £20.50.",0
+68,v1_68,['numerical'],"['diagram', 'ocr']",['a'],['a']," If output for Nuclear in 2006 was twice that for Coal in 1996, and the total output from all fuels in 1996 was 200TWh, then the output for Coal in 1996 was 200TWh/2 = 100TWh.
+
+If the output for Nuclear in 2006 was twice that for Coal in 1996, then the output for Nuclear in 2006 was 2 \* 100TWh = 200TWh.
+
+Therefore, the output for Nuclear in 2006 was 200TWh.",1
+69,v1_69,['spatial'],['diagram'],['b'],['a'], A,0
+70,v1_70,['spatial'],['diagram'],['d'],['a'], A,0
+71,v1_71,['spatial'],['diagram'],['c'],['a'], A,0
+72,v1_72,['spatial'],['diagram'],['c'],['a'], A,0
+73,v1_73,['spatial'],['diagram'],['d'],['a'], A,0
+74,v1_74,['spatial'],['diagram'],['c'],['a'], A,0
+75,v1_75,['spatial'],['diagram'],['a'],['a'], A,1
+76,v1_76,['spatial'],['diagram'],['c'],['a'], A,0
+77,v1_77,['spatial'],['diagram'],['a'],['a'], A,1
+78,v1_78,['spatial'],['diagram'],['a'],['a'], A,1
+79,v1_79,['spatial'],['diagram'],['d'],['a'], A,0
+80,v1_80,['spatial'],['diagram'],['b'],['a'], A,0
+81,v1_81,['inductive'],['diagram'],['b'],['a'], A,0
+82,v1_82,['inductive'],['diagram'],['a'],['a'], A,1
+83,v1_83,['inductive'],['diagram'],['b'],['a'], A,0
+84,v1_84,['inductive'],['diagram'],['b'],['a'], A,0
+85,v1_85,['inductive'],['diagram'],['c'],['a'], A,0
+86,v1_86,['inductive'],['diagram'],['b'],['a'], A,0
+87,v1_87,['inductive'],['diagram'],['a'],['a'], A,1
+88,v1_88,['inductive'],['diagram'],['a'],['a'], A,1
+89,v1_89,['inductive'],['diagram'],['b'],['a'], A,0
+90,v1_90,['inductive'],['diagram'],['c'],['a'], A,0
+91,v1_91,['inductive'],['diagram'],['b'],['a'], A,0
+92,v1_92,['inductive'],['diagram'],['a'],['a'], A,1
+93,v1_93,['inductive'],['diagram'],['c'],['a'], A,0
+94,v1_94,['inductive'],['diagram'],['a'],['a'], A,1
+95,v1_95,['inductive'],['diagram'],['a'],['a'], A,1
+96,v1_96,['inductive'],['diagram'],['b'],['a'], A,0
+97,v1_97,['inductive'],['diagram'],['a'],['a'], A,1
+98,v1_98,['inductive'],['diagram'],['c'],['a'], A,0
+99,v1_99,['inductive'],['diagram'],['a'],['a'], A,1
+100,v1_100,['inductive'],['diagram'],['a'],['a'], A,1
+101,v1_101,['inductive'],['diagram'],['b'],['a'], A,0
+102,v1_102,['inductive'],['diagram'],['b'],['a'], A,0
+103,v1_103,['inductive'],['diagram'],['a'],['a'], A,1
+104,v1_104,['inductive'],['diagram'],['c'],['a'], A,0
+105,v1_105,['inductive'],['diagram'],['a'],['a'], A,1
+106,v1_106,['inductive'],['diagram'],['a'],['a'], A,1
+107,v1_107,['inductive'],['diagram'],['a'],['a'], A,1
+108,v1_108,['inductive'],['diagram'],['a'],['a'], A,1
+109,v1_109,['inductive'],['diagram'],['c'],['a'], A,0
+110,v1_110,['inductive'],['diagram'],['c'],['a'], A,0
+111,v1_111,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+112,v1_112,['inductive'],"['diagram', 'ocr']",['c'],['b'], B,0
+113,v1_113,['inductive'],"['diagram', 'ocr']",['c'],['b'], B,0
+114,v1_114,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+115,v1_115,['inductive'],"['diagram', 'ocr']",['d'],['b'], B,0
+116,v1_116,['inductive'],"['diagram', 'ocr']",['c'],['b'], B,0
+117,v1_117,['inductive'],"['diagram', 'ocr']",['d'],['a'], A,0
+118,v1_118,['inductive'],"['diagram', 'ocr']",['a'],['b'], B,0
+119,v1_119,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+120,v1_120,['inductive'],"['diagram', 'ocr']",['c'],['b'], B,0
+121,v1_121,['inductive'],"['diagram', 'ocr']",['a'],['b'], B,0
+122,v1_122,['inductive'],"['diagram', 'ocr']",['d'],['b'], B,0
+123,v1_123,['inductive'],"['diagram', 'ocr']",['a'],['b'], B,0
+124,v1_124,['inductive'],"['diagram', 'ocr']",['c'],['b'], B,0
+125,v1_125,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+126,v1_126,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+127,v1_127,['inductive'],"['diagram', 'ocr']",['b'],['b'], B,1
+128,v1_128,['inductive'],"['diagram', 'ocr']",['a'],['b'], B,0
+129,v1_129,['inductive'],"['diagram', 'ocr']",['b'],['a'], A,0
+130,v1_130,['inductive'],"['diagram', 'ocr']",['d'],['b'], B,0
+131,v1_131,['mechanical'],['diagram'],['d'],['d']," The best reason for the motion of the non-pressurised cylindrical metal tank filled with air as it is submerged underwater is (D) Water replaces the air in the tank which makes it heavier. As the air escapes, the tank gradually moves deeper underwater due to the increased weight of the water that has replaced the air in the tank.",1
+132,v1_132,['mechanical'],['diagram'],['c'],['b'], B,0
+133,v1_133,['mechanical'],"['diagram', 'ocr']",['c'],['c'], C) The wider angle of view reduces blind spots.,1
+134,v1_134,['mechanical'],['diagram'],['a'],['b'], B,0
+135,v1_135,['mechanical'],['diagram'],['c'],['c'], C,1
+136,v1_136,['mechanical'],['diagram'],['a'],['a'], The candle in the small sealed jar (A) would have its flame extinguish first.,1
+137,v1_137,['mechanical'],['diagram'],['d'],['a'], A,0
+138,v1_138,['mechanical'],['diagram'],['b'],['b'], B) It provides mechanical advantage which allows cutting through thick bolts.,1
+139,v1_139,['mechanical'],"['diagram', 'ocr']",['c'],['c'], C,1
+140,v1_140,['mechanical'],['diagram'],['d'],['d']," The answer is (D) D. In the image, the halligan is shown to be used to open a locked door. The halligan is designed to provide the least effort to forcibly open the door, making it the most suitable option for firefighters during fire rescue operations.",1
+141,v1_141,['mechanical'],['diagram'],['b'],['a'], A,0
+142,v1_142,['mechanical'],['diagram'],['b'],['a'], A,0
+143,v1_143,['mechanical'],['diagram'],['a'],['a'], A,1
+144,v1_144,['mechanical'],"['diagram', 'ocr']",['b'],"['a', 'b', 'c', 'd', 'e']", The weight with the question mark is 5 lb.,0
+145,v1_145,['mechanical'],"['diagram', 'ocr']",['c'],['e'], The weight with the question mark is 60 lb.,0
+146,v1_146,['mechanical'],['ocr'],['c'],['b'], B,0
+147,v1_147,['mechanical'],"['diagram', 'ocr']",['b'],['a'], A,0
+148,v1_148,['mechanical'],['diagram'],['a'],['a'], A,1
+149,v1_149,['mechanical'],['ocr'],['c'],['c'], C,1
+150,v1_150,['mechanical'],"['diagram', 'ocr']",['b'],['d']," To find the total resistance, we need to find the equivalent resistance (Req) of the two resistors in parallel. The formula for equivalent resistance is:
+
+Req = 1 / (1/R1 + 1/R2)
+
+Plugging in the values, we get:
+
+Req = 1 / (1/4 + 1/6) = 1 / (1/2 + 1/3) = 1 / (1/2 + 2/3) = 1 / (3/2) = 3/2 ohm
+
+So, the total resistance is 3/2 ohm, which corresponds to option D.",0
+151,v1_151,['mechanical'],['ocr'],['c'],['d'], D) None of the above,0
+152,v1_152,['mechanical'],['ocr'],['b'],['a'], A) Processor,0
+153,v1_153,['mechanical'],['diagram'],['a'],['a'], A,1
+154,v1_154,['mechanical'],['diagram'],['c'],['a'], A,0
+155,v1_155,['mechanical'],"['diagram', 'ocr']",['a'],['a'], A,1
+156,v1_156,['mechanical'],"['diagram', 'ocr']",['c'],['b'], B,0
+157,v1_157,['mechanical'],"['diagram', 'ocr']",['a'],['b'], B,0
+158,v1_158,['mechanical'],['diagram'],['a'],['a'], A,1
+159,v1_159,['mechanical'],['diagram'],['c'],['a'], A,0
+160,v1_160,['mechanical'],['diagram'],['b'],['a'], A,0
+161,v1_161,['mechanical'],['diagram'],['a'],['a'], A,1
+162,v1_162,['mechanical'],['diagram'],['b'],['c'], C,0
+163,v1_163,['mechanical'],"['diagram', 'ocr']",['a'],['a'], A,1
+164,v1_164,['mechanical'],['diagram'],['c'],['c'], C,1
+165,v1_165,['mechanical'],['diagram'],['c'],['b'], B,0
+166,v1_166,['mechanical'],"['diagram', 'ocr']",['d'],['c']," To balance the lever, the fulcrum has to be placed at a distance of 7 cm from the left weight.",0
+167,v1_167,['mechanical'],['diagram'],['a'],['b'], B,0
+168,v1_168,['mechanical'],"['diagram', 'ocr']",['a'],['a'], A,1
+169,v1_169,['mechanical'],['diagram'],['d'],"['a', 'b', 'c', 'd']"," Based on the image, the diagram shows two fixed cogwheels which can only rotate around their own axis. A rack is inserted between the two cogwheels and is moved in the direction shown by the arrow. The directions of movement and velocities of revolution of the cogwheels are:
+
+A) Same direction, same velocities
+
+B) Same direction, different velocities
+
+C) Different directions, same velocities
+
+D) Different directions, different velocities",0
+170,v1_170,['mechanical'],"['diagram', 'ocr']",['c'],['c']," Based on the image, the total resistance of the circuit is 24 ohm.",1
+171,v1_171,['spatial'],['diagram'],['d'],['a'], The marked box is touching 4 other boxes.,0
+172,v1_172,['spatial'],['diagram'],['a'],['b'], B,0
+173,v1_173,['spatial'],['diagram'],['d'],['b'], The rotation of the top combination is B.,0
+174,v1_174,['mechanical'],"['diagram', 'ocr']",['b'],['b']," The wheels turning counter-clockwise are A, B, D, F.",1
+175,v1_175,['mechanical'],"['diagram', 'ocr']",['d'],['d']," If the spring bears a 10-pound weight and has stretched 0.5 inches, and if you were to increase the weight to 15 pounds, the spring would stretch 0.75 inches. Therefore, the correct answer is (D) 0.75 inches.",1
+176,v1_176,['mechanical'],['diagram'],['d'],['b'], B,0
+177,v1_177,['deductive'],['ocr'],['b'],['c'], C,0
+178,v1_178,['deductive'],['ocr'],['d'],['d'], D,1
+179,v1_179,['deductive'],['ocr'],['b'],['d'], D,0
+180,v1_180,['deductive'],['ocr'],['c'],['c'], C,1
+181,v1_181,['deductive'],['ocr'],['c'],['c'], C,1
+182,v1_182,['spatial'],['diagram'],['b'],['a'], A,0
+183,v1_183,['spatial'],['diagram'],['c'],['b'], B,0
+184,v1_184,['spatial'],['diagram'],['a'],['a'], A,1
+185,v1_185,['spatial'],['diagram'],['a'],['a']," Based on the image, the top three puzzle pieces will create a triangle shape. Therefore, the answer is (A) 1.",1
+186,v1_186,['spatial'],['diagram'],['b'],['a'], A,0
+187,v1_187,['spatial'],"['diagram', 'ocr']",['c'],['b'], B,0
+188,v1_188,['spatial'],['diagram'],['b'],['a'], A) A,0
+189,v1_189,['spatial'],['diagram'],['d'],['a'], A,0
+190,v1_190,['spatial'],['diagram'],['b'],['1'], 1,0
+191,v1_191,['spatial'],"['diagram', 'ocr']",['a'],['b'], B,0
+192,v1_192,['spatial'],['diagram'],['d'],['b'], B,0
+193,v1_193,['spatial'],['diagram'],['d'],['b'], B,0
+194,v1_194,['spatial'],['diagram'],['c'],['b'], B,0
+195,v1_195,['spatial'],['diagram'],['a'],['b'], B,0
+196,v1_196,['spatial'],['diagram'],['d'],['b'], B,0
+197,v1_197,['spatial'],['diagram'],['b'],['b'], B,1
+198,v1_198,['spatial'],['diagram'],['c'],['b'], B,0
+199,v1_199,['spatial'],['diagram'],['d'],['b'], B,0
+200,v1_200,['spatial'],['diagram'],['a'],['b'], B,0
+201,v1_201,['spatial'],['diagram'],['b'],['b'], B,1
+202,v1_202,['numerical'],"['diagram', 'ocr']",['a'],['b']," Based on the image, the total value of Grade A and C Wireless Headphones produced in 2019 was $540,000.",0
+203,v1_203,['numerical'],"['diagram', 'ocr']",['c'],['b']," If production of Grade B Wireless Headphones increased by 26% from 2022 to 2023, the value of Grade B Wireless Headphones produced in 2023 would be (B) 126,000.",0
+204,v1_204,['numerical'],"['diagram', 'ocr']",['b'],['a']," Based on the image, the proportionate value of grade A to C grade Wireless Headphones produced in 2018 was 0.83:1.",0
+205,v1_205,['numerical'],"['diagram', 'ocr']",['c'],"['a', 'b']"," Based on the image, the value of Grade C Wireless Headphones produced in 2020 was $300, and the value of Grade B Wireless Headphones produced in 2022 was $310.",0
+206,v1_206,['numerical'],"['diagram', 'ocr']",['c'],['a'], The difference between the average precipitation in Tirana and Algiers is 64 mm.,0
+207,v1_207,['numerical'],"['diagram', 'ocr']",['b'],['d']," Based on the image, the percentage increase in precipitation in Tirana between April and May is (D) 4.12%.",0
+208,v1_208,['numerical'],"['diagram', 'ocr']",['b'],['d'], The correct answer is (D) 46%.,0
+209,v1_209,['numerical'],"['diagram', 'ocr']",['c'],['d'], D,0
+210,v1_210,['numerical'],"['diagram', 'ocr']",['b'],['b']," Based on the image, Antlyn plc's share of the textile industry in 2021 and 2022 combined is $534k.",1
+211,v1_211,['numerical'],"['diagram', 'ocr']",['a'],['b'], B,0
+212,v1_212,['numerical'],"['diagram', 'ocr']",['d'],['c']," Based on the image, the combined value of Balcom plc's and Trade ltd's share of the industry in 2022 was $604k.",0
+213,v1_213,['numerical'],"['diagram', 'ocr']",['b'],['c']," Based on the image, the approximate percentage increase in the value of Royer inc's textile sales from 2021 to 2022 is (C) 7.9%.",0
+214,v1_214,['numerical'],"['diagram', 'ocr']",['a'],['d']," Based on the image, the proportion of Val Thorens' snowfall that occurred in January is 12%.",0
+215,v1_215,['numerical'],"['diagram', 'ocr']",['c'],['c'], C,1
+216,v1_216,['numerical'],"['diagram', 'ocr']",['c'],['a']," Based on the image, the total snowfall across all the resorts next January would be:
+
+A) 110.5cm
+
+This is the predicted increase in snowfall for Val Thorens and Whistler, while the decrease in snowfall for Tignes and Les Arcs is 15%.",0
+217,v1_217,['numerical'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd']"," Based on the image, it is not possible to accurately determine the amount of snow that fell in Whistler and Les Arcs in January and February combined. The image only provides a visual representation of the snowfall, but does not provide specific data or measurements.",0
+218,v1_218,['deductive'],['ocr'],['c'],['c']," Based on the image, it can be concluded that all musicians are music enthusiasts, but not all music enthusiasts are musicians. This is because the statement ""No scholars are musicians"" is true, but it does not necessarily mean that all music enthusiasts are scholars. Therefore, the correct answer is (C) Some music enthusiasts are not scholars.",1
+219,v1_219,['deductive'],['ocr'],['d'],['d']," Based on the image, if dogs with long hairs, pittbulls, and sweet dogs exist, the logical conclusion that can be drawn from the following two statements is:
+
+All sweet dogs are dogs with long hairs
+
+Some pittbulls are not dogs with long hairs
+
+Therefore, the correct answer is (D) None of the other answers is correct.",1
+220,v1_220,['deductive'],['ocr'],['d'],['c'], C) All phenomena are phenomeni.,0
+221,v1_221,['deductive'],['ocr'],['c'],['d']," Based on the image, the logical conclusion that can be drawn from the two statements is that all taxes are expenses. This is because the statement ""No taxes are incomes"" implies that taxes are not considered as incomes, while the statement ""All taxes are expenses"" implies that taxes are always considered as expenses. Therefore, the only option that fits both statements is (D) All incomes are expenses.",0
+222,v1_222,['deductive'],['ocr'],['b'],['b'], B) Some hip people are not arrogant ***holes,1
+223,v1_223,['deductive'],['ocr'],['b'],['a']," Based on the image, it can be concluded that all cakes are pies, but not all pastries are pies. Therefore, the correct answer is (A) All pies are cakes.",0
+224,v1_224,['deductive'],['ocr'],['d'],['b']," Based on the image, it can be concluded that all furry animals are animals, but not all animals are sheep. Therefore, the correct answer is (B) Some furry animals are not animals.",0
+225,v1_225,['deductive'],['ocr'],['b'],['b']," Based on the image, if kalowites, koliwites, and kilowites exist, the logical conclusion that can be drawn from the following two statements is:
+
+No kalowites are kilowites
+All kalowites are koliwites
+
+This conclusion is based on the fact that the statement ""No kalowites are kilowites"" implies that there is at least one type of kalowite that is not a kilowite, while the statement ""All kalowites are koliwites"" implies that all kalowites are the same type, which is koliwites. Therefore, it can be concluded that there is at least one type of kalowite that is not a kilowite.",1
+226,v1_226,['deductive'],['ocr'],['d'],['c']," Based on the image, it can be concluded that all leaves are shrubs, as all trees are leaves and all leaves are shrubs. Therefore, the correct answer is (C) All shrubs are leaves.",0
+227,v1_227,['deductive'],['ocr'],['d'],['c'], C) All malicious are viruses,0
+228,v1_228,['deductive'],['ocr'],['d'],['a']," Based on the image, if prakky prooks, proky proaks, and prooky praks exist, the logical conclusion that can be drawn from the following two statements is:
+
+All prooky praks are prakky prooks
+
+No proky proaks are prakky prooks
+
+Therefore, the answer is (A) All prooky praks are prakky prooks.",0
+229,v1_229,['deductive'],['ocr'],['d'],['d']," Based on the image, if people, rational beings, and animals exist, the logical conclusion that can be drawn from the following two statements is: No animals are people. All rational beings are people. Therefore, the correct answer is (D) No rational beings are animals.",1
+230,v1_230,['deductive'],['ocr'],['d'],['a'], A,0
+231,v1_231,['deductive'],['ocr'],['c'],['c'], C) Some sperm whales are not dolphins,1
+232,v1_232,['deductive'],['ocr'],['c'],['c'], C) None of the other answers is correct.,1
+233,v1_233,['deductive'],['ocr'],['d'],['a']," Based on the image, if pot viewers, curious monkeys, and voyagers exist, the logical conclusion drawn from the following two statements is:
+
+No voyagers are pot viewers
+
+All pot viewers are curious monkeys
+
+Therefore, the answer is (A) All curious monkeys are pot viewers.",0
+234,v1_234,['deductive'],['ocr'],['b'],['c']," Based on the image, it can be concluded that some plastic bags are not handbags, as the statement ""No Gucci bags are handbags"" is true. Therefore, the answer is (C) Some plastic bags are not handbags.",0
+235,v1_235,['deductive'],['ocr'],['b'],['b']," Based on the image, the logical conclusion drawn from the two statements is that all happy people are New Yorkers. This conclusion can be drawn from the statements ""No annoying people are New Yorkers"" and ""All happy people are New Yorkers."" Since the first statement states that no annoying people are New Yorkers, and the second statement states that all happy people are New Yorkers, it can be inferred that all happy people are not annoying people, and thus, all happy people are New Yorkers.",1
+236,v1_236,['deductive'],['ocr'],['a'],['b'], B,0
+237,v1_237,['deductive'],['ocr'],['c'],['d']," Based on the image, it can be concluded that no sharks are fishes, and all fishes are investors. Therefore, the correct answer is (D) No sharks are investors.",0
+238,v1_238,['deductive'],['ocr'],['d'],['c'], C) All yards are meters,0
+239,v1_239,['deductive'],['ocr'],['c'],['a']," Based on the image, it can be concluded that all birds are crows, but not all crows are birds. This is because the statement ""All birds are crows"" is true, but the statement ""No ravens are birds"" is also true, which contradicts the first statement. Therefore, the correct answer is (A) Some ravens are birds.",0
+240,v1_240,['deductive'],['ocr'],['d'],['a'], A,0
+241,v1_241,['deductive'],['ocr'],['d'],['a']," Based on the image, it can be concluded that some lawyers are brokers, as the statement ""All lawyers are bankers"" is false. Therefore, the correct answer is (A) Some lawyers are brokers.",0
+242,v1_242,['deductive'],['ocr'],['d'],['d'], D,1
+243,v1_243,['deductive'],['ocr'],['a'],['a']," Based on the image, if croptonites, craptonates, and croptonates exist, the logical conclusion that can be drawn from the following two statements is:
+
+(A) Some croptonites are craptonates.
+
+This conclusion is based on the fact that all croptonites are croptonates, and croptonites are a type of croptonates. Therefore, it can be inferred that some croptonites are also craptonates.",1
+244,v1_244,['deductive'],['ocr'],['c'],['a'], A,0
+245,v1_245,['deductive'],['ocr'],['a'],['b'], B) The art is overpriced,0
+246,v1_246,['deductive'],['ocr'],['c'],['b'], B,0
+247,v1_247,['numerical'],"['diagram', 'ocr']",['c'],['d']," Based on the image, approximately 56% of flights cancelled in February were Gatwick Airport flights.",0
+248,v1_248,['numerical'],"['diagram', 'ocr']",['b'],['d']," Based on the image, the percentage increase in the number of flights cancelled at Stanstead comparing November and December vs January and February is (D) 69%.",0
+249,v1_249,['numerical'],"['diagram', 'ocr']",['a'],['a']," Based on the image, the ratio of flights cancelled at Gatwick Airport in November compared to the total number of cancelled flights for all three airports that month was 1:3.25. Therefore, the correct answer is (A) 1:3.25.",1
+250,v1_250,['numerical'],"['diagram', 'ocr']",['a'],"['a', 'b', 'c', 'd']"," Based on the image, Heathrow Airport pledged to reduce cancelled flights by 80% by March. However, the actual number of cancelled flights is not provided in the image. Therefore, it is not possible to determine the number of cancelled flights that Heathrow Airport failed to reach the target.",0
+251,v1_251,['numerical'],['diagram'],['d'],['d'], The total cost for two return tickets for the quickest coach journey that serves breakfast is (D) 170.,1
+252,v1_252,['numerical'],['diagram'],['a'],['c']," Based on the image, the cheapest single ticket travel option if the agent must leave London between 09:00-09:30 is option (C) 09:30 coach departure.",0
+253,v1_253,['numerical'],['diagram'],['b'],['b']," Based on the image, the difference in the average speeds of the 07:50 and 10:30 train departures to the nearest mph is 5mph.",1
+254,v1_254,['numerical'],['diagram'],['a'],['d']," Based on the image, the single ticket price for an engineer who wants to take the shortest travel option to arrive in Manchester before 13:00 and requires a wireless connection throughout her journey is (D) 59.49.",0
+255,v1_255,['numerical'],"['diagram', 'ocr']",['a'],['c']," Based on the image, assuming the report has overestimated revenues by 15%, the actual revenue generated by Binders in the quarter October to December was $29,750.",0
+256,v1_256,['numerical'],"['diagram', 'ocr']",['a'],['c']," Based on the image, the percentage change in revenue generated by Graff from quarter 1 to quarter 4 is (C) 50%.",0
+257,v1_257,['numerical'],"['diagram', 'ocr']",['c'],['c']," Based on the image, the average monthly revenue generated by Moen from January to June is (C) 9,167.",1
+258,v1_258,['numerical'],"['diagram', 'ocr']",['d'],['c']," Based on the image, the percentage increase in Graff's revenue from quarter 2 to quarter 4 is (C) 25%.",0
+259,v1_259,['numerical'],['diagram'],['a'],['a']," Based on the image, if you use 200 same network and 150 other network minutes per month, the annual saving for a Gem Plan customer compared to a Royal Plan customer would be 52.61.",1
+260,v1_260,['numerical'],['diagram'],['a'],['d']," Based on the image, the customer accumulates 2,400 minutes of standard calls and 1,500 texts during the time period from the start of March to the end of November. Therefore, the correct answer is (D) 2,400 mins, 1,500 texts.",0
+261,v1_261,['numerical'],['diagram'],['a'],['d']," To calculate the total cost, we need to consider the cost of the 35 same call minutes, 45 other network minutes, and 62 texts. If the cost of all these rise by 20%, the new cost would be:
+
+35 same call minutes \* 20% = 0.35 \* 0.2 = 0.07
+45 other network minutes \* 20% = 0.45 \* 0.2 = 0.09
+62 texts \* 20% = 0.62 \* 0.2 = 0.12
+
+The total cost would be:
+
+0.07 + 0.09 + 0.12 = 0.36
+
+So, the correct answer is (D) 36.68.",0
+262,v1_262,['numerical'],['diagram'],['c'],['a']," Based on the image, the customer is charged incorrectly at 30p per minute for 3,120 minutes of standard calls a month for three months. To calculate the refund, we need to multiply the incorrect charge by the number of minutes and then divide it by the correct charge per minute.
+
+Incorrect charge: 3,120 minutes \* 30p/min = 93,600p
+
+Correct charge: 93,600p / 30p/min = 3,120 minutes
+
+Refund = 93,600p - 3,120 minutes \* 30p/min = 50,560p
+
+So, the refund due is 50,560p. The correct answer is (A) 505.60.",0
+263,v1_263,['numerical'],"['diagram', 'ocr']",['a'],['c']," Based on the image, the value of oil produced in February, based on February's oil prices, was $1,248,000.",0
+264,v1_264,['numerical'],"['diagram', 'ocr']",['d'],['b']," Based on the image, if the monthly production falls by 22% in July, the value of oil produced in July will be $1,081,080. Therefore, the answer is (B) $1,081,080.",0
+265,v1_265,['numerical'],"['diagram', 'ocr']",['b'],['c']," Based on the image, the percentage change in the value of oil produced from April to May is (C) -27.78%.",0
+266,v1_266,['numerical'],"['diagram', 'ocr']",['b'],['b']," Based on the image, the average oil price for the months of March, June, and July was $80.33.",1
+267,v1_267,['inductive'],['diagram'],['b'],['b'], B,1
+268,v1_268,['inductive'],['diagram'],['a'],['b'], B,0
+269,v1_269,['inductive'],['diagram'],['a'],['b'], B,0
+270,v1_270,['inductive'],['diagram'],['c'],['b'], B,0
+271,v1_271,['inductive'],['diagram'],['e'],['b'], B,0
+272,v1_272,['inductive'],['diagram'],['c'],['b'], B,0
+273,v1_273,['inductive'],['diagram'],['e'],['b'], B,0
+274,v1_274,['inductive'],['diagram'],['a'],['b'], B,0
+275,v1_275,['inductive'],['diagram'],['b'],['b'], B,1
+276,v1_276,['inductive'],['diagram'],['e'],['b'], B,0
+277,v1_277,['inductive'],['diagram'],['b'],['b'], B,1
+278,v1_278,['inductive'],['diagram'],['d'],['b'], B,0
+279,v1_279,['inductive'],['diagram'],['b'],['b'], B,1
+280,v1_280,['inductive'],['diagram'],['a'],['b'], B,0
+281,v1_281,['inductive'],['diagram'],['b'],['b'], B,1
+282,v1_282,['inductive'],['diagram'],['c'],['b'], B,0
+283,v1_283,['inductive'],['diagram'],['d'],['b'], B,0
+284,v1_284,['inductive'],['diagram'],['c'],['b'], B,0
+285,v1_285,['inductive'],['diagram'],['b'],['b'], B,1
+286,v1_286,['inductive'],['diagram'],['d'],['b'], B,0
+287,v1_287,['deductive'],['ocr'],['a'],['b'], B,0
+288,v1_288,['deductive'],['ocr'],['b'],['a'], A,0
+289,v1_289,['deductive'],['ocr'],['a'],['b'], B,0
+290,v1_290,['deductive'],['ocr'],['b'],['a'], A,0
+291,v1_291,['deductive'],['ocr'],['c'],['a']," Based on the image, Charles has two children, each owning at least two devices. They will move to a new house in one year. All plans are non-transferable. To find the best plan for the cheapest price, we need to compare the monthly fees for each plan (A, B, C, D, and E).
+
+A: Ferret - 35.00
+B: Hare - 35.00
+C: Dog - 35.00
+D: Fox - 35.00
+E: Owl - 35.00
+
+Since all plans have the same monthly fee, the best plan for the cheapest price would be the one with the lowest monthly fee. In this case, the best plan would be the Ferret plan (A) with a monthly fee of 35.00.",0
+292,v1_292,['deductive'],['ocr'],['b'],['c'], C,0
+293,v1_293,['deductive'],['ocr'],['c'],['b'], B,0
+294,v1_294,['deductive'],['ocr'],['b'],['a'], A,0
+295,v1_295,['deductive'],['ocr'],['a'],['b'], B,0
+296,v1_296,['deductive'],['ocr'],['c'],['b'], B,0
+297,v1_297,['deductive'],['ocr'],['c'],['c'], C,1
+298,v1_298,['deductive'],['ocr'],['e'],['e'], E,1
+299,v1_299,['deductive'],['ocr'],['a'],['a'], A,1
+300,v1_300,['deductive'],['ocr'],['a'],['a'], A,1
+301,v1_301,['deductive'],['ocr'],['c'],['b'], B,0
+302,v1_302,['deductive'],['ocr'],['b'],['a'], A,0
+303,v1_303,['deductive'],['ocr'],['e'],['d']," Based on the image, Lucy has a contract type of Delta.",0
+304,v1_304,['deductive'],['ocr'],['d'],['a']," Based on the image, Debra has a Foxtrot contract and Lucas a Beta contract. Debra earns 220,000 at the end of the contract, while Lucas earns 190,000. Therefore, Debra earns 30,000 more than Lucas.",0
+305,v1_305,['deductive'],['ocr'],['a'],['a'], A,1
+306,v1_306,['deductive'],['ocr'],['c'],['b'], B,0
+307,v1_307,['deductive'],['ocr'],['b'],['a'], A,0
+308,v1_308,['deductive'],['ocr'],['a'],['a'], A,1
+309,v1_309,['deductive'],['ocr'],['a'],['a'], A,1
+310,v1_310,['deductive'],['ocr'],['b'],['a'], A,0
+311,v1_311,['deductive'],['ocr'],['c'],['a'], A,0
+312,v1_312,['deductive'],['ocr'],['c'],['a'], A,0
+313,v1_313,['deductive'],['ocr'],['c'],['e']," Based on the image, Gloriana travelled the Lancaster and Severn canals. They passed through 10 more miles per lock than the number of bridges. Therefore, the answer is (E) 10.",0
+314,v1_314,['deductive'],['ocr'],['d'],['d']," Based on the image, Gloriana travelled across 2 canals and went under 4 bridges. The canals that Gloriana traversed are the Grand Union and the Trent.",1
+315,v1_315,['deductive'],['ocr'],['c'],['b'], B,0
+316,v1_316,['deductive'],['ocr'],['b'],['a'], A,0
+317,v1_317,['deductive'],['ocr'],['b'],['a'], A,0
+318,v1_318,['deductive'],['ocr'],['c'],['b'], B,0
+319,v1_319,['deductive'],['ocr'],['a'],['a'], A,1
+320,v1_320,['deductive'],['ocr'],['e'],['b'], B,0
+321,v1_321,['deductive'],['ocr'],['b'],['a'], A,0
+322,v1_322,['deductive'],['ocr'],['a'],['a'], A,1
+323,v1_323,['deductive'],['ocr'],['c'],['a'], A,0
+324,v1_324,['deductive'],['ocr'],['c'],['a'], A,0
+325,v1_325,['deductive'],['ocr'],['a'],['b']," Based on the image, the job that suits the needs and requirements of Julia Horncastle is job II.",0
+326,v1_326,['deductive'],['ocr'],['e'],['b']," Based on the image, if working hours and pay were not a problem for Julia, she would make 100% more money from the highest paid job compared to the lowest paid job. Therefore, the answer is (B) 100.",0
+327,v1_327,['deductive'],['ocr'],['a'],['a'], A,1
+328,v1_328,['deductive'],['ocr'],['c'],['a'], A,0
+329,v1_329,['deductive'],['ocr'],['b'],['a'], A,0
+330,v1_330,['deductive'],['ocr'],['c'],['a'], A,0
+331,v1_331,['numerical'],"['diagram', 'ocr']",['d'],['d'], D,1
+332,v1_332,['numerical'],"['diagram', 'ocr']",['e'],['b']," Based on the image, the average amount gambled on Slot machines in 2007 by each individual who attended Calewall casino was 9.0.",0
+333,v1_333,['numerical'],"['diagram', 'ocr']",['a'],['e'], E,0
+334,v1_334,['numerical'],"['diagram', 'ocr']",['d'],['c']," Based on the image, the average annual change in attendance at Calewall casino across the years 2006-2010 if the 2010 prediction proves to be accurate is (C) 52,500 increase.",0
+335,v1_335,['numerical'],"['diagram', 'ocr']",['c'],['c'], The Board is putting a valuation of 4.85 million on Calewall casino.,1
+336,v1_336,['numerical'],"['diagram', 'ocr']",['d'],['d']," Based on the image, if the 2010 prediction proves to be accurate, the average annual percentage change in Teala Media's R&D spend across the 5 years shown would be 0.56.",1
+337,v1_337,['numerical'],"['diagram', 'ocr']",['a'],['d']," Based on the image, the R&D spend projected to be for 2010 is (D) 3.25 million.",0
+338,v1_338,['numerical'],"['diagram', 'ocr']",['c'],['c']," Based on the image, the R&D spend for 2008 was 2,503,000.",1
+339,v1_339,['numerical'],"['diagram', 'ocr']",['d'],['a']," To find the 2010 predicted R&D sum left after overheads are taken into account, we need to first calculate the 2010 R&D spend based on the given information.
+
+In 2009, R&D overheads were 12% of R&D spend, which means that 88% of the R&D spend was allocated to R&D projects. If R&D overheads are projected to rise by 1.1% between 2009 and 2010, the 2010 R&D spend will be:
+
+2010 R&D spend = 2009 R&D spend \* (1 + overheads increase)
+
+2010 R&D spend = 1.02 million \* (1 + 0.011)
+
+2010 R&D spend = 1.02 million \* 1.011
+
+2010 R&D spend = 1.031 million
+
+Now, we need to subtract the R&D overheads from the 2010 R&D spend to find the R&D sum left for R&D projects.
+
+2010 R&D sum left = 2010 R&D spend - R&D overheads
+",0
+340,v1_340,['numerical'],"['diagram', 'ocr']",['b'],['c']," Based on the image, if delays at the end of 2009 resulted in a 2.5% increase in the cost of each of the two most expensive projects, the total R&D spend for 2009 would be approximately 2,528,000 (C).",0
+341,v1_341,['numerical'],"['diagram', 'ocr']",['a'],['b'], B,0
+342,v1_342,['numerical'],"['diagram', 'ocr']",['b'],['a']," Based on the image, the director who has bought or sold the largest number of shares across the 2-month period shown is Geoffrey Yates.",0
+343,v1_343,['numerical'],"['diagram', 'ocr']",['c'],['c']," If Tobey Gilham sells half of his shareholding at 31 May 2009 at 45 per share, this trade is worth 18,450. Therefore, the answer is (C) 18,450.",1
+344,v1_344,['numerical'],"['diagram', 'ocr']",['b'],['d'], D,0
+345,v1_345,['numerical'],"['diagram', 'ocr']",['d'],['b']," Based on the image, if Leutts shares are worth 52 on 30 April 2009, then the share valuation of the entire company is 1,588,000. Therefore, the answer is (B) 1,588,000.",0
+346,v1_346,['numerical'],"['diagram', 'ocr']",['c'],"['a', 'b', 'c', 'd', 'e']"," To find the individual sales target for each saleroom, we need to divide the total sales target by the number of salerooms. In this case, the target was split equally across 5 salerooms, so we can calculate the target for each saleroom as follows:
+
+1. Divide the total sales target by the number of salerooms: £400,000 / 5 = £80,000
+2. Multiply the result by the percentage of the target that was achieved: 80% of £80,000 = £64,000
+
+Now, we can find the individual sales target for each saleroom:
+
+1. Calculate the percentage of the target achieved by each saleroom:
+	* Saleroom A: 80% of £80,000 = £64,000 / £80,000 = 0.75
+	* Saleroom B: 80% of £80,000 = £64,000 / £80,000 = 0.75
+	* Saleroom C: 80% of £80,000 = £64,000 / £80,000 = 0.75
+	* Saleroom",0
+347,v1_347,['numerical'],"['diagram', 'ocr']",['c'],['c']," Based on the image, the stamp duty paid on house sales over £250,000 is 3%. In 2009, the average house sale price for the Alpine House was £1,500,000. Therefore, the stamp duty paid by purchasers of Alpine houses in 2009 would be:
+
+(1,500,000 / 1,000,000) \* 3% = 450,000
+
+So the answer is (C) 19,425,000.",1
+348,v1_348,['numerical'],"['diagram', 'ocr']",['b'],['d']," Based on the image, the total value of 2009 Alpine house sales is (D) 162.5 million.",0
+349,v1_349,['numerical'],"['diagram', 'ocr']",['e'],['e'], The difference in Apline house sales between July-Dec 2010 and Jan-June for 2010 is (E) 125.6 million.,1
+350,v1_350,['numerical'],"['diagram', 'ocr']",['e'],['d']," To increase the value of Jan-June house sales to the value of July-December house sales, a marketing drive is needed. If each £ spent on marketing results in £3 of increased sales, the value that must be spent on marketing is:
+
+(D) 36.6 million",0
+351,v1_351,['numerical'],['ocr'],['a'],['e']," Based on the image, the Central region will have maintained or increased sales levels each year from the previous year to next year.",0
+352,v1_352,['numerical'],['ocr'],['e'],['d'], The absolute difference between the lowest and the highest performing region (to the nearest £million) in the current year is (D) 219 million.,0
+353,v1_353,['numerical'],['ocr'],['c'],['e']," If next year's forecasts are scaled back by a quarter for the Northern and Western region, and by a fifth for the Southern and Eastern regions, the total projected sales for all 5 regions will be 866.25 million.",0
+354,v1_354,['numerical'],['ocr'],['d'],"['a', 'b', 'c', 'd', 'e']"," Based on the image, the ratios for the Central: Eastern regional sales for the Previous Year compared to the Current Year are:
+
+(A) 9:30 (Previous Year); 3:11 (Current Year)
+
+(B) 20:50 (Previous Year); 3:11 (Current Year)
+
+(C) 10:30 (Previous Year); 5:11 (Current Year)
+
+(D) 11:29 (Previous Year); 3:10 (Current Year)
+
+(E) 5:11 (Previous Year); 11:29 (Current Year)",0
+355,v1_355,['numerical'],['ocr'],['a'],['d']," Based on the image, the regions in increasing order of total combined sales for the current year and next year's projection are:
+
+1. Central
+2. Southern
+3. Western
+4. Eastern
+5. Northern
+
+Therefore, the correct answer is (D) Central, Southern, Western, Northern, Eastern.",0
+356,v1_356,['numerical'],"['diagram', 'ocr']",['d'],['d']," Based on the image, there was a more than 3.3% difference in the GDP per person for France compared to the UK in 2008. Therefore, the answer is (D) 2008, 2005.",1
+357,v1_357,['numerical'],"['diagram', 'ocr']",['c'],['b'], B) Germany GDP is over 20% higher than the France GDP in 2009.,0
+358,v1_358,['numerical'],"['diagram', 'ocr']",['a'],['d']," (D) Spain, Italy",0
+359,v1_359,['numerical'],"['diagram', 'ocr']",['a'],['c']," Based on the image, the GDP per person was increasing in both France and the UK between 2006-2007.",0
+360,v1_360,['numerical'],"['diagram', 'ocr']",['e'],['d']," Based on the image, the average GDP per person for France and the UK across the 5 years shown is (D) 23,000 (France); 23,500 (UK).",0
+361,v1_361,['numerical'],"['diagram', 'ocr']",['b'],['b']," Based on the image, there were 1000 cars sold in May.",1
+362,v1_362,['numerical'],"['diagram', 'ocr']",['d'],['a']," Based on the image, the total sales of Tymko cars for May, June, and July combined were 21,000.",0
+363,v1_363,['numerical'],"['diagram', 'ocr']",['a'],['c']," If the number of Bernd cars sold in July had been equal to the number of Bernd cars sold in June, there would have been 12000 more Bernd cars sold during July.",0
+364,v1_364,['numerical'],['ocr'],['c'],['a']," Based on the image, in Liverpool, the net effect of live birth and death rates on the population during 2000 was a decrease of 200. Therefore, the answer is A.",0
+365,v1_365,['numerical'],['ocr'],['a'],['a'], A,1
+366,v1_366,['numerical'],['ocr'],['d'],['a'], A,0
+367,v1_367,['numerical'],['ocr'],['a'],['a'], A,1
+368,v1_368,['numerical'],['ocr'],['a'],['a'], A,1
+369,v1_369,['numerical'],['ocr'],['b'],['b'], B,1
+370,v1_370,['numerical'],['ocr'],['d'],['b'], B,0
+371,v1_371,['numerical'],['ocr'],['a'],['d']," Based on the image, if the average profit made per sale at newbags.com was 12, approximately how much more profit was made from visitors from Website X than visitors from Website Y?
+
+To find the difference in profit, we need to calculate the number of visitors from Website X and Website Y and then multiply it by the average profit per visitor.
+
+Let's assume the number of visitors from Website X is 10,000 and the number of visitors from Website Y is 5,000.
+
+Profit from Website X = 10,000 \* 12 = $120,000
+Profit from Website Y = 5,000 \* 12 = $60,000
+
+The difference in profit is $120,000 - $60,000 = $60,000.
+
+So, the answer is (D) 891.",0
+372,v1_372,['numerical'],['ocr'],['b'],"['a', 'b', 'c', 'd']"," Based on the image, assuming all visitors arrived via either website W, X, Y or Z, approximately what percentage of visitors arrived at newbags.com from Website Y? Select from A, B, C, and D. (A) 15.7% (B) 18.9% (C) 25.0% (D) 30.3%.",0
+373,v1_373,['spatial'],['diagram'],['a'],['a'], A cube can be made from the 2D net by folding it away from you.,1
+374,v1_374,['spatial'],['diagram'],['b'],['triangle'], The answer is the triangle.,0
+375,v1_375,['spatial'],['diagram'],['d'],['triangle'], The answer is the triangle.,0
+376,v1_376,['spatial'],['diagram'],['d'],['b']," Based on the image, the answer is B.",0
+377,v1_377,['spatial'],['diagram'],['c'],['b'], B,0
+378,v1_378,['spatial'],['diagram'],['b'],['a'], A,0
+379,v1_379,['spatial'],['diagram'],['a'],['a'], A,1
+380,v1_380,['spatial'],['diagram'],['c'],['a'], A,0
+381,v1_381,['spatial'],['diagram'],['b'],['b'], B,1
+382,v1_382,['spatial'],['diagram'],[''],['b']," Based on the image, the answer is B.",0
+383,v1_383,['spatial'],['diagram'],['b'],['a'], A cube can be made from the 2D net by folding it away from you.,0
+384,v1_384,['spatial'],['diagram'],['a'],['a'], A cube can be made from the 2D net by folding it away from you.,1
+385,v1_385,['spatial'],['diagram'],['d'],['house'], The answer is a house.,0
+386,v1_386,['spatial'],['diagram'],['c'],['triangle'], The answer is the triangle.,0
+387,v1_387,['spatial'],['diagram'],['a'],['square'], The answer is the square.,0
+388,v1_388,['spatial'],['diagram'],['a'],['a'], A cube can be made from the 2D net by folding it away from you.,1
+389,v1_389,['spatial'],['diagram'],['d'],['a'], A,0
+390,v1_390,['spatial'],['diagram'],['c'],['b'], B,0
+391,v1_391,['spatial'],['diagram'],['b'],['a'], A cube can be made from the 2D net by folding it away from you.,0
+392,v1_392,['spatial'],['diagram'],['a'],['a'], A,1
+393,v1_393,['spatial'],['diagram'],['d'],['a'], A,0
+394,v1_394,['spatial'],['diagram'],['b'],['a'], A,0
+395,v1_395,['spatial'],['diagram'],['b'],['b'], B,1
+396,v1_396,['spatial'],['diagram'],['b'],['b'], B,1
+397,v1_397,['spatial'],['diagram'],['d'],['b'], B,0
+398,v1_398,['spatial'],['diagram'],['b'],['a'], A square can be made from the cube.,0
+399,v1_399,['spatial'],['diagram'],['a'],"['a', 'b', 'c', 'd']", The 3D figure that can be formed with the given 2D shape is a box.,0
+400,v1_400,['spatial'],['diagram'],['c'],['b'], B,0
+401,v1_401,['spatial'],['diagram'],['a'],['b'], B,0
+402,v1_402,['spatial'],['diagram'],['a'],['a'], A,1
+403,v1_403,['spatial'],['diagram'],['b'],['b'], B,1
+404,v1_404,['spatial'],['diagram'],['d'],['b'], B,0
+405,v1_405,['spatial'],['diagram'],['c'],['b'], B,0
+406,v1_406,['spatial'],['diagram'],['b'],['b'], B,1
+407,v1_407,['spatial'],['diagram'],['d'],['b'], B,0
+408,v1_408,['spatial'],['diagram'],['d'],['b'], B,0
+409,v1_409,['spatial'],['diagram'],['c'],['b'], B,0
+410,v1_410,['spatial'],['diagram'],['b'],['b'], The answer is B.,1
+411,v1_411,['spatial'],['diagram'],['a'],['b'], The necessary set of pieces to form the given figure is set B.,0
+412,v1_412,['spatial'],['diagram'],['c'],"['a', 'b', 'c', 'd']", The figure that can be formed with the given pieces is a triangle.,0
+413,v1_413,['spatial'],['diagram'],['b'],['b'], The piece that matches the given figure is B.,1
+414,v1_414,['spatial'],['diagram'],['a'],['c']," The piece that fits into the given figure to form a circle is the letter ""C"".",0
+415,v1_415,['spatial'],['diagram'],['a'],['b'], B,0
+416,v1_416,['spatial'],['diagram'],['d'],['b'], B,0
+417,v1_417,['mechanical'],"['diagram', 'ocr']",['e'],['c']," Based on the image, the belt drive system consists of a belt that moves around a pulley. The pulley is connected to a motor, which rotates the pulley and the belt. The belt is connected to a second pulley, which is connected to a shaft. The shaft is connected to a device that requires rotation.
+
+The correct statement is (C) A and C turn clockwise and B turns anticlockwise. The image shows that the belt is connected to two pulleys, one on the left side and one on the right side. The pulley on the left side is connected to a motor, while the pulley on the right side is connected to a shaft. The belt moves around both pulleys, causing the shaft to rotate in the opposite direction. The pulley on the left side rotates in the clockwise direction, while the pulley on the right side rotates in the anticlockwise direction. This arrangement allows the device connected to the shaft to rotate in the desired direction.",0
+418,v1_418,['mechanical'],"['diagram', 'ocr']",['c'],['b'], B,0
+419,v1_419,['mechanical'],"['diagram', 'ocr']",['c'],['b']," Based on the image, to lift the weight by 10 mm, you would need to pull the rope labeled B further.",0
+420,v1_420,['mechanical'],"['diagram', 'ocr']",['b'],['c']," Based on the image, if you want the beam to balance, you should select option (C) B must have an equal weight to A. This is because the beam is designed to balance, and the weight of the beam should be distributed evenly on both sides to maintain stability.",0
+421,v1_421,['mechanical'],['diagram'],['e'],['c'], The correct answer is (C) Use a spanner which grips the nut very tightly.,0
+422,v1_422,['mechanical'],['diagram'],['e'],['e']," To raise B by 12 cm, you need to move A 12 cm. Therefore, the correct answer is (E) 12cm.",1
+423,v1_423,['mechanical'],['diagram'],['d'],['b']," B, D and E are turning anticlockwise.",0
+424,v1_424,['mechanical'],['diagram'],['b'],['c']," If Gearwheel A has 20 teeth and is turning at 60 revolutions per minute (RPM), then Gearwheel C, which has 40 teeth, will be turning at 120 RPM.",0
+425,v1_425,['mechanical'],['diagram'],['e'],['b'], The shaft is turning at 5 RPM in a clockwise direction.,0
+426,v1_426,['mechanical'],"['diagram', 'ocr']",['a'],['a']," Based on the image, Gear A is three times as large as Gear B. Pointer B will travel 60mm clockwise.",1
+427,v1_427,['mechanical'],['diagram'],['c'],['a']," If Point C was moved downwards, the beam A-B would move up but stay level. This is because the beam is designed to maintain a constant angle and distance between Points A and B, regardless of the position of Point C. The other options, such as A ending up higher or lower than B, or both A and B dropping, would not occur due to the beam's design and function.",0
+428,v1_428,['mechanical'],"['diagram', 'ocr']",['d'],['c']," The hammer made of rubber will cool the fastest if it is placed in either water or air of the same temperature. This is because rubber has a lower thermal conductivity than wood and steel, which means it will transfer heat more slowly. As a result, the rubber hammer will take longer to cool down compared to the wooden or steel hammer.",0
+429,v1_429,['mechanical'],['diagram'],['a'],['d'], (D) A and C,0
+430,v1_430,['mechanical'],['diagram'],['d'],['d']," Based on the image, the cog with the highest revolutions per minute (RPM) is (D) D.",1
+431,v1_431,['mechanical'],"['diagram', 'ocr']",['d'],['c']," Based on the image, the pipe that would allow the water to reach the furthest is (C) C.",0
+432,v1_432,['mechanical'],"['diagram', 'ocr']",['a'],['e']," Based on the image, it is not possible to determine which object is the most aerodynamic. The image only shows the shapes of the objects, but does not provide information about their aerodynamic properties.",0
+433,v1_433,['mechanical'],"['diagram', 'ocr']",['b'],['b'], B,1
+434,v1_434,['mechanical'],"['diagram', 'ocr']",['a'],['d'], (D) Impossible to tell.,0
+435,v1_435,['mechanical'],['diagram'],['d'],['d']," In the image, there are four cogs and one belt. The cogs are arranged in a way that they will spin anticlockwise. Therefore, the answer is (D) 5.",1
+436,v1_436,['mechanical'],['diagram'],['c'],['b']," Based on the image, the stop sign that is likely to have the largest impact on the ground if the whole stop sign fell over is (B) B.",0
+437,v1_437,['mechanical'],['diagram'],['c'],['d']," Based on the image, it is not possible to determine which drone is the most stable. All three drones and their attached objects are identical, so they would be equally stable.",0
+438,v1_438,['mechanical'],['diagram'],['a'],['b'], (B) B,0
+439,v1_439,['mechanical'],['diagram'],['a'],['d'], (D) All the same,0
+440,v1_440,['mechanical'],['diagram'],['c'],['d'], (D) All require the same amount of effort.,0
+441,v1_441,['mechanical'],['diagram'],['e'],['d'], The scissors will require the least force to cut a wire in the order of (D) DBCA.,0
+442,v1_442,['mechanical'],['diagram'],['d'],['d']," Based on the image, there are four corner wheels. If the string were pulled up, the four corner wheels would spin anticlockwise. Therefore, the answer is (D) 1.",1
+443,v1_443,['mechanical'],['diagram'],['c'],['a']," Based on the image, if each spring was pressed down upon, which one of them would be compressed the farthest? The answer is (A) A.",0
+444,v1_444,['mechanical'],['diagram'],['a'],['a'], (A) A,1
+445,v1_445,['mechanical'],['diagram'],['e'],['b']," Based on the image, the water level will lower by 1.5 cubic meters of water.",0
+446,v1_446,['mechanical'],"['diagram', 'ocr']",['e'],['b'], (B) B,0
+447,v1_447,['mechanical'],['diagram'],['d'],['a']," After 120 seconds of rotation, cog A will have hit the arrow the most number of times.",0

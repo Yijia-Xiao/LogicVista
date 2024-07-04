@@ -1,0 +1,476 @@
+,id,reasoning skill,capability,true answer,otter9B answer extracted,otter9B answer raw,match?
+0,v1_0,['inductive'],"['diagram', 'ocr']",['c'],['b'],Answer: B.,0
+1,v1_1,['inductive'],['diagram'],"['a', 'c']","['b', 'd']","B, D.",0
+2,v1_2,['inductive'],['diagram'],"['b', 'd']","['a', 'b']",The answer is A and B.,0
+3,v1_3,['inductive'],['diagram'],['d'],['b'],B) B.,0
+4,v1_4,['inductive'],['diagram'],['g'],[''],,0
+5,v1_5,['inductive'],"['diagram', 'ocr']","['b', 'd']","['a', 'c']",The answer is A and C.,0
+6,v1_6,['inductive'],['diagram'],['b'],['e'],Answer: E.,0
+7,v1_7,['inductive'],['diagram'],['e'],['e'],The answer is E.,1
+8,v1_8,['inductive'],['diagram'],['a'],['e'],Answer: E.,0
+9,v1_9,['inductive'],['diagram'],['c'],['b'],Answer: B.,0
+10,v1_10,['inductive'],['diagram'],['e'],['b'],B.,0
+11,v1_11,['inductive'],['diagram'],['e'],['b'],B.,0
+12,v1_12,['inductive'],['diagram'],['b'],['b'],B.,1
+13,v1_13,['inductive'],['diagram'],['d'],['b'],Answer: B.,0
+14,v1_14,['inductive'],['diagram'],['a'],['b'],B.,0
+15,v1_15,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+16,v1_16,['inductive'],['diagram'],['e'],['b'],B) B.,0
+17,v1_17,['inductive'],['diagram'],['a'],['b'],Answer: B.,0
+18,v1_18,['inductive'],['diagram'],['c'],['b'],B.,0
+19,v1_19,['inductive'],['diagram'],['c'],['b'],The answer is B) 14. BECAUSE:.,0
+20,v1_20,['deductive'],['ocr'],['3'],['4'],Answer: 4.,0
+21,v1_21,['inductive'],['diagram'],['f'],['a'],The answer is A. BECAUSE:.,0
+22,v1_22,['inductive'],['diagram'],['d'],['e'],Answer: E.,0
+23,v1_23,['deductive'],['ocr'],['c'],['d'],The answer is D.,0
+24,v1_24,['deductive'],['ocr'],['d'],['d'],The answer is D.,1
+25,v1_25,['deductive'],['ocr'],['c'],['d'],The answer is D.,0
+26,v1_26,['inductive'],['diagram'],['b'],['e'],Answer: E.,0
+27,v1_27,['inductive'],['diagram'],['d'],['e'],Answer: E.,0
+28,v1_28,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+29,v1_29,['inductive'],['diagram'],['a'],['e'],Answer: E.,0
+30,v1_30,['inductive'],['diagram'],['c'],['e'],Answer: E.,0
+31,v1_31,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+32,v1_32,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+33,v1_33,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+34,v1_34,['inductive'],['diagram'],['c'],['e'],Answer: E.,0
+35,v1_35,['inductive'],['diagram'],['b'],['e'],Answer: E.,0
+36,v1_36,['inductive'],['diagram'],['a'],['e'],Answer: E.,0
+37,v1_37,['inductive'],['diagram'],['b'],['e'],Answer: E.,0
+38,v1_38,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+39,v1_39,['inductive'],['diagram'],['e'],['e'],Answer: E.,1
+40,v1_40,['inductive'],['diagram'],['c'],['e'],Answer: E.,0
+41,v1_41,['deductive'],['ocr'],['b'],['a'],"The answer is (A)""True"".",0
+42,v1_42,['deductive'],['ocr'],['a'],['b'],The answer is (B): False.,0
+43,v1_43,['deductive'],['ocr'],['c'],['b'],The answer is (B] False.,0
+44,v1_44,['deductive'],['ocr'],['b'],['a'],The answer is (A] True.,0
+45,v1_45,['deductive'],['ocr'],['e'],['e'],The answer is E. BECAUSE:.,1
+46,v1_46,['deductive'],['ocr'],['c'],['e'],Answer: (E).,0
+47,v1_47,['deductive'],['ocr'],['b'],['b'],False.,1
+48,v1_48,['deductive'],['ocr'],['b'],['b'],False.,1
+49,v1_49,['deductive'],['ocr'],['a'],['b'],False.,0
+50,v1_50,['deductive'],['ocr'],['a'],['b'],The answer is (B): False. BECAUSE:.,0
+51,v1_51,['deductive'],['ocr'],['c'],['b'],B) Loans fromMBDs arebelow the marketrate ofinterest.,0
+52,v1_52,['numerical'],['ocr'],['c'],['a'],"The answer is (A)""Haver Co."".",0
+53,v1_53,['numerical'],['ocr'],['e'],['d'],The answer is (D). BECAUSE:.,0
+54,v1_54,['numerical'],"['diagram', 'ocr']",['b'],['c'],answer: C.,0
+55,v1_55,['numerical'],"['diagram', 'ocr']",['d'],['a'],A) 27,0
+56,v1_56,['numerical'],"['diagram', 'ocr']",['e'],['e'],The answer is (E),1
+57,v1_57,['numerical'],"['diagram', 'ocr']",['d'],['a'],"Based on the logic provided 'It consulting spending is lower than the previous year', the ideal selection should be: A £5 million.",0
+58,v1_58,['numerical'],['ocr'],['b'],['a'],The answer is A £232K.,0
+59,v1_59,['numerical'],['ocr'],['e'],['b'],"The answer is (B). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+60,v1_60,['numerical'],"['diagram', 'ocr']",['c'],['e'],The answer is E360.,0
+61,v1_61,['numerical'],"['diagram', 'ocr']",['d'],['a'],"The answer is A £1,80000.",0
+62,v1_62,['numerical'],"['diagram', 'ocr']",['b'],['a'],The answer is A: 10 million. BECAUSE:.,0
+63,v1_63,['numerical'],"['diagram', 'ocr']",['d'],['a'],The answer is A £142 millions. BECAUSE:.,0
+64,v1_64,['numerical'],['ocr'],['d'],['a'],The answer is A 6.,0
+65,v1_65,['numerical'],"['diagram', 'ocr']",['d'],['b'],"The answer is (B), Print Room.",0
+66,v1_66,['numerical'],['ocr'],['d'],['a'],The answer is A 7%. BECAUSE:.,0
+67,v1_67,['numerical'],['ocr'],['b'],['a'],The answer is A: 0.17.,0
+68,v1_68,['numerical'],"['diagram', 'ocr']",['a'],['c'],The answer is C 64TWH. BECAUSE:.,0
+69,v1_69,['spatial'],['diagram'],['b'],[''],,0
+70,v1_70,['spatial'],['diagram'],['d'],[''],,0
+71,v1_71,['spatial'],['diagram'],['c'],['a'],The answer is (A).,0
+72,v1_72,['spatial'],['diagram'],['c'],['a'],The answer is A.,0
+73,v1_73,['spatial'],['diagram'],['d'],['b'],"The answer is B. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+74,v1_74,['spatial'],['diagram'],['c'],['b'],B.,0
+75,v1_75,['spatial'],['diagram'],['a'],['d'],The answer is (D).,0
+76,v1_76,['spatial'],['diagram'],['c'],['d'],The answer is (D).,0
+77,v1_77,['spatial'],['diagram'],['a'],['d'],Answer: (D).,0
+78,v1_78,['spatial'],['diagram'],['a'],[''],,0
+79,v1_79,['spatial'],['diagram'],['d'],['b'],B.,0
+80,v1_80,['spatial'],['diagram'],['b'],['d'],"The answer is (D). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+81,v1_81,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+82,v1_82,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+83,v1_83,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+84,v1_84,['inductive'],['diagram'],['b'],['c'],The answer is (C),0
+85,v1_85,['inductive'],['diagram'],['c'],['c'],The answer is (C),1
+86,v1_86,['inductive'],['diagram'],['b'],"['a', 'b', 'c']",The image has no context or meaning.,0
+87,v1_87,['inductive'],['diagram'],['a'],['c'],The answer is (C),0
+88,v1_88,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+89,v1_89,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+90,v1_90,['inductive'],['diagram'],['c'],['a'],The answer is A. BECAUSE:.,0
+91,v1_91,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+92,v1_92,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+93,v1_93,['inductive'],['diagram'],['c'],['a'],The answer is A. BECAUSE:.,0
+94,v1_94,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+95,v1_95,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+96,v1_96,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+97,v1_97,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+98,v1_98,['inductive'],['diagram'],['c'],['a'],The answer is A. BECAUSE:.,0
+99,v1_99,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+100,v1_100,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+101,v1_101,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+102,v1_102,['inductive'],['diagram'],['b'],['a'],The answer is A. BECAUSE:.,0
+103,v1_103,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+104,v1_104,['inductive'],['diagram'],['c'],['a'],The answer is A. BECAUSE:.,0
+105,v1_105,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+106,v1_106,['inductive'],['diagram'],['a'],['c'],The answer is (C),0
+107,v1_107,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+108,v1_108,['inductive'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+109,v1_109,['inductive'],['diagram'],['c'],['a'],The answer is A. BECAUSE:.,0
+110,v1_110,['inductive'],['diagram'],['c'],['a'],The image is a part of set A.,0
+111,v1_111,['inductive'],"['diagram', 'ocr']",['b'],['a'],Answer: (A).,0
+112,v1_112,['inductive'],"['diagram', 'ocr']",['c'],['b'],B.,0
+113,v1_113,['inductive'],"['diagram', 'ocr']",['c'],['c'],Answer: (C).,1
+114,v1_114,['inductive'],"['diagram', 'ocr']",['b'],['d'],The answer is (D). BECAUSE:.,0
+115,v1_115,['inductive'],"['diagram', 'ocr']",['d'],['a'],Answer: (A).,0
+116,v1_116,['inductive'],"['diagram', 'ocr']",['c'],[''],,0
+117,v1_117,['inductive'],"['diagram', 'ocr']",['d'],['d'],"The answer is (D), the diagram of stars.",1
+118,v1_118,['inductive'],"['diagram', 'ocr']",['a'],['b'],B.,0
+119,v1_119,['inductive'],"['diagram', 'ocr']",['b'],[''],,0
+120,v1_120,['inductive'],"['diagram', 'ocr']",['c'],['b'],B.,0
+121,v1_121,['inductive'],"['diagram', 'ocr']",['a'],['b'],B.,0
+122,v1_122,['inductive'],"['diagram', 'ocr']",['d'],['d'],"The answer is (D). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",1
+123,v1_123,['inductive'],"['diagram', 'ocr']",['a'],['a'],Answer: (A).,1
+124,v1_124,['inductive'],"['diagram', 'ocr']",['c'],['b'],B.,0
+125,v1_125,['inductive'],"['diagram', 'ocr']",['b'],['b'],B.,1
+126,v1_126,['inductive'],"['diagram', 'ocr']",['b'],['c'],Answer: (C).,0
+127,v1_127,['inductive'],"['diagram', 'ocr']",['b'],[''],,0
+128,v1_128,['inductive'],"['diagram', 'ocr']",['a'],['b'],B.,0
+129,v1_129,['inductive'],"['diagram', 'ocr']",['b'],['a'],Answer: (A).,0
+130,v1_130,['inductive'],"['diagram', 'ocr']",['d'],['d'],"The answer is (D). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",1
+131,v1_131,['mechanical'],['diagram'],['d'],['a'],The answer is (A): The bubbles create a downward force on the cylinder.,0
+132,v1_132,['mechanical'],['diagram'],['c'],['d'],The answer is (D). BECAUSE: A bridge is a structure that spans a large distance. The parts of a bridge that are closest to the towers or supports are going to deflection the most under the weight of the traffic.,0
+133,v1_133,['mechanical'],"['diagram', 'ocr']",['c'],['a'],"The answer is (A)""It provides a clear reflection"".",0
+134,v1_134,['mechanical'],['diagram'],['a'],['a'],"The answer is (A)""Scenario A",1
+135,v1_135,['mechanical'],['diagram'],['c'],['a'],A.,0
+136,v1_136,['mechanical'],['diagram'],['a'],['b'],"The answer is (B""B candle in bbig sealed jar"".",0
+137,v1_137,['mechanical'],['diagram'],['d'],['e'],The answer is (E).,0
+138,v1_138,['mechanical'],['diagram'],['b'],['b'],The answer is (B,1
+139,v1_139,['mechanical'],"['diagram', 'ocr']",['c'],['b'],The answer is (B] 70 mph.,0
+140,v1_140,['mechanical'],['diagram'],['d'],['e'],The answer is (E),0
+141,v1_141,['mechanical'],['diagram'],['b'],['a'],"The answer is (A), clockwise.",0
+142,v1_142,['mechanical'],['diagram'],['b'],['b'],B.,1
+143,v1_143,['mechanical'],['diagram'],['a'],['b'],B.,0
+144,v1_144,['mechanical'],"['diagram', 'ocr']",['b'],['a'],The weight is 1 lb.,0
+145,v1_145,['mechanical'],"['diagram', 'ocr']",['c'],['a'],The weight is 25 lb.,0
+146,v1_146,['mechanical'],['ocr'],['c'],['b'],The answer is (B] 30 pound-force.,0
+147,v1_147,['mechanical'],"['diagram', 'ocr']",['b'],['b'],The option is B (situations are equal).,1
+148,v1_148,['mechanical'],['diagram'],['a'],['b'],The answer is (B),0
+149,v1_149,['mechanical'],['ocr'],['c'],['a'],The answer is (A] A resistor.,0
+150,v1_150,['mechanical'],"['diagram', 'ocr']",['b'],"['a', 'b', 'c', 'd']",The answer is part of the diagram.,0
+151,v1_151,['mechanical'],['ocr'],['c'],['b'],"The answer is (B)""Compression and intake"".",0
+152,v1_152,['mechanical'],['ocr'],['b'],['a'],The answer is A: processor. BECAUSE:.,0
+153,v1_153,['mechanical'],['diagram'],['a'],['b'],"The answer is (B). BECAUSE: A change in motion involves a change in speed or direction. There are three types of changes in motion:
+1. Acceleration: This is when the speed of an object changes over time.
+2. Deformation: This refers to the shape an object takes when it is squeezed, stretched, or bent.
+3. Contraction: This occurs when an object shrinks in size due to heat or pressure.",0
+154,v1_154,['mechanical'],['diagram'],['c'],['b'],B.,0
+155,v1_155,['mechanical'],"['diagram', 'ocr']",['a'],['b'],The answer is (B). BECAUSE: A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; X; Y; Z; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42; 43; 44; 45; 46; 47; 48; 49; 50; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 71; 72; 73; 74; 75; 76; 77; 78; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 101; 102; 103; 104; 105; 106; 107; 108; 109; 110; 111; 112; 113; 114; 115; 116; 117; 118; 119; 120; 121; 122; 123; 124; 125; 126; 127; 128; 129; 130; 131; 132; 133; 134; 135; 136; 137; 138; 139; 140;141;142;143;144;145;146;147;148;149;150;151;152;153;154;155;156;157;158;159;160;161;162;163;164;165;166;167;168;169;170;171;172;173;174;175;176;177;178;179;180;181;182;183;184;185;186;187;188;189;190;191;192;193;194;195;196;197;198;199;200;201;202;203;204;205;206;207;208;209;210;211;212;213;214;215;216;217;218;219;220;221;222;223;224;,0
+156,v1_156,['mechanical'],"['diagram', 'ocr']",['c'],['b'],B.,0
+157,v1_157,['mechanical'],"['diagram', 'ocr']",['a'],['c'],Answer: (C).,0
+158,v1_158,['mechanical'],['diagram'],['a'],['b'],"The answer is (B)"".",0
+159,v1_159,['mechanical'],['diagram'],['c'],['b'],B.,0
+160,v1_160,['mechanical'],['diagram'],['b'],['c'],The answer is C.,0
+161,v1_161,['mechanical'],['diagram'],['a'],['a'],The answer is A. BECAUSE:.,1
+162,v1_162,['mechanical'],['diagram'],['b'],['b'],B.,1
+163,v1_163,['mechanical'],"['diagram', 'ocr']",['a'],[''],,0
+164,v1_164,['mechanical'],['diagram'],['c'],['c'],"The answer is (C)""15 inches away"".",1
+165,v1_165,['mechanical'],['diagram'],['c'],['c'],The answer is (C),1
+166,v1_166,['mechanical'],"['diagram', 'ocr']",['d'],['a'],The answer is A 3 cm.,0
+167,v1_167,['mechanical'],['diagram'],['a'],['a'],The answer is A pole 1.,1
+168,v1_168,['mechanical'],"['diagram', 'ocr']",['a'],['b'],The answer is (B] doubled.,0
+169,v1_169,['mechanical'],['diagram'],['d'],['d'],Answer: (D).,1
+170,v1_170,['mechanical'],"['diagram', 'ocr']",['c'],['d'],The answer is (D).,0
+171,v1_171,['spatial'],['diagram'],['d'],['a'],The answer is A: 4.,0
+172,v1_172,['spatial'],['diagram'],['a'],['b'],The answer is B 2.,0
+173,v1_173,['spatial'],['diagram'],['d'],[''],,0
+174,v1_174,['mechanical'],"['diagram', 'ocr']",['b'],[''],,0
+175,v1_175,['mechanical'],"['diagram', 'ocr']",['d'],['b'],"The answer is (B), 0.50 inches. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+176,v1_176,['mechanical'],['diagram'],['d'],['b'],The answer is (B] B) B.,0
+177,v1_177,['deductive'],['ocr'],['b'],"['a', 'b', 'c']","The choices are: (A), (B), and (C).",0
+178,v1_178,['deductive'],['ocr'],['d'],['d'],The answer is (D).,1
+179,v1_179,['deductive'],['ocr'],['b'],['b'],"The answer is (B)"""" increase power consumption.",1
+180,v1_180,['deductive'],['ocr'],['c'],['c'],Answer: (C).,1
+181,v1_181,['deductive'],['ocr'],['c'],[''],,0
+182,v1_182,['spatial'],['diagram'],['b'],['e'],The answer is E. BECAUSE:.,0
+183,v1_183,['spatial'],['diagram'],['c'],['e'],The answer is E: E.,0
+184,v1_184,['spatial'],['diagram'],['a'],['e'],The answer is E. BECAUSE:.,0
+185,v1_185,['spatial'],['diagram'],['a'],['a'],The answer is A 5.,1
+186,v1_186,['spatial'],['diagram'],['b'],['e'],The answer is E.,0
+187,v1_187,['spatial'],"['diagram', 'ocr']",['c'],['b'],The answer is B B.,0
+188,v1_188,['spatial'],['diagram'],['b'],['d'],The answer is D) Both.,0
+189,v1_189,['spatial'],['diagram'],['d'],[''],,0
+190,v1_190,['spatial'],['diagram'],['b'],['4'],The answer is 4. BECAUSE:.,0
+191,v1_191,['spatial'],"['diagram', 'ocr']",['a'],['b'],B.,0
+192,v1_192,['spatial'],['diagram'],['d'],['b'],"The answer is B. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+193,v1_193,['spatial'],['diagram'],['d'],['b'],Answer: B.,0
+194,v1_194,['spatial'],['diagram'],['c'],['e'],The answer is E.,0
+195,v1_195,['spatial'],['diagram'],['a'],['b'],Answer: B.,0
+196,v1_196,['spatial'],['diagram'],['d'],['b'],The answer is B. BECAUSE: A graphic organizer is a chart or picture that helps you organize and summarize information.,0
+197,v1_197,['spatial'],['diagram'],['b'],['b'],The answer is B. BECAUSE:.,1
+198,v1_198,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+199,v1_199,['spatial'],['diagram'],['d'],['b'],B.,0
+200,v1_200,['spatial'],['diagram'],['a'],['b'],The answer is B. BECAUSE:.,0
+201,v1_201,['spatial'],['diagram'],['b'],['b'],B.,1
+202,v1_202,['numerical'],"['diagram', 'ocr']",['a'],['c'],The answer is (C). BECAUSE:.,0
+203,v1_203,['numerical'],"['diagram', 'ocr']",['c'],"['b', 'd']","The answer is B) 126000. BECAUSE: In the light of the rationale 'Based on the chart, it is the only option that shows an increase from the previous year to the next.', the most reasonable selection should be: D) 226800.",0
+204,v1_204,['numerical'],"['diagram', 'ocr']",['b'],['c'],The answer is 0.93:1.,0
+205,v1_205,['numerical'],"['diagram', 'ocr']",['c'],['a'],"The answer is A 330,00.",0
+206,v1_206,['numerical'],"['diagram', 'ocr']",['c'],['a'],The answer is A: 64 mm. BECAUSE:.,0
+207,v1_207,['numerical'],"['diagram', 'ocr']",['b'],['a'],"The answer is A 4.29%. BECAUSE: Scientists record climate data from places around the world. Precipitation, or rain and snow, is one type of climate data. Scientists collect data over many years. They can use this data to calculate the average precipitation for a location over many seasons.
+The average precipitation can be used to show the average amount of rain or snow each season.
+For example, consider the data related to Tirana's precipitation. Over the course of two years, the average rainfall was 4.32 mm.
+In the next season, there was a small increase in rainfall. The average rainfall in the following season was 4,39 mm.",0
+208,v1_208,['numerical'],"['diagram', 'ocr']",['b'],['b'],The answer is B) 41%. BECAUSE:.,1
+209,v1_209,['numerical'],"['diagram', 'ocr']",['c'],[''],,0
+210,v1_210,['numerical'],"['diagram', 'ocr']",['b'],['c'],The answer is $623k.,0
+211,v1_211,['numerical'],"['diagram', 'ocr']",['a'],['b'],The answer is B: $452k.,0
+212,v1_212,['numerical'],"['diagram', 'ocr']",['d'],"['a', 'b', 'c', 'd']",The answer is part of the diagram.,0
+213,v1_213,['numerical'],"['diagram', 'ocr']",['b'],['b'],"The answer is B 7.1%. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",1
+214,v1_214,['numerical'],"['diagram', 'ocr']",['a'],[''],,0
+215,v1_215,['numerical'],"['diagram', 'ocr']",['c'],['b'],"The answer is B 40%. BECAUSE: A graph showing percentages, with 30, 40, and 50 on it.",0
+216,v1_216,['numerical'],"['diagram', 'ocr']",['c'],['a'],The answer is A 110.6 cm.,0
+217,v1_217,['numerical'],"['diagram', 'ocr']",['c'],['d'],The answer is D 70cm. BECAUSE:.,0
+218,v1_218,['deductive'],['ocr'],['c'],['b'],The answer is (B] Some music enthusiases are not musician.,0
+219,v1_219,['deductive'],['ocr'],['d'],['c'],The logical conclusion is: No pittenbulks are dogs With long hairs.,0
+220,v1_220,['deductive'],['ocr'],['d'],['c'],The answer is (C). BECAUSE:.,0
+221,v1_221,['deductive'],['ocr'],['c'],['b'],B.,0
+222,v1_222,['deductive'],['ocr'],['b'],['a'],The logical choice would be: A.,0
+223,v1_223,['deductive'],['ocr'],['b'],['c'],"The answer is (C). BECAUSE: A logic puzzle is a puzzle that requires you to think about how things fit together in a logical or systematic way.
+Many logic puzzles use diagrams like the one shown to the right.
+In a logic puzzle, you may be given some facts (cases) about how objects or characters relate to one another. You need to draw information from these cases to determine how they fit together on the basis of how they are related.
+The following are examples of logic puzzles that use diagrams to represent relationships between objects:",0
+224,v1_224,['deductive'],['ocr'],['d'],['a'],The answer is (A] All furdy animals are animalry.,0
+225,v1_225,['deductive'],['ocr'],['b'],['c'],The answer is (C),0
+226,v1_226,['deductive'],['ocr'],['d'],['b'],B.,0
+227,v1_227,['deductive'],['ocr'],['d'],['b'],B.,0
+228,v1_228,['deductive'],['ocr'],['d'],"['a', 'b', 'c', 'd']",The answer is (B] None of the prooky pros are praky pros.,0
+229,v1_229,['deductive'],['ocr'],['d'],['b'],The answer is (B),0
+230,v1_230,['deductive'],['ocr'],['d'],['d'],The answer is (D): Some women ARE men.,1
+231,v1_231,['deductive'],['ocr'],['c'],['b'],B.,0
+232,v1_232,['deductive'],['ocr'],['c'],['a'],The answer is A some sperm wholes are dolphin.,0
+233,v1_233,['deductive'],['ocr'],['d'],['b'],"The answer is (B). BECAUSE: A logic puzzle is a puzzle that requires the reader to deduce the logical reasoning behind a set of statements or conclusions. These puzzles are often designed in a way that makes use of logic to arrive at the answer.
+Various types of logic puzzles are popular in newspapers and magazines in many languages, and they are also commonly used in competitive exams, interview preparation, and general intellectual challenge tests.
+The following questions in the image represent a logic puzzle, but they are presented in a random order to make it harder to solve.",0
+234,v1_234,['deductive'],['ocr'],['b'],['b'],"The answer is (B)""None of the others are correct"".",1
+235,v1_235,['deductive'],['ocr'],['b'],['b'],The answer is (B] None of the others are correct.,1
+236,v1_236,['deductive'],['ocr'],['a'],['a'],"The answer is (A)""Some thieves are NOT robbers"".",1
+237,v1_237,['deductive'],['ocr'],['c'],['b'],"The answer is (B). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.
+When you read, look for graphic organizers included in the text. You can use these images to find key information.
+These images can also help you to answer questions about the topic being discussed.",0
+238,v1_238,['deductive'],['ocr'],['d'],['d'],The answer is (D). BECAUSE: A logical way to organize this information is:,1
+239,v1_239,['deductive'],['ocr'],['c'],['a'],The answer is (A] Some raven are birds.,0
+240,v1_240,['deductive'],['ocr'],['d'],['a'],The answer is (A] All beautiful sounds ARE happy tunes.,0
+241,v1_241,['deductive'],['ocr'],['d'],['b'],"The answer is (B)""No lawyers are banks"".",0
+242,v1_242,['deductive'],['ocr'],['d'],['d'],The answer is (D). BECAUSE:.,1
+243,v1_243,['deductive'],['ocr'],['a'],['a'],The answer is (A,1
+244,v1_244,['deductive'],['ocr'],['c'],['b'],The answer is (B] Susan).,0
+245,v1_245,['deductive'],['ocr'],['a'],['b'],B) The art is Overpriced.,0
+246,v1_246,['deductive'],['ocr'],['c'],['b'],B.,0
+247,v1_247,['numerical'],"['diagram', 'ocr']",['c'],[''],,0
+248,v1_248,['numerical'],"['diagram', 'ocr']",['b'],['d'],"The answer is D) 69%, 0%",0
+249,v1_249,['numerical'],"['diagram', 'ocr']",['a'],"['a', 'b', 'c', 'd']",The answer is part of the exercise.,0
+250,v1_250,['numerical'],"['diagram', 'ocr']",['a'],['a'],The answer is A 4.,1
+251,v1_251,['numerical'],['diagram'],['d'],['a'],A.,0
+252,v1_252,['numerical'],['diagram'],['a'],['b'],"The answer is (B). BECAUSE: The purpose of a train is to move a large number of people quickly and comfortably over short to medium distances. It typically travels on tracks that are laid out in a network called a rail system.
+Trains can connect to other trains to provide transport over greater distances.",0
+253,v1_253,['numerical'],['diagram'],['b'],['b'],The answer is (B] 5 mph.,1
+254,v1_254,['numerical'],['diagram'],['a'],['a'],A.,1
+255,v1_255,['numerical'],"['diagram', 'ocr']",['a'],['a'],"The answer is A 30,430.",1
+256,v1_256,['numerical'],"['diagram', 'ocr']",['a'],['b'],"The answer is B) 33%. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+257,v1_257,['numerical'],"['diagram', 'ocr']",['c'],['b'],The answer is B) 7500. BECAUSE:.,0
+258,v1_258,['numerical'],"['diagram', 'ocr']",['d'],['b'],"The answer is B 17%. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+259,v1_259,['numerical'],['diagram'],['a'],['a'],The answer is A 52.6 1.,1
+260,v1_260,['numerical'],['diagram'],['a'],['c'],The answer is (C). BECAUSE:.,0
+261,v1_261,['numerical'],['diagram'],['a'],['b'],The answer is (B)?,0
+262,v1_262,['numerical'],['diagram'],['c'],['a'],The answer is A) 504.0.,0
+263,v1_263,['numerical'],"['diagram', 'ocr']",['a'],['b'],"The answer is (B)""1.2 million"".",0
+264,v1_264,['numerical'],"['diagram', 'ocr']",['d'],['a'],"question: If the total price changes every month, the average price in May is 8%, and in June it drops by 7%. What was the average for May and June combined? Answer from the same format: A) 8%.",0
+265,v1_265,['numerical'],"['diagram', 'ocr']",['b'],['a'],The answer is A - 4.85%. BECAUSE:.,0
+266,v1_266,['numerical'],"['diagram', 'ocr']",['b'],[''],,0
+267,v1_267,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+268,v1_268,['inductive'],['diagram'],['a'],['b'],Answer: B.,0
+269,v1_269,['inductive'],['diagram'],['a'],['b'],Answer: B.,0
+270,v1_270,['inductive'],['diagram'],['c'],['b'],Answer: B.,0
+271,v1_271,['inductive'],['diagram'],['e'],['b'],Answer: B.,0
+272,v1_272,['inductive'],['diagram'],['c'],['b'],Answer: B.,0
+273,v1_273,['inductive'],['diagram'],['e'],['b'],Answer: B.,0
+274,v1_274,['inductive'],['diagram'],['a'],['b'],Answer: B.,0
+275,v1_275,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+276,v1_276,['inductive'],['diagram'],['e'],['b'],Answer: B.,0
+277,v1_277,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+278,v1_278,['inductive'],['diagram'],['d'],['b'],Answer: B.,0
+279,v1_279,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+280,v1_280,['inductive'],['diagram'],['a'],['b'],Answer: B.,0
+281,v1_281,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+282,v1_282,['inductive'],['diagram'],['c'],['b'],Answer: B.,0
+283,v1_283,['inductive'],['diagram'],['d'],['b'],Answer: B.,0
+284,v1_284,['inductive'],['diagram'],['c'],['b'],Answer: B.,0
+285,v1_285,['inductive'],['diagram'],['b'],['b'],Answer: B.,1
+286,v1_286,['inductive'],['diagram'],['d'],['b'],Answer: B.,0
+287,v1_287,['deductive'],['ocr'],['a'],[''],,0
+288,v1_288,['deductive'],['ocr'],['b'],['b'],The answer is (B] False.,1
+289,v1_289,['deductive'],['ocr'],['a'],['b'],The answer is (B] False.,0
+290,v1_290,['deductive'],['ocr'],['b'],['a'],The answer is (A] True.,0
+291,v1_291,['deductive'],['ocr'],['c'],['b'],"The answer is (B), Hare.",0
+292,v1_292,['deductive'],['ocr'],['b'],['b'],answer: B.,1
+293,v1_293,['deductive'],['ocr'],['c'],['b'],The answer is (B): False. BECAUSE:.,0
+294,v1_294,['deductive'],['ocr'],['b'],['b'],The answer is (B): False. BECAUSE:.,1
+295,v1_295,['deductive'],['ocr'],['a'],['b'],The answer is (B] False.,0
+296,v1_296,['deductive'],['ocr'],['c'],['b'],"The answer is (B), False. BECAUSE:.",0
+297,v1_297,['deductive'],['ocr'],['c'],['a'],The answer is A: Britain's national debt being on ofkingdoms.,0
+298,v1_298,['deductive'],['ocr'],['e'],['b'],B.,0
+299,v1_299,['deductive'],['ocr'],['a'],[''],,0
+300,v1_300,['deductive'],['ocr'],['a'],[''],,0
+301,v1_301,['deductive'],['ocr'],['c'],[''],,0
+302,v1_302,['deductive'],['ocr'],['b'],[''],,0
+303,v1_303,['deductive'],['ocr'],['e'],['b'],The answer is (B] Beta.,0
+304,v1_304,['deductive'],['ocr'],['d'],"['a', 'b', 'c', 'd', 'e']",The answer is question: Debras contract is worth more than that of Lucas.,0
+305,v1_305,['deductive'],['ocr'],['a'],['b'],False.,0
+306,v1_306,['deductive'],['ocr'],['c'],['b'],False.,0
+307,v1_307,['deductive'],['ocr'],['b'],['a'],Answer: (A).,0
+308,v1_308,['deductive'],['ocr'],['a'],['b'],False.,0
+309,v1_309,['deductive'],['ocr'],['a'],['b'],False.,0
+310,v1_310,['deductive'],['ocr'],['b'],['b'],False.,1
+311,v1_311,['deductive'],['ocr'],['c'],['b'],answer: B.,0
+312,v1_312,['deductive'],['ocr'],['c'],['b'],False.,0
+313,v1_313,['deductive'],['ocr'],['c'],['b'],The answer is B 4.,0
+314,v1_314,['deductive'],['ocr'],['d'],['a'],The answer is A (Lancaster and Thames). BECAUSE:.,0
+315,v1_315,['deductive'],['ocr'],['c'],['b'],The answer is (B): False. BECAUSE:.,0
+316,v1_316,['deductive'],['ocr'],['b'],['b'],The answer is (B): False. BECAUSE:.,1
+317,v1_317,['deductive'],['ocr'],['b'],['b'],The answer is (B): False. BECAUSE:.,1
+318,v1_318,['deductive'],['ocr'],['c'],"['b', 'c']",The answers are B) False and C) Insufficient Information. BECAUSE:.,0
+319,v1_319,['deductive'],['ocr'],['a'],['a'],The answer is A (User's choice: A).,1
+320,v1_320,['deductive'],['ocr'],['e'],['a'],The answer is A: Copyright gives Legal Control to the Author of the Work. BECAUSE:.,0
+321,v1_321,['deductive'],['ocr'],['b'],['b'],The answer is (B] False.,1
+322,v1_322,['deductive'],['ocr'],['a'],[''],,0
+323,v1_323,['deductive'],['ocr'],['c'],[''],,0
+324,v1_324,['deductive'],['ocr'],['c'],[''],,0
+325,v1_325,['deductive'],['ocr'],['a'],[''],,0
+326,v1_326,['deductive'],['ocr'],['e'],['e'],The answer is E) 220. BECAUSE:.,1
+327,v1_327,['deductive'],['ocr'],['a'],['b'],False.,0
+328,v1_328,['deductive'],['ocr'],['c'],['b'],False.,0
+329,v1_329,['deductive'],['ocr'],['b'],['a'],The answer is A: True.,0
+330,v1_330,['deductive'],['ocr'],['c'],['b'],False.,0
+331,v1_331,['numerical'],"['diagram', 'ocr']",['d'],['e'],The answer is E none of these.,0
+332,v1_332,['numerical'],"['diagram', 'ocr']",['e'],['a'],A) 90.,0
+333,v1_333,['numerical'],"['diagram', 'ocr']",['a'],[''],,0
+334,v1_334,['numerical'],"['diagram', 'ocr']",['d'],['b'],"The answer is (B] 53,000 increase.",0
+335,v1_335,['numerical'],"['diagram', 'ocr']",['c'],['d'],The answer is (D). BECAUSE:.,0
+336,v1_336,['numerical'],"['diagram', 'ocr']",['d'],"['a', 'b', 'c', 'd', 'e']",The answer is 0.52.,0
+337,v1_337,['numerical'],"['diagram', 'ocr']",['a'],[''],,0
+338,v1_338,['numerical'],"['diagram', 'ocr']",['c'],['b'],The answer is B 2.6 million.,0
+339,v1_339,['numerical'],"['diagram', 'ocr']",['d'],['d'],The answer is (D). BECAUSE:.,1
+340,v1_340,['numerical'],"['diagram', 'ocr']",['b'],['b'],The answer is B 2.527 million. BECAUSE:.,1
+341,v1_341,['numerical'],"['diagram', 'ocr']",['a'],['a'],"The answer is (A)""25,620"".",1
+342,v1_342,['numerical'],"['diagram', 'ocr']",['b'],['a'],Answer: (Yates) A,0
+343,v1_343,['numerical'],"['diagram', 'ocr']",['c'],['d'],The answer is (D).,0
+344,v1_344,['numerical'],"['diagram', 'ocr']",['b'],['c'],The answer is (C). BECAUSE:.,0
+345,v1_345,['numerical'],"['diagram', 'ocr']",['d'],['e'],The answer is E) 1.856000.,0
+346,v1_346,['numerical'],"['diagram', 'ocr']",['c'],['d'],The answer is (D). BECAUSE:.,0
+347,v1_347,['numerical'],"['diagram', 'ocr']",['c'],['a'],The answer is (A] 16.425000.,0
+348,v1_348,['numerical'],"['diagram', 'ocr']",['b'],['a'],"The answer is (A)""127.6 million"".",0
+349,v1_349,['numerical'],"['diagram', 'ocr']",['e'],['e'],"The answer is (E), 125.6.",1
+350,v1_350,['numerical'],"['diagram', 'ocr']",['e'],['a'],"The answer is (A)""156.6 Million"".",0
+351,v1_351,['numerical'],['ocr'],['a'],['a'],The answer is A (Northern region). BECAUSE:.,1
+352,v1_352,['numerical'],['ocr'],['e'],['b'],"The answer is B 217 million. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.
+The word graphic comes from the word graphicus, which means drawing. Graphic organizers can be drawn by hand or created using a computer program.
+A graphic organizer can look different depending on the subject matter and the style of organization that is used. For example, a graphic organizer for a book might focus on showing the order of events, while a topic might use an alphabetical organization style.",0
+353,v1_353,['numerical'],['ocr'],['c'],[''],,0
+354,v1_354,['numerical'],['ocr'],['d'],['c'],The answer is (C). BECAUSE:.,0
+355,v1_355,['numerical'],['ocr'],['a'],['a'],The answer is A regions.,1
+356,v1_356,['numerical'],"['diagram', 'ocr']",['d'],[''],,0
+357,v1_357,['numerical'],"['diagram', 'ocr']",['c'],['e'],Contemplate the rationale 'The 2009 data for france is 20% lower than the average. the average is higher than 25 million and the lowest is 20 million.' The correct option should be:E.,0
+358,v1_358,['numerical'],"['diagram', 'ocr']",['a'],[''],,0
+359,v1_359,['numerical'],"['diagram', 'ocr']",['a'],['a'],A) 2008-2009.,1
+360,v1_360,['numerical'],"['diagram', 'ocr']",['e'],['c'],"The answer is (C), 23,5000. BECAUSE:.",0
+361,v1_361,['numerical'],"['diagram', 'ocr']",['b'],['a'],A.,0
+362,v1_362,['numerical'],"['diagram', 'ocr']",['d'],['a'],The answer is A 21000.,0
+363,v1_363,['numerical'],"['diagram', 'ocr']",['a'],['c'],"The answer is (C)""12000"".",0
+364,v1_364,['numerical'],['ocr'],['c'],['a'],"The answer is (A 200 decrease). BECAUSE: A change in a population's death rate can affect the population size, but the effect depends on whether the change is increasing or decreasing.
+If the death rate increases, which happens when more people die faster than they are being born; the population starts to decrease. This is called a decrease in the number of people in the population.
+On the other hand, if the death ratio is lower than the birth rate, the population increases. This means more babies are born than are dying.
+This table shows an example. It shows the population in 1000 people during the year. During 2000, there were 600 live births and 500 deaths. So, there was a decrease of 200 individuals in the year 2000.",0
+365,v1_365,['numerical'],['ocr'],['a'],['a'],"The answer is A 21,822.",1
+366,v1_366,['numerical'],['ocr'],['d'],['b'],The answer is (B] Birmingham. BECAUSE:.,0
+367,v1_367,['numerical'],['ocr'],['a'],['a'],The answer is (A] UK.,1
+368,v1_368,['numerical'],['ocr'],['a'],[''],,0
+369,v1_369,['numerical'],['ocr'],['b'],['b'],The answer is B) 1 billion. BECAUSE:.,1
+370,v1_370,['numerical'],['ocr'],['d'],[''],,0
+371,v1_371,['numerical'],['ocr'],['a'],['d'],The answer is 891.,0
+372,v1_372,['numerical'],['ocr'],['b'],['d'],The answer is answer: (D).,0
+373,v1_373,['spatial'],['diagram'],['a'],['cube'],cube.,0
+374,v1_374,['spatial'],['diagram'],['b'],['a'],Answer: A.,0
+375,v1_375,['spatial'],['diagram'],['d'],['a'],Answer: A.,0
+376,v1_376,['spatial'],['diagram'],['d'],['a'],answer: A.,0
+377,v1_377,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+378,v1_378,['spatial'],['diagram'],['b'],['b'],B.,1
+379,v1_379,['spatial'],['diagram'],['a'],['b'],B.,0
+380,v1_380,['spatial'],['diagram'],['c'],['d'],Answer: D.,0
+381,v1_381,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+382,v1_382,['spatial'],['diagram'],[''],['b'],Answer: B.,0
+383,v1_383,['spatial'],['diagram'],['b'],['cube'],cube.,0
+384,v1_384,['spatial'],['diagram'],['a'],['cube'],cube.,0
+385,v1_385,['spatial'],['diagram'],['d'],['a'],Answer: A.,0
+386,v1_386,['spatial'],['diagram'],['c'],['a'],Answer: A.,0
+387,v1_387,['spatial'],['diagram'],['a'],['e'],The answer is E.,0
+388,v1_388,['spatial'],['diagram'],['a'],['cube'],cube.,0
+389,v1_389,['spatial'],['diagram'],['d'],['b'],B.,0
+390,v1_390,['spatial'],['diagram'],['c'],['a'],B) A.,0
+391,v1_391,['spatial'],['diagram'],['b'],['cube'],cube.,0
+392,v1_392,['spatial'],['diagram'],['a'],['b'],B.,0
+393,v1_393,['spatial'],['diagram'],['d'],['d'],The answer is D.,1
+394,v1_394,['spatial'],['diagram'],['b'],['b'],B.,1
+395,v1_395,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+396,v1_396,['spatial'],['diagram'],['b'],['b'],B.,1
+397,v1_397,['spatial'],['diagram'],['d'],['a'],B) A.,0
+398,v1_398,['spatial'],['diagram'],['b'],['square'],square.,0
+399,v1_399,['spatial'],['diagram'],['a'],['cube'],cube.,0
+400,v1_400,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+401,v1_401,['spatial'],['diagram'],['a'],['b'],Answer: B.,0
+402,v1_402,['spatial'],['diagram'],['a'],['b'],Answer: B.,0
+403,v1_403,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+404,v1_404,['spatial'],['diagram'],['d'],['b'],Answer: B.,0
+405,v1_405,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+406,v1_406,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+407,v1_407,['spatial'],['diagram'],['d'],['b'],Answer: B.,0
+408,v1_408,['spatial'],['diagram'],['d'],['b'],Answer: B.,0
+409,v1_409,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+410,v1_410,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+411,v1_411,['spatial'],['diagram'],['a'],['a'],The answer is A.,1
+412,v1_412,['spatial'],['diagram'],['c'],['b'],Answer: B.,0
+413,v1_413,['spatial'],['diagram'],['b'],['b'],Answer: B.,1
+414,v1_414,['spatial'],['diagram'],['a'],['a'],Answer: A.,1
+415,v1_415,['spatial'],['diagram'],['a'],['b'],Answer: B.,0
+416,v1_416,['spatial'],['diagram'],['d'],['g'],Answer: G.,0
+417,v1_417,['mechanical'],"['diagram', 'ocr']",['e'],['c'],The answer is (C). BECAUSE: A sequence of objects or events is arranged in a series of steps or stages.,0
+418,v1_418,['mechanical'],"['diagram', 'ocr']",['c'],"['a', 'b', 'd']","The answer is (A), B, and D is the same as A.",0
+419,v1_419,['mechanical'],"['diagram', 'ocr']",['c'],['b'],"The answer is (B). BECAUSE: A system is a related group of objects or entities that are related and interact with each other.
+The structure of an system can be described using diagrams, which represent the system on paper.
+An diagram can show an entire system or a part of the system.
+A flow chart is a type of diagram that is often used to describe a sequence of events or steps.",0
+420,v1_420,['mechanical'],"['diagram', 'ocr']",['b'],['b'],"The answer is (B). BECAUSE: An object is balanced if it has the same amount of force on all sides. If the beam is balanced, then the weight of the objects on both sides of the beam must be the same.
+The weight of an object is how much force it has because of its mass and the distance from the ground. So, to make the beam balance, you need to know what the mass of each object is.",1
+421,v1_421,['mechanical'],['diagram'],['e'],['a'],The answer is (A).,0
+422,v1_422,['mechanical'],['diagram'],['e'],['e'],"The answer is (E)""12cm"".",1
+423,v1_423,['mechanical'],['diagram'],['d'],['d'],The answer is (D). BECAUSE: A clockwise rotation of a gear is shown as shown in the diagram below:,1
+424,v1_424,['mechanical'],['diagram'],['b'],['b'],B.,1
+425,v1_425,['mechanical'],['diagram'],['e'],"['a', 'b']","The answer is A clockwise and B clockwise. BECAUSE: In a gear system, the speed of an object is determined from the ratio between the number of teeth on a gear and the speed at which it is rotating. The faster a gear rotates, the more teeth it has. If the gears are connected in a chain, the gear with the most teeth will move the fastest.
+If each of the satellite gears has 20 teeth, the outer ring with 100 teeth is moving five times faster than it. The sun gear with 25 teeth is also turning faster than the shaft, but it is only connected to one satellite gear. Therefore, the shaft is turning clockwise at a speed equal to the velocity of the inner gear (25 teeth) times the outer gear's speed (100 teeth) = 25 times 5 or 125 mph.",0
+426,v1_426,['mechanical'],"['diagram', 'ocr']",['a'],['a'],The answer is A clockwise 60mm.,1
+427,v1_427,['mechanical'],['diagram'],['c'],['b'],B.,0
+428,v1_428,['mechanical'],"['diagram', 'ocr']",['d'],[''],,0
+429,v1_429,['mechanical'],['diagram'],['a'],['b'],B.,0
+430,v1_430,['mechanical'],['diagram'],['d'],['b'],B.,0
+431,v1_431,['mechanical'],"['diagram', 'ocr']",['d'],['e'],The answer is (E). BECAUSE:.,0
+432,v1_432,['mechanical'],"['diagram', 'ocr']",['a'],['c'],"The answer is (C). BECAUSE: A surface area is the area of a flat surface. Every object has a surface area.
+The surface area of an object is important because it helps you determine how water will flow over it. This is especially important for the aerodynamics, or the study of the forces that act on an object while it is moving in a surrounding fluid, like water.
+A more aerodynamic surface area will have a higher speed and more of a streamlined shape.
+This can lead to more efficient movement, which saves energy and can make it easier for an object to move, such as a boat through water or a plane in the sky.",0
+433,v1_433,['mechanical'],"['diagram', 'ocr']",['b'],['a'],The answer is (A)?,0
+434,v1_434,['mechanical'],"['diagram', 'ocr']",['a'],['c'],The answer is (C),0
+435,v1_435,['mechanical'],['diagram'],['d'],['b'],The answer is (B] 3.,0
+436,v1_436,['mechanical'],['diagram'],['c'],['e'],The answer is (E). BECAUSE:.,0
+437,v1_437,['mechanical'],['diagram'],['c'],[''],,0
+438,v1_438,['mechanical'],['diagram'],['a'],['c'],"The answer is (C). BECAUSE: The speed of an object is related to the slope it is moving down and the mass of the object. The greater the slope and the higher the mass, the faster the object will move.",0
+439,v1_439,['mechanical'],['diagram'],['a'],['e'],"The answer is (E), it is impossible to tell.",0
+440,v1_440,['mechanical'],['diagram'],['c'],['a'],"The answer is (A)""A"".",0
+441,v1_441,['mechanical'],['diagram'],['e'],['a'],"The answer is (A)""ADBC"".",0
+442,v1_442,['mechanical'],['diagram'],['d'],['a'],"The answer is (A), 9.",0
+443,v1_443,['mechanical'],['diagram'],['c'],['e'],"The answer is (E). BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.",0
+444,v1_444,['mechanical'],['diagram'],['a'],['b'],B.,0
+445,v1_445,['mechanical'],['diagram'],['e'],['c'],The answer is (C),0
+446,v1_446,['mechanical'],"['diagram', 'ocr']",['e'],['e'],"The object is (E), an impossible to tell.",1
+447,v1_447,['mechanical'],['diagram'],['d'],['c'],"The answer is (C): The same amount of times. BECAUSE: In a clock the cogs are always rotating and the arrows are always pointing. If they were not interconnected, they would simply rotate without affecting each other. If the teeth did not touch the arrows, then the angle at which the cog rotates clockwise or counterclockwise would not change.",0

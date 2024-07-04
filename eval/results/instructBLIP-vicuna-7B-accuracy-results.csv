@@ -1,0 +1,450 @@
+,id,reasoning skill,capability,true answer,instructBLIP-vicuna-7B answer extracted,instructBLIP-vicuna-7B answer raw,match?
+0,v1_0,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],1,0
+1,v1_1,['inductive'],['diagram'],"['a', 'c']",['zzzzz'],1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64,0
+2,v1_2,['inductive'],['diagram'],"['b', 'd']",['zzzzz'],1 and 2,0
+3,v1_3,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+4,v1_4,['inductive'],['diagram'],['g'],['zzzzz'],3,0
+5,v1_5,['inductive'],"['diagram', 'ocr']","['b', 'd']",['4'],4,0
+6,v1_6,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+7,v1_7,['inductive'],['diagram'],['e'],['3'],3,0
+8,v1_8,['inductive'],['diagram'],['a'],['zzzzz'],3,0
+9,v1_9,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+10,v1_10,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+11,v1_11,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+12,v1_12,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+13,v1_13,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+14,v1_14,['inductive'],['diagram'],['a'],['zzzzz'],4,0
+15,v1_15,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+16,v1_16,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+17,v1_17,['inductive'],['diagram'],['a'],['zzzzz'],3,0
+18,v1_18,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+19,v1_19,['inductive'],['diagram'],['c'],['d'],16,0
+20,v1_20,['deductive'],['ocr'],['3'],['3'],3,1
+21,v1_21,['inductive'],['diagram'],['f'],['zzzzz'],1,0
+22,v1_22,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+23,v1_23,['deductive'],['ocr'],['c'],['zzzzz'],3,0
+24,v1_24,['deductive'],['ocr'],['d'],['zzzzz'],2,0
+25,v1_25,['deductive'],['ocr'],['c'],['zzzzz'],3,0
+26,v1_26,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+27,v1_27,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+28,v1_28,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+29,v1_29,['inductive'],['diagram'],['a'],['zzzzz'],3,0
+30,v1_30,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+31,v1_31,['inductive'],['diagram'],['e'],['zzzzz'],7,0
+32,v1_32,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+33,v1_33,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+34,v1_34,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+35,v1_35,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+36,v1_36,['inductive'],['diagram'],['a'],['zzzzz'],3,0
+37,v1_37,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+38,v1_38,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+39,v1_39,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+40,v1_40,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+41,v1_41,['deductive'],['ocr'],['b'],['a'],16:00,0
+42,v1_42,['deductive'],['ocr'],['a'],['a'],15:40,1
+43,v1_43,['deductive'],['ocr'],['c'],['a'],​(A) True,0
+44,v1_44,['deductive'],['ocr'],['b'],['a'],​(A) True,0
+45,v1_45,['deductive'],['ocr'],['e'],['c'],4) Painting III,0
+46,v1_46,['deductive'],['ocr'],['c'],['zzzzz'],5000,0
+47,v1_47,['deductive'],['ocr'],['b'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+48,v1_48,['deductive'],['ocr'],['b'],['c'],（C）Insufficient Information,0
+49,v1_49,['deductive'],['ocr'],['a'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+50,v1_50,['deductive'],['ocr'],['a'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+51,v1_51,['deductive'],['ocr'],['c'],['d'],(D) MDBs lend money as typically short-term loans,0
+52,v1_52,['numerical'],['ocr'],['c'],['zzzzz'],1,0
+53,v1_53,['numerical'],['ocr'],['e'],['e'],12.86,1
+54,v1_54,['numerical'],"['diagram', 'ocr']",['b'],['b'],"1,500",1
+55,v1_55,['numerical'],"['diagram', 'ocr']",['d'],['b'],48,0
+56,v1_56,['numerical'],"['diagram', 'ocr']",['e'],['d'],105 million,0
+57,v1_57,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],4,0
+58,v1_58,['numerical'],['ocr'],['b'],['a'],242099,0
+59,v1_59,['numerical'],['ocr'],['e'],['c'],"20,750",0
+60,v1_60,['numerical'],"['diagram', 'ocr']",['c'],['d'],360,0
+61,v1_61,['numerical'],"['diagram', 'ocr']",['d'],['c'],3. £2.7 million,0
+62,v1_62,['numerical'],"['diagram', 'ocr']",['b'],['e'],14,0
+63,v1_63,['numerical'],"['diagram', 'ocr']",['d'],['e'],620 million,0
+64,v1_64,['numerical'],['ocr'],['d'],['a'],6,0
+65,v1_65,['numerical'],"['diagram', 'ocr']",['d'],['d'],© (D) PC Room,1
+66,v1_66,['numerical'],['ocr'],['d'],['d'],4%,1
+67,v1_67,['numerical'],['ocr'],['b'],['a'],0.17,0
+68,v1_68,['numerical'],"['diagram', 'ocr']",['a'],['a'],140TWh,1
+69,v1_69,['spatial'],['diagram'],['b'],"['b', 'c', 'd']",1) (B) (C) (D),0
+70,v1_70,['spatial'],['diagram'],['d'],"['b', 'c', 'd']",1) (B) (C) (D),0
+71,v1_71,['spatial'],['diagram'],['c'],['zzzzz'],2,0
+72,v1_72,['spatial'],['diagram'],['c'],['zzzzz'],3,0
+73,v1_73,['spatial'],['diagram'],['d'],['zzzzz'],4,0
+74,v1_74,['spatial'],['diagram'],['c'],"['b', 'c', 'd']",1) (B) (C) (D),0
+75,v1_75,['spatial'],['diagram'],['a'],"['b', 'c', 'd']",1) (B) (C) (D),0
+76,v1_76,['spatial'],['diagram'],['c'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,",0
+77,v1_77,['spatial'],['diagram'],['a'],['a'],1) (A),1
+78,v1_78,['spatial'],['diagram'],['a'],"['b', 'c', 'd']",1) (B) (C) (D),0
+79,v1_79,['spatial'],['diagram'],['d'],['b'],ಠ (B) (C) (D),0
+80,v1_80,['spatial'],['diagram'],['b'],"['b', 'c', 'd']", (B) (C) (D),0
+81,v1_81,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+82,v1_82,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+83,v1_83,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+84,v1_84,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+85,v1_85,['inductive'],['diagram'],['c'],['c'], (C) Neither set A nor set B,1
+86,v1_86,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+87,v1_87,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+88,v1_88,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+89,v1_89,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+90,v1_90,['inductive'],['diagram'],['c'],['zzzzz'],ಠ\_ಠ,0
+91,v1_91,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+92,v1_92,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+93,v1_93,['inductive'],['diagram'],['c'],['c'], (C) Neither set A nor set B,1
+94,v1_94,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+95,v1_95,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+96,v1_96,['inductive'],['diagram'],['b'],['zzzzz'],ಠ\_ಠ,0
+97,v1_97,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+98,v1_98,['inductive'],['diagram'],['c'],['c'], (C) Neither set A nor set B,1
+99,v1_99,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+100,v1_100,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+101,v1_101,['inductive'],['diagram'],['b'],['zzzzz'],ಠ\_ಠ,0
+102,v1_102,['inductive'],['diagram'],['b'],['c'], (C) Neither set A nor set B,0
+103,v1_103,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+104,v1_104,['inductive'],['diagram'],['c'],['c'], (C) Neither set A nor set B,1
+105,v1_105,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+106,v1_106,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+107,v1_107,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+108,v1_108,['inductive'],['diagram'],['a'],['c'], (C) Neither set A nor set B,0
+109,v1_109,['inductive'],['diagram'],['c'],['zzzzz'],ಠ\_ಠ,0
+110,v1_110,['inductive'],['diagram'],['c'],['zzzzz'],ಠ\_ಠ,0
+111,v1_111,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+112,v1_112,['inductive'],"['diagram', 'ocr']",['c'],"['b', 'c', 'd']",1) (B) (C) (D),0
+113,v1_113,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+114,v1_114,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+115,v1_115,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+116,v1_116,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+117,v1_117,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],1) (A) (B) (C) (D),0
+118,v1_118,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+119,v1_119,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+120,v1_120,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+121,v1_121,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+122,v1_122,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],1) (A) (B) (C) (D),0
+123,v1_123,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+124,v1_124,['inductive'],"['diagram', 'ocr']",['c'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+125,v1_125,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],1) (A) (B) (C) (D),0
+126,v1_126,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],1) (A) (B) (C) (D),0
+127,v1_127,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+128,v1_128,['inductive'],"['diagram', 'ocr']",['a'],['zzzzz'],1) (A) (B) (C) (D),0
+129,v1_129,['inductive'],"['diagram', 'ocr']",['b'],['zzzzz'],1) (A) (B) (C) (D),0
+130,v1_130,['inductive'],"['diagram', 'ocr']",['d'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 4",0
+131,v1_131,['mechanical'],['diagram'],['d'],['a'],(A) The bubbles provide a downward thrust on the tank,0
+132,v1_132,['mechanical'],['diagram'],['c'],['a'],1) Under the towers,0
+133,v1_133,['mechanical'],"['diagram', 'ocr']",['c'],['a'],​(A) It provides a clearer reflection,0
+134,v1_134,['mechanical'],['diagram'],['a'],['a'],"1) Scenario A, the cold air will flow towards the floor",1
+135,v1_135,['mechanical'],['diagram'],['c'],['1'],1) It increases,0
+136,v1_136,['mechanical'],['diagram'],['a'],['a'],1) A candle in a small sealed jar,1
+137,v1_137,['mechanical'],['diagram'],['d'],['a'],1) The door will close slower,0
+138,v1_138,['mechanical'],['diagram'],['b'],['a'],​(A) Longer handles make the cutting blade move faster,0
+139,v1_139,['mechanical'],"['diagram', 'ocr']",['c'],['c'],60 mph,1
+140,v1_140,['mechanical'],['diagram'],['d'],['zzzzz'],ಠ\_ಠ,0
+141,v1_141,['mechanical'],['diagram'],['b'],['a'],(A) Clockwise,0
+142,v1_142,['mechanical'],['diagram'],['b'],['a'],(A) Clockwise,0
+143,v1_143,['mechanical'],['diagram'],['a'],['a'],(A) Clockwise,1
+144,v1_144,['mechanical'],"['diagram', 'ocr']",['b'],['d'],10 lb,0
+145,v1_145,['mechanical'],"['diagram', 'ocr']",['c'],['b'],30 lb,0
+146,v1_146,['mechanical'],['ocr'],['c'],['a'],30 lb,0
+147,v1_147,['mechanical'],"['diagram', 'ocr']",['b'],['a'],Situation A,0
+148,v1_148,['mechanical'],['diagram'],['a'],['a'],Situation A,1
+149,v1_149,['mechanical'],['ocr'],['c'],['d'],(D) Inductor,0
+150,v1_150,['mechanical'],"['diagram', 'ocr']",['b'],['c'],24 ohm,0
+151,v1_151,['mechanical'],['ocr'],['c'],['z'],2,0
+152,v1_152,['mechanical'],['ocr'],['b'],['d'],✗ (D) ROM,0
+153,v1_153,['mechanical'],['diagram'],['a'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+154,v1_154,['mechanical'],['diagram'],['c'],['a'],(A)  A,0
+155,v1_155,['mechanical'],"['diagram', 'ocr']",['a'],['c'],"C (C) C. Based on the image, which bird will experience less resistance flying? (A) A",0
+156,v1_156,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],100,0
+157,v1_157,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],✗ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 5,0
+158,v1_158,['mechanical'],['diagram'],['a'],['a'],(A)  A,1
+159,v1_159,['mechanical'],['diagram'],['c'],['a'],A,0
+160,v1_160,['mechanical'],['diagram'],['b'],['a'],A,0
+161,v1_161,['mechanical'],['diagram'],['a'],['a'],A,1
+162,v1_162,['mechanical'],['diagram'],['b'],['a'],A,0
+163,v1_163,['mechanical'],"['diagram', 'ocr']",['a'],['c'],(C) C,0
+164,v1_164,['mechanical'],['diagram'],['c'],['a'],10 inches away,0
+165,v1_165,['mechanical'],['diagram'],['c'],['c'],​(C) Perpendicular to the direction of the circle's radius,1
+166,v1_166,['mechanical'],"['diagram', 'ocr']",['d'],['d'],10 cm,1
+167,v1_167,['mechanical'],['diagram'],['a'],['c'],(C) The weight pressed is equal on both sides,0
+168,v1_168,['mechanical'],"['diagram', 'ocr']",['a'],['a'],(A) is tripled,1
+169,v1_169,['mechanical'],['diagram'],['d'],['d'],"(D) Different directions, different velocities",1
+170,v1_170,['mechanical'],"['diagram', 'ocr']",['c'],['d'],240 ohm,0
+171,v1_171,['spatial'],['diagram'],['d'],['a'],4,0
+172,v1_172,['spatial'],['diagram'],['a'],['d'],4,0
+173,v1_173,['spatial'],['diagram'],['d'],['a'],(A) A,0
+174,v1_174,['mechanical'],"['diagram', 'ocr']",['b'],['b'],"(B) A, B, D, F",1
+175,v1_175,['mechanical'],"['diagram', 'ocr']",['d'],['b'],0.5 inches,0
+176,v1_176,['mechanical'],['diagram'],['d'],['a'],(A) A,0
+177,v1_177,['deductive'],['ocr'],['b'],['c'],(C) empty plastic soda bottle,0
+178,v1_178,['deductive'],['ocr'],['d'],['a'],"(A) total weight of the vehicle, including occupants and luggage",0
+179,v1_179,['deductive'],['ocr'],['b'],['d'],(D) increase heat transfer,0
+180,v1_180,['deductive'],['ocr'],['c'],['c'],(C) light emitting diode,1
+181,v1_181,['deductive'],['ocr'],['c'],['a'],​ (A) reduce the use of electricity in any device,0
+182,v1_182,['spatial'],['diagram'],['b'],['a'],(A) A,0
+183,v1_183,['spatial'],['diagram'],['c'],['a'],(A) A,0
+184,v1_184,['spatial'],['diagram'],['a'],['zzzzz'],ether,0
+185,v1_185,['spatial'],['diagram'],['a'],['d'],4,0
+186,v1_186,['spatial'],['diagram'],['b'],['a'],ether (A) A (B) B (C) C (D) D (E) E,0
+187,v1_187,['spatial'],"['diagram', 'ocr']",['c'],['a'],(A) A,0
+188,v1_188,['spatial'],['diagram'],['b'],['zzzzz'],ಠ\_ಠ,0
+189,v1_189,['spatial'],['diagram'],['d'],"['a', 'b', 'c', 'd', 'e']",(A) A (B) B (C) C (D) D (E) E,0
+190,v1_190,['spatial'],['diagram'],['b'],['1'],1,0
+191,v1_191,['spatial'],"['diagram', 'ocr']",['a'],['a'],(A) A,1
+192,v1_192,['spatial'],['diagram'],['d'],['e'],(E) E,0
+193,v1_193,['spatial'],['diagram'],['d'],['e'],(E) E,0
+194,v1_194,['spatial'],['diagram'],['c'],['e'],(E) E,0
+195,v1_195,['spatial'],['diagram'],['a'],['e'],(E) E,0
+196,v1_196,['spatial'],['diagram'],['d'],['e'],(E) E,0
+197,v1_197,['spatial'],['diagram'],['b'],['e'],(E) E,0
+198,v1_198,['spatial'],['diagram'],['c'],['e'],(E) E,0
+199,v1_199,['spatial'],['diagram'],['d'],['e'],(E) E,0
+200,v1_200,['spatial'],['diagram'],['a'],['e'],(E) E,0
+201,v1_201,['spatial'],['diagram'],['b'],['e'],(E) E,0
+202,v1_202,['numerical'],"['diagram', 'ocr']",['a'],['c'],"550,000",0
+203,v1_203,['numerical'],"['diagram', 'ocr']",['c'],['c'],"151,200",1
+204,v1_204,['numerical'],"['diagram', 'ocr']",['b'],['a'],0.83:1,0
+205,v1_205,['numerical'],"['diagram', 'ocr']",['c'],['d'],"390,000",0
+206,v1_206,['numerical'],"['diagram', 'ocr']",['c'],['a'],64,0
+207,v1_207,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],4,0
+208,v1_208,['numerical'],"['diagram', 'ocr']",['b'],['d'],46%,0
+209,v1_209,['numerical'],"['diagram', 'ocr']",['c'],['b'],3:1,0
+210,v1_210,['numerical'],"['diagram', 'ocr']",['b'],['a'],501k,0
+211,v1_211,['numerical'],"['diagram', 'ocr']",['a'],['a'],45k,1
+212,v1_212,['numerical'],"['diagram', 'ocr']",['d'],['a'],464k,0
+213,v1_213,['numerical'],"['diagram', 'ocr']",['b'],['d'],8 2,0
+214,v1_214,['numerical'],"['diagram', 'ocr']",['a'],['d'],12%,0
+215,v1_215,['numerical'],"['diagram', 'ocr']",['c'],['b'],40%,0
+216,v1_216,['numerical'],"['diagram', 'ocr']",['c'],['c'],120.5cm,1
+217,v1_217,['numerical'],"['diagram', 'ocr']",['c'],['c'],60cm,1
+218,v1_218,['deductive'],['ocr'],['c'],['d'],​ (D) Some scholars are not music enthusiasts,0
+219,v1_219,['deductive'],['ocr'],['d'],['a'],​ (A) No sweet dogs are dogs with long hairs,0
+220,v1_220,['deductive'],['ocr'],['d'],['d'],(D) Some phenomenae are phenomeni,1
+221,v1_221,['deductive'],['ocr'],['c'],['c'],(C) Some expences are not incomes,1
+222,v1_222,['deductive'],['ocr'],['b'],['a'],​(A) Some arrogant ***holes are people from LA,0
+223,v1_223,['deductive'],['ocr'],['b'],"['a', 'b', 'c', 'd']",​ (A) All pies are cakes  (B) None of the other answers is correct (C) Some pies are pastries (D) All pastries are cakes,0
+224,v1_224,['deductive'],['ocr'],['d'],['zzzzz'],1,0
+225,v1_225,['deductive'],['ocr'],['b'],['c'],​ (C) Some koliwites are kilowites,0
+226,v1_226,['deductive'],['ocr'],['d'],['a'],​(A) All leaves are trees,0
+227,v1_227,['deductive'],['ocr'],['d'],['d'],(D) Some malicious are not viruses,1
+228,v1_228,['deductive'],['ocr'],['d'],['1'],1,0
+229,v1_229,['deductive'],['ocr'],['d'],['d'],(D) No rational beings are animals,1
+230,v1_230,['deductive'],['ocr'],['d'],['a'],(A) Some people who can handle critisism are not men,0
+231,v1_231,['deductive'],['ocr'],['c'],['a'],​ (A) Some dolphins are whales,0
+232,v1_232,['deductive'],['ocr'],['c'],['zzzzz'],1,0
+233,v1_233,['deductive'],['ocr'],['d'],['a'],​ (A) All curious monkeys are pot viewers,0
+234,v1_234,['deductive'],['ocr'],['b'],['c'],​ (C) Some plastic bags are not hand bags,0
+235,v1_235,['deductive'],['ocr'],['b'],['c'],​ (C) Some annoying people are New Yorkers,0
+236,v1_236,['deductive'],['ocr'],['a'],['a'],✗ Some thieves are not robbers,1
+237,v1_237,['deductive'],['ocr'],['c'],['d'],​ (D) No sharks are investors,0
+238,v1_238,['deductive'],['ocr'],['d'],['d'],​ (D) Some inches are yards,1
+239,v1_239,['deductive'],['ocr'],['c'],['d'],​ (D) All ravens are crows,0
+240,v1_240,['deductive'],['ocr'],['d'],['b'],​ (B) Some annoying riddles are not happy tunes,0
+241,v1_241,['deductive'],['ocr'],['d'],['d'],(D) No brokers are lawyers,1
+242,v1_242,['deductive'],['ocr'],['d'],['d'],​ (D) All music enthusiasts are scholars,1
+243,v1_243,['deductive'],['ocr'],['a'],['a'],​ (A) Some craptonates are croptonates,1
+244,v1_244,['deductive'],['ocr'],['c'],['a'],(A) Maggie,0
+245,v1_245,['deductive'],['ocr'],['a'],['d'],​(D) You Will find a painting you can afford if you keep looking,0
+246,v1_246,['deductive'],['ocr'],['c'],['a'],​(A) There are 4 rooms in the school,0
+247,v1_247,['numerical'],"['diagram', 'ocr']",['c'],['d'],56%,0
+248,v1_248,['numerical'],"['diagram', 'ocr']",['b'],['d'],69%,0
+249,v1_249,['numerical'],"['diagram', 'ocr']",['a'],['a'],1:3.25,1
+250,v1_250,['numerical'],"['diagram', 'ocr']",['a'],['d'],18,0
+251,v1_251,['numerical'],['diagram'],['d'],['a'],210,0
+252,v1_252,['numerical'],['diagram'],['a'],['d'],09:10 coach departure,0
+253,v1_253,['numerical'],['diagram'],['b'],['c'],60mph,0
+254,v1_254,['numerical'],['diagram'],['a'],['b'],49.59,0
+255,v1_255,['numerical'],"['diagram', 'ocr']",['a'],['d'],35 000,0
+256,v1_256,['numerical'],"['diagram', 'ocr']",['a'],['d'],75%,0
+257,v1_257,['numerical'],"['diagram', 'ocr']",['c'],['a'],8333,0
+258,v1_258,['numerical'],"['diagram', 'ocr']",['d'],['c'],25%,0
+259,v1_259,['numerical'],['diagram'],['a'],['c'],56.61,0
+260,v1_260,['numerical'],['diagram'],['a'],['d'],"2,400 mins, 1,500 texts",0
+261,v1_261,['numerical'],['diagram'],['a'],['b'],36.48,0
+262,v1_262,['numerical'],['diagram'],['c'],['a'],505.60,0
+263,v1_263,['numerical'],"['diagram', 'ocr']",['a'],['c'],1248000,0
+264,v1_264,['numerical'],"['diagram', 'ocr']",['d'],['a'],"1,095,120",0
+265,v1_265,['numerical'],"['diagram', 'ocr']",['b'],['d'],38 33,0
+266,v1_266,['numerical'],"['diagram', 'ocr']",['b'],['b'],80 33,1
+267,v1_267,['inductive'],['diagram'],['b'],['zzzzz'],ಠ\_ಠ,0
+268,v1_268,['inductive'],['diagram'],['a'],['zzzzz'],5,0
+269,v1_269,['inductive'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+270,v1_270,['inductive'],['diagram'],['c'],['zzzzz'],ಠ\_ಠ,0
+271,v1_271,['inductive'],['diagram'],['e'],['zzzzz'],ಠ\_ಠ,0
+272,v1_272,['inductive'],['diagram'],['c'],['zzzzz'],2,0
+273,v1_273,['inductive'],['diagram'],['e'],['e'], (E) E,1
+274,v1_274,['inductive'],['diagram'],['a'],['e'], (E) E,0
+275,v1_275,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+276,v1_276,['inductive'],['diagram'],['e'],['zzzzz'],3,0
+277,v1_277,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+278,v1_278,['inductive'],['diagram'],['d'],['zzzzz'],ಠ\_ಠ,0
+279,v1_279,['inductive'],['diagram'],['b'],['zzzzz'],ಠ\_ಠ,0
+280,v1_280,['inductive'],['diagram'],['a'],['zzzzz'],3,0
+281,v1_281,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+282,v1_282,['inductive'],['diagram'],['c'],['zzzzz'],ಠ\_ಠ,0
+283,v1_283,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+284,v1_284,['inductive'],['diagram'],['c'],['zzzzz'],3,0
+285,v1_285,['inductive'],['diagram'],['b'],['zzzzz'],3,0
+286,v1_286,['inductive'],['diagram'],['d'],['zzzzz'],3,0
+287,v1_287,['deductive'],['ocr'],['a'],['zzzzz'],150,0
+288,v1_288,['deductive'],['ocr'],['b'],['zzzzz'],15,0
+289,v1_289,['deductive'],['ocr'],['a'],['zzzzz'],15,0
+290,v1_290,['deductive'],['ocr'],['b'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+291,v1_291,['deductive'],['ocr'],['c'],['zzzzz'],2,0
+292,v1_292,['deductive'],['ocr'],['b'],['a'],1) Ferret,0
+293,v1_293,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+294,v1_294,['deductive'],['ocr'],['b'],['zzzzz'],10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+295,v1_295,['deductive'],['ocr'],['a'],['a'],​ (A) True,1
+296,v1_296,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+297,v1_297,['deductive'],['ocr'],['c'],['z'],1,0
+298,v1_298,['deductive'],['ocr'],['e'],['1'],1,0
+299,v1_299,['deductive'],['ocr'],['a'],['a'],"5m² of Wood will cost £1,350 overall",1
+300,v1_300,['deductive'],['ocr'],['a'],['a'],10m² of Glass will require at least 20m² of Brick and 10m² of Metal,1
+301,v1_301,['deductive'],['ocr'],['c'],['c'],100% (C)Insufficient Information,1
+302,v1_302,['deductive'],['ocr'],['b'],['a'],​ (A) True,0
+303,v1_303,['deductive'],['ocr'],['e'],['e'],✗ Echo,1
+304,v1_304,['deductive'],['ocr'],['d'],['b'],100000,0
+305,v1_305,['deductive'],['ocr'],['a'],['a'],（A) True,1
+306,v1_306,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+307,v1_307,['deductive'],['ocr'],['b'],['a'],​(A) True,0
+308,v1_308,['deductive'],['ocr'],['a'],['zzzzz'],ಠ\_ಠ,0
+309,v1_309,['deductive'],['ocr'],['a'],['a'],（A) True,1
+310,v1_310,['deductive'],['ocr'],['b'],['zzzzz'],ಠ\_ಠ,0
+311,v1_311,['deductive'],['ocr'],['c'],['a'],"46-hour working week, Andrea produces £552 more than Sophie",0
+312,v1_312,['deductive'],['ocr'],['c'],['a'],❑ (A) True,0
+313,v1_313,['deductive'],['ocr'],['c'],['a'],2,0
+314,v1_314,['deductive'],['ocr'],['d'],['zzzzz'],1,0
+315,v1_315,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+316,v1_316,['deductive'],['ocr'],['b'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+317,v1_317,['deductive'],['ocr'],['b'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+318,v1_318,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+319,v1_319,['deductive'],['ocr'],['a'],['zzzzz'],1,0
+320,v1_320,['deductive'],['ocr'],['e'],['zzzzz'],1,0
+321,v1_321,['deductive'],['ocr'],['b'],['zzzzz'],1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+322,v1_322,['deductive'],['ocr'],['a'],['zzzzz'],10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+323,v1_323,['deductive'],['ocr'],['c'],['a'],（A) True,0
+324,v1_324,['deductive'],['ocr'],['c'],['a'],（A) True,0
+325,v1_325,['deductive'],['ocr'],['a'],['d'],4,0
+326,v1_326,['deductive'],['ocr'],['e'],['b'],100,0
+327,v1_327,['deductive'],['ocr'],['a'],['a'],​(A) True,1
+328,v1_328,['deductive'],['ocr'],['c'],['zzzzz'],100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0
+329,v1_329,['deductive'],['ocr'],['b'],['a'],​(A) True,0
+330,v1_330,['deductive'],['ocr'],['c'],['a'],​(A) True,0
+331,v1_331,['numerical'],"['diagram', 'ocr']",['d'],['a'],0.9,0
+332,v1_332,['numerical'],"['diagram', 'ocr']",['e'],['e'],0.09,1
+333,v1_333,['numerical'],"['diagram', 'ocr']",['a'],"['a', 'd']",2006,0
+334,v1_334,['numerical'],"['diagram', 'ocr']",['d'],['a'],"47,500 decrease",0
+335,v1_335,['numerical'],"['diagram', 'ocr']",['c'],['a'],48.51 million,0
+336,v1_336,['numerical'],"['diagram', 'ocr']",['d'],['zzzzz'],0,0
+337,v1_337,['numerical'],"['diagram', 'ocr']",['a'],['c'],3 million,0
+338,v1_338,['numerical'],"['diagram', 'ocr']",['c'],['e'],"2,305,000",0
+339,v1_339,['numerical'],"['diagram', 'ocr']",['d'],['c'],2.11 million,0
+340,v1_340,['numerical'],"['diagram', 'ocr']",['b'],['c'],"2,528,000",0
+341,v1_341,['numerical'],"['diagram', 'ocr']",['a'],['a'],"25,620",1
+342,v1_342,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],1,0
+343,v1_343,['numerical'],"['diagram', 'ocr']",['c'],['a'],3690,0
+344,v1_344,['numerical'],"['diagram', 'ocr']",['b'],['c'],4870,0
+345,v1_345,['numerical'],"['diagram', 'ocr']",['d'],['e'],"1,856,000",0
+346,v1_346,['numerical'],"['diagram', 'ocr']",['c'],['a'],155,0
+347,v1_347,['numerical'],"['diagram', 'ocr']",['c'],['a'],16 425 000,0
+348,v1_348,['numerical'],"['diagram', 'ocr']",['b'],['zzzzz'],353,0
+349,v1_349,['numerical'],"['diagram', 'ocr']",['e'],['e'],125.6,1
+350,v1_350,['numerical'],"['diagram', 'ocr']",['e'],['a'],156.6 million,0
+351,v1_351,['numerical'],['ocr'],['a'],['e'],© Central region,0
+352,v1_352,['numerical'],['ocr'],['e'],['c'],218 million,0
+353,v1_353,['numerical'],['ocr'],['c'],['d'],942 million,0
+354,v1_354,['numerical'],['ocr'],['d'],['c'],10:30 (Previous Year); 5:11 (Current Year),0
+355,v1_355,['numerical'],['ocr'],['a'],['zzzzz'],100,0
+356,v1_356,['numerical'],"['diagram', 'ocr']",['d'],['a'],"2005, 2007",0
+357,v1_357,['numerical'],"['diagram', 'ocr']",['c'],['e'],"20,500",0
+358,v1_358,['numerical'],"['diagram', 'ocr']",['a'],['zzzzz'],1,0
+359,v1_359,['numerical'],"['diagram', 'ocr']",['a'],['a'],2008-2009,1
+360,v1_360,['numerical'],"['diagram', 'ocr']",['e'],['e'],"23,650 (France); £23,200 (UK)",1
+361,v1_361,['numerical'],"['diagram', 'ocr']",['b'],['a'],10,0
+362,v1_362,['numerical'],"['diagram', 'ocr']",['d'],['a'],21000,0
+363,v1_363,['numerical'],"['diagram', 'ocr']",['a'],['a'],1000,1
+364,v1_364,['numerical'],['ocr'],['c'],['c'],500 increase,1
+365,v1_365,['numerical'],['ocr'],['a'],['d'],32 100,0
+366,v1_366,['numerical'],['ocr'],['d'],['d'],(D) Leeds,1
+367,v1_367,['numerical'],['ocr'],['a'],['a'],(A) UK,1
+368,v1_368,['numerical'],['ocr'],['a'],['a'],(A) UK,1
+369,v1_369,['numerical'],['ocr'],['b'],['b'],1 BILLION,1
+370,v1_370,['numerical'],['ocr'],['d'],['zzzzz'],1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52,0
+371,v1_371,['numerical'],['ocr'],['a'],['a'],"1,212",1
+372,v1_372,['numerical'],['ocr'],['b'],['c'],25 0%,0
+373,v1_373,['spatial'],['diagram'],['a'],['zzzzz'],3d cube,0
+374,v1_374,['spatial'],['diagram'],['b'],['1'],1,0
+375,v1_375,['spatial'],['diagram'],['d'],['1'],1,0
+376,v1_376,['spatial'],['diagram'],['d'],['zzzzz'],4,0
+377,v1_377,['spatial'],['diagram'],['c'],['3'],3,0
+378,v1_378,['spatial'],['diagram'],['b'],['zzzzz'],4,0
+379,v1_379,['spatial'],['diagram'],['a'],['zzzzz'],4,0
+380,v1_380,['spatial'],['diagram'],['c'],['zzzzz'],4,0
+381,v1_381,['spatial'],['diagram'],['b'],['3'],3,0
+382,v1_382,['spatial'],['diagram'],[''],['zzzzz'],4,0
+383,v1_383,['spatial'],['diagram'],['b'],['zzzzz'],3d cube,0
+384,v1_384,['spatial'],['diagram'],['a'],['zzzzz'],3d cube,0
+385,v1_385,['spatial'],['diagram'],['d'],['3'],3,0
+386,v1_386,['spatial'],['diagram'],['c'],['4'],4,0
+387,v1_387,['spatial'],['diagram'],['a'],['1'],1,0
+388,v1_388,['spatial'],['diagram'],['a'],['zzzzz'],3d cube,0
+389,v1_389,['spatial'],['diagram'],['d'],['zzzzz'],4,0
+390,v1_390,['spatial'],['diagram'],['c'],['3'],3,0
+391,v1_391,['spatial'],['diagram'],['b'],['zzzzz'],3d cube,0
+392,v1_392,['spatial'],['diagram'],['a'],['zzzzz'],4,0
+393,v1_393,['spatial'],['diagram'],['d'],['zzzzz'],4,0
+394,v1_394,['spatial'],['diagram'],['b'],['zzzzz'],4,0
+395,v1_395,['spatial'],['diagram'],['b'],['3'],3,0
+396,v1_396,['spatial'],['diagram'],['b'],['1'],1,0
+397,v1_397,['spatial'],['diagram'],['d'],['3'],3,0
+398,v1_398,['spatial'],['diagram'],['b'],['zzzzz'],icosahedron,0
+399,v1_399,['spatial'],['diagram'],['a'],['zzzzz'],icosahedron,0
+400,v1_400,['spatial'],['diagram'],['c'],['3'],3,0
+401,v1_401,['spatial'],['diagram'],['a'],['3'],3,0
+402,v1_402,['spatial'],['diagram'],['a'],['2'],2,0
+403,v1_403,['spatial'],['diagram'],['b'],['3'],3,0
+404,v1_404,['spatial'],['diagram'],['d'],['4'],4,0
+405,v1_405,['spatial'],['diagram'],['c'],['3'],3,0
+406,v1_406,['spatial'],['diagram'],['b'],['2'],2,0
+407,v1_407,['spatial'],['diagram'],['d'],['3'],3,0
+408,v1_408,['spatial'],['diagram'],['d'],['3'],3,0
+409,v1_409,['spatial'],['diagram'],['c'],['3'],3,0
+410,v1_410,['spatial'],['diagram'],['b'],['3'],3,0
+411,v1_411,['spatial'],['diagram'],['a'],"['1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '3', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '4', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '5', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '6', '6', '60', '61', '62', '63', '64', '65', '7', '8', '9']",1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 6,0
+412,v1_412,['spatial'],['diagram'],['c'],['3'],3,0
+413,v1_413,['spatial'],['diagram'],['b'],['1'],1,0
+414,v1_414,['spatial'],['diagram'],['a'],['3'],3,0
+415,v1_415,['spatial'],['diagram'],['a'],['3'],3,0
+416,v1_416,['spatial'],['diagram'],['d'],['1'],1,0
+417,v1_417,['mechanical'],"['diagram', 'ocr']",['e'],['d'],400 RPM,0
+418,v1_418,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],1,0
+419,v1_419,['mechanical'],"['diagram', 'ocr']",['c'],['zzzzz'],10 mm,0
+420,v1_420,['mechanical'],"['diagram', 'ocr']",['b'],['b'],2) (B) B must be lighter than A,1
+421,v1_421,['mechanical'],['diagram'],['e'],['a'],（A) Use a short spanner and hold it at A,0
+422,v1_422,['mechanical'],['diagram'],['e'],['e'],12cm,1
+423,v1_423,['mechanical'],['diagram'],['d'],['d'],"​(D) B, D and F are turning anticlockwise",1
+424,v1_424,['mechanical'],['diagram'],['b'],['c'],120RPM,0
+425,v1_425,['mechanical'],['diagram'],['e'],['c'],20 RPM clockwise,0
+426,v1_426,['mechanical'],"['diagram', 'ocr']",['a'],['b'],30 mm clockwise,0
+427,v1_427,['mechanical'],['diagram'],['c'],['e'],© A rises and B drops,0
+428,v1_428,['mechanical'],"['diagram', 'ocr']",['d'],['zzzzz'],1,0
+429,v1_429,['mechanical'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+430,v1_430,['mechanical'],['diagram'],['d'],['a'],"A (A) A, (B) B, (C) C, (D) D, (E) All will have the same RPM",0
+431,v1_431,['mechanical'],"['diagram', 'ocr']",['d'],"['a', 'b', 'c', 'd', 'e']"," (A) A, (B) B, (C) C, (D) D, (E) There would be no difference",0
+432,v1_432,['mechanical'],"['diagram', 'ocr']",['a'],['a'],"A (A) A, (B) B, (C) C, (D) D, (E) Impossible to tell",1
+433,v1_433,['mechanical'],"['diagram', 'ocr']",['b'],['c'],​(C) Either anticlockwise or clockwise,0
+434,v1_434,['mechanical'],"['diagram', 'ocr']",['a'],['zzzzz'],10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 110 115 120 125 130 135 140 145 150 155 160 165 170 175 180 185 190 195 200 205 210 215 220 225,0
+435,v1_435,['mechanical'],['diagram'],['d'],['a'],2,0
+436,v1_436,['mechanical'],['diagram'],['c'],['zzzzz'],"A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w",0
+437,v1_437,['mechanical'],['diagram'],['c'],"['a', 'b', 'c', 'd']","1) A, (B) B, (C) C, (D) All would be equally stable",0
+438,v1_438,['mechanical'],['diagram'],['a'],['zzzzz'],ಠ\_ಠ,0
+439,v1_439,['mechanical'],['diagram'],['a'],['b'],"ಠ (B) B, (C) C, (D) All the same",0
+440,v1_440,['mechanical'],['diagram'],['c'],"['a', 'b', 'c', 'd']","​(A) A, (B) B, (C) C, (D) All require the same amount of effort",0
+441,v1_441,['mechanical'],['diagram'],['e'],"['b', 'c', 'd', 'zzzzz']","1) A and B, then C and D, 2) B and C, then A and D, 3) C and D, then A and B, 4) DBCA
+Based on the image, In which order will the scissors require the least force to cut a ware (rank from least force to most force)? 1) A and B, then C and D, 2) B and C, then A and D, 3) C and D, then A and B, 4) DBCA",0
+442,v1_442,['mechanical'],['diagram'],['d'],['b'],"6, (B) 6, (C) 3, (D) 1, (E) None",0
+443,v1_443,['mechanical'],['diagram'],['c'],['a'],"A (A) A, (B) B, (C) C, (D) D, (E) There would be no difference",0
+444,v1_444,['mechanical'],['diagram'],['a'],['a'],"A (A) A, (B) B, (C) C, (D) D, (E) All at the same time",1
+445,v1_445,['mechanical'],['diagram'],['e'],['b'],1. lower by 1.5 cubic metres of water,0
+446,v1_446,['mechanical'],"['diagram', 'ocr']",['e'],['zzzzz'],"1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,",0
+447,v1_447,['mechanical'],['diagram'],['d'],['zzzzz'],120,0
