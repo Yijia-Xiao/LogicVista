@@ -8,11 +8,20 @@ LogicVista aims to bridge the gap in understanding the proficiency of Multimodal
 ## Dataset Breakdown
 The LogicVista dataset is meticulously crafted to cover a wide range of logical reasoning abilities, with a total of 448 questions. The breakdown is as follows:
 
+![Dataset Breakdown](./assets/dataset.png)
+
 ### Total: 448 Questions
 
 ### Capabilities
 - **Diagram**: 330 questions
-- **OCR (Optical Character Recognition)**: 118 questions
+- **OCR (Optical Character Recognition)**: 234 questions
+- **Patterns**: 105 questions
+- **Graphs**: 67 questions
+- **Tables**: 70 questions
+- **3D Shapes**: 45 questions
+- **Puzzles**: 256 questions
+- **Sequences**: 76 questions
+- **Physics**: 69 questions
 
 ### Reasoning Skills
 - **Inductive Reasoning**: 107 questions

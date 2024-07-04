@@ -35,7 +35,6 @@ class Answer(BaseModel):
 
 # constants
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = constants.APIKEY_HF
 
 temperature = 0.2
 # output structure

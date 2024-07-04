@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
-python extract_accuracy_new.py
+python extract_accuracy.py
 python analyze_accuracy.py
