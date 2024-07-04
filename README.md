@@ -1,6 +1,6 @@
 # LogicVista: A Benchmark for Evaluating Multimodal Logical Reasoning
 
-![LogicVista](./assets/schema.png)
+![LogicVista](./assets/schema1.png)
 
 ## Overview
 LogicVista aims to bridge the gap in understanding the proficiency of Multimodal Large Language Models (MLLMs) in fundamental logical reasoning within visual contexts. It evaluates models across five logical reasoning tasks: spatial, deductive, inductive, numeric, and mechanical reasoning, leveraging a diverse dataset of 448 visual multiple-choice questions.
