@@ -3,7 +3,10 @@
 ![LogicVista](./assets/schema1.png)
 
 ## Overview
-LogicVista aims to bridge the gap in understanding the proficiency of Multimodal Large Language Models (MLLMs) in fundamental logical reasoning within visual contexts. It evaluates models across five logical reasoning tasks: spatial, deductive, inductive, numeric, and mechanical reasoning, leveraging a diverse dataset of 448 visual multiple-choice questions.
+LogicVista aims to bridge the gap in understanding the proficiency of Multimodal Large Language Models (MLLMs) in fundamental logical reasoning within visual contexts. It evaluates models across five logical reasoning tasks: spatial, deductive, inductive, numeric, and mechanical reasoning, leveraging a diverse dataset of 448 visual multiple-choice questions. Link to pre-print: [LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts](https://arxiv.org/abs/2407.04973).
+
+## Getting Started
+To get started with LogicVista, you can clone this repository and follow the instructions in the data and evaluation directories to explore the dataset and evaluate models.
 
 ## Dataset Breakdown
 The LogicVista dataset is meticulously crafted to cover a wide range of logical reasoning abilities, with a total of 448 questions. The breakdown is as follows:
@@ -44,10 +47,7 @@ We provide a robust evaluation framework to assess MLLMs using LogicVista. This 
 - **Contents**: Scripts for running evaluations and analyzing results, along with model answer sheets and a directory for results.
 - **More Details**: For instructions on conducting evaluations, refer to the [Evaluation README](eval/README.md).
 
-## Getting Started
-To get started with LogicVista, clone this repository and follow the instructions in the data and evaluation directories to explore the dataset and evaluate models.
-
-## Cite LogicVista
+## Cite [LogicVista](https://arxiv.org/abs/2407.04973)
 
 If you find the work helpful, please kindly consider citing **LogicVista**:
 
