@@ -47,6 +47,22 @@ We provide a robust evaluation framework to assess MLLMs using LogicVista. This 
 ## Getting Started
 To get started with LogicVista, clone this repository and follow the instructions in the data and evaluation directories to explore the dataset and evaluate models.
 
+## Cite LogicVista
+
+If you find the work helpful, please kindly consider citing **LogicVista**:
+
+```latex
+@misc{xiao2024logicvistamultimodalllmlogical,
+      title={LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts}, 
+      author={Yijia Xiao and Edward Sun and Tianyu Liu and Wei Wang},
+      year={2024},
+      eprint={2407.04973},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2407.04973}, 
+}
+```
+
 ## Contribution
 We welcome contributions from the community, including improvements to the dataset, evaluation scripts, and methodology. Please see our contribution guidelines for more information.
 
