@@ -1,5 +1,5 @@
 # LogicVista: A Benchmark for Evaluating Multimodal Logical Reasoning
-
+[Project Page](https://logicvista.github.io/).
 ![LogicVista](./assets/schema1.png)
 
 ## Overview
