@@ -4577,7 +4577,7 @@
         "answer": "A",
         "reasoning": " The correct answer is A. Step 1 \u2013 Calculate the journey times for the train departures with wireless (marked with a * in the timetable)      07:50: 2 hours 15 mins  09:00: 2 hours 25 mins     10:05: 2 hours 40 mins   Step 2 - Calculate the journey times for the coach departures that arrive in Manchester before 13:00  06:30: 3 hours 15 mins 08:00: 3 hours 15 mins  09:10: 3 hours 20 mins 09:30: 3 hours 20 mins   Step 3     Single ticket on 07:50 train = 65.00      Thus the correct answer is, 65.00",
         "skill": [
-            "numerical",
+            "numerical"
         ],
         "broad_capability": [
             "ocr"
@@ -6744,7 +6744,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6762,7 +6762,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6942,7 +6942,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6960,7 +6960,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6978,7 +6978,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7410,7 +7410,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7428,7 +7428,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7446,7 +7446,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7464,7 +7464,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "assemble"
+            "pattern rotate"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
