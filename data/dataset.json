@@ -11,7 +11,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -29,7 +29,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -47,7 +47,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -65,7 +65,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -83,7 +83,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -101,7 +101,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -119,7 +119,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/free-logical-reasoning-test-questions-and-answers/",
@@ -137,7 +137,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/free-logical-reasoning-test-questions-and-answers/",
@@ -155,7 +155,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/free-logical-reasoning-test-questions-and-answers/",
@@ -173,7 +173,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -191,7 +191,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -209,7 +209,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -227,7 +227,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -245,7 +245,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -263,7 +263,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern rotate"
+           "rotation pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -281,7 +281,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -299,7 +299,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -317,7 +317,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -335,7 +335,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/logical-reasoning-tests/1",
@@ -353,7 +353,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/logical-reasoning-tests/",
@@ -371,7 +371,7 @@
             "ocr"
         ],
         "specific_capability": [
-           "ocr everyday"
+           "common sense ocr"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/logical-reasoning-tests/",
@@ -389,7 +389,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/logical-reasoning-tests/",
@@ -407,7 +407,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern sequence"
+           "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/logical-reasoning-tests/",
@@ -425,7 +425,7 @@
             "ocr"
         ],
         "specific_capability": [
-           "ocr everyday"
+           "common sense ocr"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -443,7 +443,7 @@
             "ocr"
         ],
         "specific_capability": [
-           "ocr everyday"
+           "common sense ocr"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -461,7 +461,7 @@
             "ocr"
         ],
         "specific_capability": [
-           "ocr everyday"
+           "common sense ocr"
         ],
         "imagesource": "aptitudetests",
         "sourcelink": "https://www.aptitudetests.org/logical-reasoning-test/",
@@ -479,7 +479,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern rotate"
+           "rotation pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -497,7 +497,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -515,7 +515,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -533,7 +533,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern rotate"
+           "rotation pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -551,7 +551,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern rotate"
+           "rotation pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -569,7 +569,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -587,7 +587,7 @@
             "diagram"
         ],
         "specific_capability": [
-           "pattern rotate"
+           "rotation pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -605,7 +605,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -623,7 +623,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -641,7 +641,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -659,7 +659,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -677,7 +677,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -695,7 +695,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -713,7 +713,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -731,7 +731,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "testpartnership",
         "sourcelink": "https://www.testpartnership.com/free/inductive/1/",
@@ -749,7 +749,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -767,7 +767,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -785,7 +785,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -803,7 +803,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -821,7 +821,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -839,7 +839,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -857,7 +857,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -875,7 +875,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -893,7 +893,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -911,7 +911,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -929,7 +929,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/deductive-reasoning.htm",
@@ -947,7 +947,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -965,7 +965,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ], 
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -983,7 +983,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],    
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1001,7 +1001,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1019,7 +1019,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1037,7 +1037,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1055,7 +1055,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1073,7 +1073,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],  
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1091,7 +1091,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1109,7 +1109,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1127,7 +1127,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1145,7 +1145,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1163,7 +1163,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1181,7 +1181,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1199,7 +1199,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1217,7 +1217,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1235,7 +1235,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/numerical-reasoning.htm",
@@ -1253,7 +1253,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1271,7 +1271,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1289,7 +1289,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1307,7 +1307,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1325,7 +1325,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1343,7 +1343,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1361,7 +1361,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1379,7 +1379,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1397,7 +1397,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1415,7 +1415,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1433,7 +1433,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1451,7 +1451,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/spatial-reasoning.htm#sample-spatial-reasoning-tests-free",
@@ -1469,7 +1469,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1487,7 +1487,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1505,7 +1505,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1523,7 +1523,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1541,7 +1541,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1559,7 +1559,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1577,7 +1577,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1595,7 +1595,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1613,7 +1613,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1631,7 +1631,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1649,7 +1649,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1667,7 +1667,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1685,7 +1685,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1703,7 +1703,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1721,7 +1721,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1739,7 +1739,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1757,7 +1757,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1775,7 +1775,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1793,7 +1793,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1811,7 +1811,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1829,7 +1829,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1847,7 +1847,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1865,7 +1865,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1883,7 +1883,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1901,7 +1901,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1919,7 +1919,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1937,7 +1937,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1955,7 +1955,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1973,7 +1973,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -1991,7 +1991,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2009,7 +2009,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2027,7 +2027,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2045,7 +2045,7 @@
           "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2063,7 +2063,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2081,7 +2081,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2099,7 +2099,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2117,7 +2117,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2135,7 +2135,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2153,7 +2153,7 @@
           "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2171,7 +2171,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2189,7 +2189,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2207,7 +2207,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2225,7 +2225,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2243,7 +2243,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2261,7 +2261,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2279,7 +2279,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2297,7 +2297,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2315,7 +2315,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2333,7 +2333,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2351,7 +2351,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "pattern rule following"
+            "rule based pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/diagrammatic-reasoning.htm",
@@ -2369,7 +2369,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2379,7 +2379,7 @@
         "imagename": "v1_132.png",
         "question": "There are two identical cars along a bridge. If the bridge has the same thickness along it, which part(s) of the bridge would undergo the most deflection?  Select from A, B, C, D, and E. (A) Under the towers (B) Below the cars (C) Middle of the bridge (D) All of the above will have equal deflection (E) Impossible to tell",
         "answer": "C",
-        "reasoning": "The middle of the bridge would undergo the most deflection because it is furthest away from the towers and pillars supporting the bridge. Imagine a piece of string held at either end over a gap between two tables. The point right in the middle would droop the most.",
+        "reasoning": "The middle of the bridge would undergo the most deflection because it is furthest away from the towers and pillars supporting the bridge. Imagine a piece of string held at either end over a gap between two table. The point right in the middle would droop the most.",
         "skill": [
             "mechanical"
         ],
@@ -2387,7 +2387,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2405,7 +2405,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2423,7 +2423,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2441,7 +2441,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2459,7 +2459,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2477,7 +2477,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2495,7 +2495,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2513,7 +2513,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2531,7 +2531,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -2549,7 +2549,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2567,7 +2567,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2585,7 +2585,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2603,7 +2603,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2621,7 +2621,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2639,7 +2639,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2657,7 +2657,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2675,7 +2675,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "123test",
         "sourcelink": "https://www.123test.com/mechanical-reasoning-test/",
@@ -2693,7 +2693,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2711,7 +2711,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2729,7 +2729,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2747,7 +2747,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2765,7 +2765,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2783,7 +2783,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2801,7 +2801,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2819,7 +2819,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2837,7 +2837,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2855,7 +2855,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2873,7 +2873,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2891,7 +2891,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2909,7 +2909,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2927,7 +2927,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2945,7 +2945,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.com/free-mechanical-aptitude-test",
@@ -2963,7 +2963,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -2981,7 +2981,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -2999,7 +2999,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3017,7 +3017,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3035,7 +3035,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3053,7 +3053,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3071,7 +3071,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3089,7 +3089,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3107,7 +3107,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3125,7 +3125,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "wikijob",
         "sourcelink": "https://www.wikijob.co.uk/aptitude-tests/test-types/mechanical-comprehension-test/practice-test",
@@ -3143,7 +3143,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3161,7 +3161,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3179,7 +3179,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3197,7 +3197,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3215,7 +3215,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3233,7 +3233,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3251,7 +3251,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3269,7 +3269,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "aptitude",
         "sourcelink": "https://www.aptitude-test.com/mechanical-aptitude.html",
@@ -3287,7 +3287,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3305,7 +3305,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3323,7 +3323,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3341,7 +3341,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3359,7 +3359,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3377,7 +3377,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3395,7 +3395,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3413,7 +3413,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3431,7 +3431,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3449,7 +3449,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "jobtestprep",
         "sourcelink": "https://www.jobtestprep.co.uk/spatial-reasoning-practice-test",
@@ -3467,7 +3467,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3485,7 +3485,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3503,7 +3503,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3521,7 +3521,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3539,7 +3539,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3557,7 +3557,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3575,7 +3575,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3593,7 +3593,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3611,7 +3611,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3629,7 +3629,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/spatial-reasoning-tests/1",
@@ -3647,7 +3647,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3665,7 +3665,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3683,7 +3683,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3701,7 +3701,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3719,7 +3719,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3737,7 +3737,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3755,7 +3755,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3773,7 +3773,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3791,7 +3791,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3809,7 +3809,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3827,7 +3827,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3845,7 +3845,7 @@
           "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3863,7 +3863,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3881,7 +3881,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3899,7 +3899,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3917,7 +3917,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/numerical-reasoning-tests/1",
@@ -3935,7 +3935,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -3953,7 +3953,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -3971,7 +3971,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourceli,nk": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -3989,7 +3989,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4007,7 +4007,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4025,7 +4025,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4043,7 +4043,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4061,7 +4061,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4079,7 +4079,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4097,7 +4097,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4115,7 +4115,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4133,7 +4133,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4151,7 +4151,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4169,7 +4169,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4187,7 +4187,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4205,7 +4205,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4223,7 +4223,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4241,7 +4241,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4259,7 +4259,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4277,7 +4277,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4295,7 +4295,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4313,7 +4313,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4331,7 +4331,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4349,7 +4349,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4367,7 +4367,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4385,7 +4385,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assess.ly",
         "sourcelink": "https://assess.ly/en/deductive-reasoning-practice/",
@@ -4403,7 +4403,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/deductive-reasoning",
@@ -4421,7 +4421,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/deductive-reasoning",
@@ -4439,7 +4439,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/deductive-reasoning",
@@ -4457,7 +4457,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4475,7 +4475,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4493,7 +4493,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4511,7 +4511,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4529,7 +4529,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4547,7 +4547,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4565,7 +4565,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4583,7 +4583,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4601,7 +4601,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4619,7 +4619,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4637,7 +4637,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4655,7 +4655,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4673,7 +4673,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4691,7 +4691,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4709,7 +4709,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4727,7 +4727,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4745,7 +4745,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4763,7 +4763,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4781,7 +4781,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4799,7 +4799,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/dashboard/programmes/numerical-reasoning-tests",
@@ -4817,7 +4817,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4835,7 +4835,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4853,7 +4853,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4871,7 +4871,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4889,7 +4889,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4907,7 +4907,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4925,7 +4925,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4943,7 +4943,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4961,7 +4961,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4979,7 +4979,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/2",
@@ -4997,7 +4997,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5015,7 +5015,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5033,7 +5033,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5051,7 +5051,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5069,7 +5069,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5087,7 +5087,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5105,7 +5105,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5123,7 +5123,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5141,7 +5141,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern sequence"
+            "sequence pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5159,7 +5159,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "practiceaptitudetests",
         "sourcelink": "https://www.practiceaptitudetests.com/test/inductive-reasoning-tests/3",
@@ -5177,7 +5177,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         
@@ -5196,7 +5196,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5214,7 +5214,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5232,7 +5232,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5250,7 +5250,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5268,7 +5268,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5286,7 +5286,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5304,7 +5304,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5322,7 +5322,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5340,7 +5340,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5358,7 +5358,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5376,7 +5376,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5394,7 +5394,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5412,7 +5412,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5430,7 +5430,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5448,7 +5448,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5466,7 +5466,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5484,7 +5484,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5502,7 +5502,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5520,7 +5520,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5538,7 +5538,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5556,7 +5556,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5574,7 +5574,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5592,7 +5592,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5610,7 +5610,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5628,7 +5628,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5646,7 +5646,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5664,7 +5664,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5682,7 +5682,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5700,7 +5700,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5718,7 +5718,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5736,7 +5736,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5754,7 +5754,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5772,7 +5772,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5790,7 +5790,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5808,7 +5808,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5826,7 +5826,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5844,7 +5844,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr everyday"
+            "common sense ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5862,7 +5862,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5880,7 +5880,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5898,7 +5898,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5916,7 +5916,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5934,7 +5934,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5952,7 +5952,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "ocr nonroutine"
+            "complex ocr"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5970,7 +5970,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -5988,7 +5988,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6006,7 +6006,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6024,7 +6024,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6042,7 +6042,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6060,7 +6060,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6078,7 +6078,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6096,7 +6096,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6114,7 +6114,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6132,7 +6132,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6150,7 +6150,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6168,7 +6168,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6186,7 +6186,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6204,7 +6204,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6222,7 +6222,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6240,7 +6240,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6258,7 +6258,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6276,7 +6276,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6294,7 +6294,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6312,7 +6312,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6330,7 +6330,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6348,7 +6348,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6366,7 +6366,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6384,7 +6384,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6402,7 +6402,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6420,7 +6420,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6438,7 +6438,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6456,7 +6456,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6474,7 +6474,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6492,7 +6492,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "table and chart"
+            "infographic"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6510,7 +6510,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6528,7 +6528,7 @@
             "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6546,7 +6546,7 @@
            "diagram and ocr"
         ],
         "specific_capability": [
-            "chart only"
+            "chart"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6564,7 +6564,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6582,7 +6582,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6600,7 +6600,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6618,7 +6618,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6636,7 +6636,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6654,7 +6654,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6672,7 +6672,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6690,7 +6690,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6708,7 +6708,7 @@
             "ocr"
         ],
         "specific_capability": [
-            "table only"
+            "table"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://member.assessmentday.com/member/member-area#/",
@@ -6726,7 +6726,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6744,7 +6744,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6762,7 +6762,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6780,7 +6780,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6798,7 +6798,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6816,7 +6816,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6834,7 +6834,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6852,7 +6852,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6870,7 +6870,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6888,7 +6888,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6906,7 +6906,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6924,7 +6924,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6942,7 +6942,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6960,7 +6960,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6978,7 +6978,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -6996,7 +6996,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7014,7 +7014,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7032,7 +7032,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7050,7 +7050,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7068,7 +7068,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7086,7 +7086,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7104,7 +7104,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7122,7 +7122,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7140,7 +7140,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7158,7 +7158,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7176,7 +7176,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7194,7 +7194,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7212,7 +7212,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7230,7 +7230,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7248,7 +7248,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7266,7 +7266,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7284,7 +7284,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7302,7 +7302,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7320,7 +7320,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7338,7 +7338,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7356,7 +7356,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7374,7 +7374,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7392,7 +7392,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7410,7 +7410,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7428,7 +7428,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7446,7 +7446,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7464,7 +7464,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern rotate"
+            "rotation pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7482,7 +7482,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7500,7 +7500,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "pattern 3d"
+            "3d pattern"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/buy/spatial-reasoning.htm",
@@ -7518,7 +7518,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7536,7 +7536,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7554,7 +7554,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7572,7 +7572,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7590,7 +7590,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7608,7 +7608,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7626,7 +7626,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7644,7 +7644,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7662,7 +7662,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7680,7 +7680,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7698,7 +7698,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7716,7 +7716,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7734,7 +7734,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
          "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7752,7 +7752,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7770,7 +7770,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7788,7 +7788,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7806,7 +7806,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7824,7 +7824,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7842,7 +7842,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7860,7 +7860,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7878,7 +7878,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7896,7 +7896,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7914,7 +7914,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7932,7 +7932,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7950,7 +7950,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "everyday mechanics"
+            "common sense mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7968,7 +7968,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -7986,7 +7986,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -8004,7 +8004,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -8022,7 +8022,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -8040,7 +8040,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
@@ -8058,7 +8058,7 @@
             "diagram"
         ],
         "specific_capability": [
-            "mechanical system"
+            "advanced mechanical"
         ],
         "imagesource": "assessmentday",
         "sourcelink": "https://www.assessmentday.com/mechanical-reasoning.htm",
